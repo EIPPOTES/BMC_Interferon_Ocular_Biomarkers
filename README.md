@@ -95,3 +95,59 @@ For questions about methodological aspects of this code package, please refer to
 **Date**: 2026-03-01  
 **Scientific Status**: Methodologically validated, domain application ready  
 **Transparency**: Limitations clearly documented
+
+## Negative Result Analysis Module
+
+### Purpose
+Specialized analysis for small-sample ophthalmic studies where no statistically significant genes are found. This module provides scientific rigor and transparency for negative results.
+
+### Key Features
+1. **Small-sample optimized differential expression analysis**
+2. **Statistical power assessment and sample size recommendations**
+3. **Exploratory trend identification** (genes with p<0.2, FC>1.5)
+4. **Sample heterogeneity analysis**
+5. **Comprehensive reporting** (JSON + executive summary)
+
+### Usage Example
+```python
+from src.negative_result_analysis import NegativeResultAnalyzer
+
+# Initialize analyzer
+analyzer = NegativeResultAnalyzer(output_dir="results/negative_analysis")
+
+# Run analysis
+results = analyzer.analyze(
+    expression_df,  # Your expression matrix
+    sample_df,      # Your sample information
+    condition_name="your_study"
+)
+
+# Results include:
+# - Differential expression statistics
+# - Statistical power assessment
+# - Exploratory trend genes
+# - Sample heterogeneity analysis
+# - Comprehensive reports
+```
+
+### Scientific Value
+- **Transparency**: Complete documentation of negative findings
+- **Rigor**: Appropriate statistical methods for small samples
+- **Guidance**: Sample size recommendations for future studies
+- **Reproducibility**: Standardized workflow and reporting
+
+### For Clinical Researchers
+This module helps:
+- **Interpret negative results** scientifically
+- **Design better studies** based on power analysis
+- **Avoid publication bias** by properly documenting negative findings
+- **Connect bioinformatics** with clinical practice
+
+### Files
+- `src/negative_result_analysis.py` - Main analysis module
+- `examples/negative_analysis_example.py` - Usage example
+- Generated reports in `results/negative_analysis/`
+
+---
+**Enhanced Version**: 1.1.0 (with negative result analysis)  
+**Scientific Status**: Complete framework for both positive and negative findings
