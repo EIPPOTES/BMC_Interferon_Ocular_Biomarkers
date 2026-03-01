@@ -6,5 +6,27 @@
     "errors": 0,
     "warnings": 0
   },
-  "validation_date": "2026-03-01"
+  "validation_strategy": {
+    "tier_1": {
+      "name": "Technical Validation",
+      "purpose": "Method verification with simulated data",
+      "status": "complete",
+      "checks_passed": 46
+    },
+    "tier_2": {
+      "name": "Mechanistic Validation",
+      "purpose": "Interferon response detection",
+      "status": "limited",
+      "reason": "Directly relevant datasets scarce"
+    },
+    "tier_3": {
+      "name": "Domain Validation",
+      "purpose": "Ophthalmology-specific validation",
+      "status": "planned",
+      "note": "Framework supports domain data input"
+    }
+  },
+  "transparency_note": "Initial validation used non-ophthalmology datasets. Corrected to clarify validation strategy and limitations.",
+  "validation_date": "2026-03-01",
+  "version": "1.0.0_corrected"
 }

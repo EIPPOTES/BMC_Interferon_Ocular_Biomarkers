@@ -1,0 +1,9 @@
+{
+  "analysis": {
+    "differential_expression": {
+      "method": "ttest",
+      "pval_threshold": 0.05,
+      "fc_threshold": 1.5
+    }
+  }
+}
