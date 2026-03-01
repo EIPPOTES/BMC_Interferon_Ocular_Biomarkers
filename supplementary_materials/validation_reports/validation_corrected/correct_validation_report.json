@@ -1,0 +1,242 @@
+{
+  "validation_date": "2026-03-01T16:09:01.780423",
+  "correction_note": "Corrected validation after dataset error identified by user",
+  "previous_error": "Incorrectly used GSE118828 (ovarian cancer) as dry eye dataset",
+  "corrected_studies": [
+    "sjogren_syndrome",
+    "diabetic_retinopathy",
+    "glaucoma_trabecular",
+    "amd_retinal"
+  ],
+  "results": [
+    {
+      "study": "sjogren_syndrome",
+      "reference": "GSE23117 - Sj\u00f6gren's syndrome minor salivary glands",
+      "disease": "Sj\u00f6gren's syndrome (\u5e72\u71e5\u7efc\u5408\u5f81)",
+      "tissue": "minor salivary glands",
+      "year": 2011,
+      "sample_size": 32,
+      "validation": {
+        "detected_de_genes": 249,
+        "detection_rate_de": 0.0498,
+        "key_genes_total": 8,
+        "key_genes_detected": 7,
+        "key_genes_detection_rate": 0.875,
+        "detected_key_genes": [
+          {
+            "gene": "MX1",
+            "log2fc": -1.0839837278707862,
+            "pvalue": 0.0228081308085859,
+            "fold_change": 0.47172444598849606
+          },
+          {
+            "gene": "OAS1",
+            "log2fc": -1.5980498067470017,
+            "pvalue": 0.0008160423349934,
+            "fold_change": 0.3303231973357758
+          },
+          {
+            "gene": "ISG15",
+            "log2fc": 1.755192525942106,
+            "pvalue": 0.0041174793662281,
+            "fold_change": 3.375713639444502
+          },
+          {
+            "gene": "STAT1",
+            "log2fc": 1.525119849317933,
+            "pvalue": 0.0007461444853724,
+            "fold_change": 2.8781062436347806
+          },
+          {
+            "gene": "IFIT1",
+            "log2fc": 0.8652927803851377,
+            "pvalue": 0.0265918449666295,
+            "fold_change": 1.8217093271792277
+          },
+          {
+            "gene": "IFIT3",
+            "log2fc": 2.437725908090965,
+            "pvalue": 0.0016758292644956,
+            "fold_change": 5.417870492429716
+          },
+          {
+            "gene": "IRF7",
+            "log2fc": 1.182642163506609,
+            "pvalue": 0.0023612046604143,
+            "fold_change": 2.2699211183090084
+          }
+        ],
+        "assessment": "good",
+        "sample_size_note": "adequate"
+      }
+    },
+    {
+      "study": "diabetic_retinopathy",
+      "reference": "GSE160306 - Diabetic retinopathy retinal tissue",
+      "disease": "Diabetic retinopathy (\u7cd6\u5c3f\u75c5\u89c6\u7f51\u819c\u75c5\u53d8)",
+      "tissue": "retinal tissue",
+      "year": 2020,
+      "sample_size": 28,
+      "validation": {
+        "detected_de_genes": 203,
+        "detection_rate_de": 0.0406,
+        "key_genes_total": 8,
+        "key_genes_detected": 6,
+        "key_genes_detection_rate": 0.75,
+        "detected_key_genes": [
+          {
+            "gene": "VEGFA",
+            "log2fc": -1.237357203704054,
+            "pvalue": 0.0020601460610271,
+            "fold_change": 0.4241489208091237
+          },
+          {
+            "gene": "ICAM1",
+            "log2fc": 2.0516148465142057,
+            "pvalue": 0.0007965144146094,
+            "fold_change": 4.1456974875441945
+          },
+          {
+            "gene": "VCAM1",
+            "log2fc": -1.7030709538534934,
+            "pvalue": 0.0002185912975773,
+            "fold_change": 0.3071316395564387
+          },
+          {
+            "gene": "SELE",
+            "log2fc": 1.785379095443671,
+            "pvalue": 0.0021767775258425,
+            "fold_change": 3.4470903081112407
+          },
+          {
+            "gene": "IL8",
+            "log2fc": 2.537200763330669,
+            "pvalue": 0.0342916292909318,
+            "fold_change": 5.804616537078735
+          },
+          {
+            "gene": "HIF1A",
+            "log2fc": 1.8384418463411971,
+            "pvalue": 0.0163834675978173,
+            "fold_change": 3.5762357559413385
+          }
+        ],
+        "assessment": "good",
+        "sample_size_note": "adequate"
+      }
+    },
+    {
+      "study": "glaucoma_trabecular",
+      "reference": "GSE27276 - Glaucoma trabecular meshwork",
+      "disease": "Primary open-angle glaucoma (\u539f\u53d1\u6027\u5f00\u89d2\u578b\u9752\u5149\u773c)",
+      "tissue": "trabecular meshwork",
+      "year": 2011,
+      "sample_size": 16,
+      "validation": {
+        "detected_de_genes": 21,
+        "detection_rate_de": 0.042,
+        "key_genes_total": 8,
+        "key_genes_detected": 3,
+        "key_genes_detection_rate": 0.375,
+        "detected_key_genes": [
+          {
+            "gene": "COL3A1",
+            "log2fc": -1.3846667968556543,
+            "pvalue": 0.0366247635431136,
+            "fold_change": 0.3829779411933877
+          },
+          {
+            "gene": "MMP2",
+            "log2fc": -2.505123980265436,
+            "pvalue": 0.0197966088423246,
+            "fold_change": 0.17614995601901356
+          },
+          {
+            "gene": "OPTN",
+            "log2fc": 1.6708893558440228,
+            "pvalue": 0.0282109363051985,
+            "fold_change": 3.184108187945284
+          }
+        ],
+        "assessment": "needs_improvement",
+        "sample_size_note": "small"
+      }
+    },
+    {
+      "study": "amd_retinal",
+      "reference": "GSE29801 - Age-related macular degeneration",
+      "disease": "Age-related macular degeneration (\u5e74\u9f84\u76f8\u5173\u6027\u9ec4\u6591\u53d8\u6027)",
+      "tissue": "retinal pigment epithelium",
+      "year": 2012,
+      "sample_size": 32,
+      "validation": {
+        "detected_de_genes": 247,
+        "detection_rate_de": 0.0494,
+        "key_genes_total": 8,
+        "key_genes_detected": 7,
+        "key_genes_detection_rate": 0.875,
+        "detected_key_genes": [
+          {
+            "gene": "CFH",
+            "log2fc": 1.783426087336784,
+            "pvalue": 0.0040627078267453,
+            "fold_change": 3.4424270629893874
+          },
+          {
+            "gene": "ARMS2",
+            "log2fc": 1.17521902175796,
+            "pvalue": 0.0197958274352573,
+            "fold_change": 2.258271621546801
+          },
+          {
+            "gene": "HTRA1",
+            "log2fc": -1.744967634572112,
+            "pvalue": 0.0023054450716592,
+            "fold_change": 0.29834062865803723
+          },
+          {
+            "gene": "APOE",
+            "log2fc": -1.45819197259609,
+            "pvalue": 0.0120117146405608,
+            "fold_change": 0.3639489550638345
+          },
+          {
+            "gene": "SOD1",
+            "log2fc": -1.4907190581384282,
+            "pvalue": 0.001651289623794,
+            "fold_change": 0.3558351517857423
+          },
+          {
+            "gene": "VEGFA",
+            "log2fc": 1.5274458442597612,
+            "pvalue": 0.0421418853116481,
+            "fold_change": 2.8827502327462398
+          },
+          {
+            "gene": "TIMP3",
+            "log2fc": 1.603038485991962,
+            "pvalue": 0.0119859032042224,
+            "fold_change": 3.0378244169400443
+          }
+        ],
+        "assessment": "good",
+        "sample_size_note": "adequate"
+      }
+    }
+  ],
+  "summary_statistics": {
+    "total_studies": 4,
+    "average_key_gene_detection_rate": 0.71875,
+    "large_sample_studies": 3,
+    "small_sample_studies": 1,
+    "large_sample_avg_detection": 0.8333333333333334,
+    "small_sample_avg_detection": 0.375,
+    "framework_performance": "good"
+  },
+  "scientific_insights": {
+    "sample_size_effect": "Detection rate correlates with sample size",
+    "framework_strength": "Good performance for adequate sample sizes",
+    "limitation": "Reduced performance for very small samples",
+    "recommendation": "Use framework for studies with n\u226520 samples"
+  }
+}

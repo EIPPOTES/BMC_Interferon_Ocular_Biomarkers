@@ -1,0 +1,132 @@
+{
+  "validation_date": "2026-03-01T16:01:54.964889",
+  "studies_validated": [
+    "dry_eye_sjogren",
+    "diabetic_retinopathy",
+    "glaucoma_trabecular"
+  ],
+  "results": [
+    {
+      "study": "dry_eye_sjogren",
+      "reference": "GSE118828 - Sj\u00f6gren's syndrome dry eye",
+      "validation": {
+        "detected_de_genes": 262,
+        "detection_rate_de": 0.0524,
+        "key_genes_total": 8,
+        "key_genes_detected": 6,
+        "key_genes_detection_rate": 0.75,
+        "detected_key_genes": [
+          {
+            "gene": "MX1",
+            "log2fc": 1.957132031187796,
+            "pvalue": 0.0001947388839176
+          },
+          {
+            "gene": "OAS1",
+            "log2fc": -1.2811249672744762,
+            "pvalue": 0.0017768977401899
+          },
+          {
+            "gene": "ISG15",
+            "log2fc": -1.218323711292992,
+            "pvalue": 0.0020271698754401
+          },
+          {
+            "gene": "STAT1",
+            "log2fc": -1.1688290527765306,
+            "pvalue": 0.0046395207665236
+          },
+          {
+            "gene": "TNF",
+            "log2fc": 1.2113146003172053,
+            "pvalue": 0.0131733382873598
+          },
+          {
+            "gene": "IFIT1",
+            "log2fc": -1.477362686445154,
+            "pvalue": 0.0026555029533127
+          }
+        ],
+        "assessment": "good"
+      }
+    },
+    {
+      "study": "diabetic_retinopathy",
+      "reference": "GSE160306 - Diabetic retinopathy",
+      "validation": {
+        "detected_de_genes": 203,
+        "detection_rate_de": 0.0406,
+        "key_genes_total": 8,
+        "key_genes_detected": 6,
+        "key_genes_detection_rate": 0.75,
+        "detected_key_genes": [
+          {
+            "gene": "VEGFA",
+            "log2fc": -1.237357203704054,
+            "pvalue": 0.0020601460610271
+          },
+          {
+            "gene": "ICAM1",
+            "log2fc": 2.0516148465142057,
+            "pvalue": 0.0007965144146094
+          },
+          {
+            "gene": "VCAM1",
+            "log2fc": -1.7030709538534934,
+            "pvalue": 0.0002185912975773
+          },
+          {
+            "gene": "SELE",
+            "log2fc": 1.785379095443671,
+            "pvalue": 0.0021767775258425
+          },
+          {
+            "gene": "IL8",
+            "log2fc": 2.537200763330669,
+            "pvalue": 0.0342916292909318
+          },
+          {
+            "gene": "HIF1A",
+            "log2fc": 1.8384418463411971,
+            "pvalue": 0.0163834675978173
+          }
+        ],
+        "assessment": "good"
+      }
+    },
+    {
+      "study": "glaucoma_trabecular",
+      "reference": "GSE27276 - Glaucoma trabecular meshwork",
+      "validation": {
+        "detected_de_genes": 21,
+        "detection_rate_de": 0.042,
+        "key_genes_total": 8,
+        "key_genes_detected": 3,
+        "key_genes_detection_rate": 0.375,
+        "detected_key_genes": [
+          {
+            "gene": "COL3A1",
+            "log2fc": -1.3846667968556543,
+            "pvalue": 0.0366247635431136
+          },
+          {
+            "gene": "MMP2",
+            "log2fc": -2.505123980265436,
+            "pvalue": 0.0197966088423246
+          },
+          {
+            "gene": "OPTN",
+            "log2fc": 1.6708893558440228,
+            "pvalue": 0.0282109363051985
+          }
+        ],
+        "assessment": "needs_improvement"
+      }
+    }
+  ],
+  "summary_statistics": {
+    "total_studies": 3,
+    "average_key_gene_detection_rate": 0.625,
+    "framework_performance": "adequate"
+  }
+}
