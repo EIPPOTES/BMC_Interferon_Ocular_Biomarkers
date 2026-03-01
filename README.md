@@ -381,3 +381,94 @@ Based on user-provided professional ophthalmology GEO datasets:
 **Data Source**: User-provided professional ophthalmology GEO datasets  
 **Scientific Value**: High (expert-validated datasets)  
 **Framework Status**: Professionally validated and ready for use
+
+## Professional GEO Database Search Guide
+
+### Overview
+This comprehensive guide is based on user-provided professional expertise for efficiently searching and using ophthalmology datasets from NCBI GEO (Gene Expression Omnibus).
+
+### Key Concepts
+
+#### GEO Identifier System
+- **GSE (Series)**: Most important! Complete experimental project
+- **GSM (Sample)**: Individual sample data
+- **GPL (Platform)**: Technology platform information
+- **GDS (DataSet)**: Curated datasets (less commonly used)
+
+#### Advanced Search Strategies
+- **Boolean logic**: AND, OR, NOT
+- **Field qualifiers**: [Title], [Title/Abstract], [Organism], [Entry Type]
+- **Ophthalmology search formula example**:
+  `"Glaucoma"[Title/Abstract] AND "Trabecular meshwork"[All Fields] AND "Homo sapiens"[Organism] AND "gse"[Entry Type]`
+
+#### Key Information on GSE Pages
+1. **Title & Summary**: Quick assessment of study content
+2. **Overall design**: Experimental group information
+3. **Contributor(s)**: Data upload authors (find original papers)
+4. **Platforms**: Technology platform details
+5. **Samples**: Complete GSM sample list
+
+### Data Download Guide
+
+#### Recommended Files
+1. **Series Matrix File(s)** (.txt format)
+   - **Most recommended for beginners!**
+   - Pre-processed, normalized expression matrix
+   - Directly importable into R or Excel
+
+2. **SOFT formatted family file(s)**
+   - Contains metadata and some expression data
+   - Less commonly used now
+
+3. **Supplementary file(s)**
+   - Raw data (.CEL files for microarrays)
+   - Count matrices for RNA-seq data
+
+### GEO2R Analysis Tool
+For quick differential expression analysis without programming:
+1. Click **[Analyze with GEO2R]** button
+2. **Define groups**: Create groups (e.g., Disease and Control)
+3. **Assign samples**: Bind samples to corresponding groups
+4. **Analyze**: Execute differential analysis
+5. **View results**: Focus on P.Value and logFC columns
+
+### Recommended Ophthalmology Datasets
+- **AMD**: GSE29801, GSE115828
+- **Glaucoma**: GSE27276, GSE138114
+- **Diabetic Retinopathy**: GSE60436
+- **Keratoconus**: GSE112155, GSE15020
+- **Dry Eye**: GSE43671
+
+### Practical Tips
+1. Use specific disease names instead of "Ophthalmology"
+2. Always include `"Homo sapiens"[Organism]` for human data
+3. Check original papers for experimental design details
+4. Download Series Matrix File for initial analysis
+
+### Integration with This Framework
+
+#### Complete Workflow
+1. **Search**: Use this guide to find appropriate ophthalmology GEO datasets
+2. **Download**: Obtain Series Matrix File or count matrices
+3. **Process**: Use `process_real_data.py` to prepare data
+4. **Analyze**: Run `analysis_pipeline.py` for comprehensive analysis
+5. **Optimize**: Apply `optimized_analysis.py` for evidence-based optimization
+6. **Report**: Generate complete analysis reports
+
+#### Benefits
+- **Standardized workflow**: Consistent analysis pipeline
+- **Optimized methods**: Evidence-based analysis strategies
+- **Transparent reporting**: Complete documentation of all steps
+- **Reproducible results**: Fully documented analysis process
+
+### Files Included
+- `tools/geo_search_guide.py` - Guide generator script
+- `geo_search_guides/geo_search_guide.md` - Complete guide (Markdown)
+- `geo_search_guides/geo_search_guide.json` - Guide (JSON format)
+- `geo_search_guides/search_scripts.*` - Example search scripts
+
+---
+**Guide Source**: User-provided professional expertise  
+**Integration**: Fully integrated with analysis framework  
+**Value**: Enhances data acquisition and analysis workflow  
+**Status**: Complete professional resource for ophthalmology research
