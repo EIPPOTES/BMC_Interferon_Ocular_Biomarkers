@@ -1,0 +1,98 @@
+{
+  "condition": "dry_eye_small_study",
+  "sample_sizes": {
+    "control": 4,
+    "dry_eye": 4
+  },
+  "total_samples": 8,
+  "total_genes": 1500,
+  "analysis_date": "2026-03-01T15:13:49.353746",
+  "differential_expression": {
+    "genes_tested": 500,
+    "significant_genes": 0,
+    "significance_rate": 0.0,
+    "min_pvalue": 0.008853979139998105,
+    "max_effect_size": 3.9299469813495844,
+    "results_file": "results/dry_eye_negative_analysis/differential_expression_results.csv"
+  },
+  "statistical_power": {
+    "median_effect_size": 0.666158809593984,
+    "estimated_power": 0.09153691499467453,
+    "current_sample_size_adequacy": "inadequate",
+    "recommended_sample_size_per_group": 14,
+    "interpretation": "Current study has 9.2% power to detect median effect size (0.67)"
+  },
+  "exploratory_trends": {
+    "trend_genes_count": 43,
+    "top_trend_genes": [
+      {
+        "gene": "GENE_000176",
+        "pvalue": 0.07251660445171401,
+        "fold_change": 8.111491855329435,
+        "trend_strength": 3.441441580521273
+      },
+      {
+        "gene": "GENE_000299",
+        "pvalue": 0.05779915440391108,
+        "fold_change": 0.2432615740839718,
+        "trend_strength": 2.5249616479813803
+      },
+      {
+        "gene": "GENE_000175",
+        "pvalue": 0.1792388516708521,
+        "fold_change": 0.09895543002381273,
+        "trend_strength": 2.491354626591081
+      },
+      {
+        "gene": "GENE_000260",
+        "pvalue": 0.14273824954763767,
+        "fold_change": 0.14512599867660075,
+        "trend_strength": 2.354285579940466
+      },
+      {
+        "gene": "GENE_000266",
+        "pvalue": 0.08721048676964265,
+        "fold_change": 4.348276157767159,
+        "trend_strength": 2.24646426393503
+      },
+      {
+        "gene": "GENE_000052",
+        "pvalue": 0.06696972608312503,
+        "fold_change": 3.714138013424451,
+        "trend_strength": 2.222644157323028
+      },
+      {
+        "gene": "GENE_000060",
+        "pvalue": 0.10083877737323375,
+        "fold_change": 0.23081152633807933,
+        "trend_strength": 2.107539737800921
+      },
+      {
+        "gene": "GENE_000129",
+        "pvalue": 0.060280375189217625,
+        "fold_change": 3.0710396587681146,
+        "trend_strength": 1.9745623048323446
+      },
+      {
+        "gene": "GENE_000211",
+        "pvalue": 0.09628231105167546,
+        "fold_change": 0.2762699380910544,
+        "trend_strength": 1.8863847176290212
+      },
+      {
+        "gene": "GENE_000195",
+        "pvalue": 0.11930900619353016,
+        "fold_change": 0.24657673569282462,
+        "trend_strength": 1.865019811123289
+      }
+    ],
+    "trend_genes_file": "results/dry_eye_negative_analysis/trend_genes.csv"
+  },
+  "sample_heterogeneity": {
+    "within_group_corr_median": -0.005059287939141654,
+    "between_group_corr_median": 0.0031755092681720947,
+    "heterogeneity_ratio": -1.593220964539622,
+    "visualization": "results/dry_eye_negative_analysis/heterogeneity_analysis.png",
+    "interpretation": "High within-group heterogeneity may reduce statistical power for detecting between-group differences"
+  }
+}
