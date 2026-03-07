@@ -115,10 +115,25 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | Meta分析 | 证据综合 | ✅ |
 | ROC分析 | 诊断试验 | ✅ |
 
+#### 专业级方法
+| 方法 | 用途 | 学习状态 |
+|------|------|---------|
+| 竞争风险 | 多终点生存分析 | ✅ |
+| 多状态模型 | 疾病进展建模 | ✅ |
+| 多重插补 | 缺失数据处理 | ✅ |
+| 逆概率加权 | 缺失/选择偏倚 | ✅ |
+| 网络Meta分析 | 多种治疗比较 | ✅ |
+| SHAP值 | AI模型解释 | ✅ |
+| LIME | 局部模型解释 | ✅ |
+| 注意力可视化 | 深度学习解释 | ✅ |
+| 适应性试验 | 高效临床试验 | ✅ |
+| 平台试验 | 多治疗持续评估 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
 3. **高级方法**: `memory/advanced_statistics_methods.md`
+4. **专业方法**: `memory/expert_statistics_methods.md`
 
 ---
 
