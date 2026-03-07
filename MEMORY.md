@@ -148,6 +148,16 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 眼科专用图 | 瀑布图、OCT地形图 | ✅ |
 | 设计原则 | 颜色、字体、导出规范 | ✅ |
 
+### 生物信息学前沿
+| 主题 | 内容 | 学习状态 |
+|------|------|---------|
+| 单细胞测序 | scRNA-seq分析流程、Seurat | ✅ |
+| 空间转录组 | 空间数据分析、Visium | ✅ |
+| CRISPR | 基因编辑、CRISPR筛选 | ✅ |
+| 蛋白质组学 | 质谱技术、眼蛋白质组 | ✅ |
+| 宏基因组学 | 微生物组分析、QIIME2 | ✅ |
+| 多组学整合 | MOFA+、机器学习整合 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
@@ -155,6 +165,7 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 4. **专业方法**: `memory/expert_statistics_methods.md`
 5. **文献写作**: `memory/scientific_writing_guide.md`
 6. **统计图表**: `memory/statistical_graphics_guide.md`
+7. **生物信息学**: `memory/bioinformatics_frontiers.md`
 
 ---
 
