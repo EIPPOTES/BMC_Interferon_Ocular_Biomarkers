@@ -139,12 +139,22 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 同行评审 | 审稿流程、回复技巧 | ✅ |
 | 投稿策略 | 期刊选择、投稿清单 | ✅ |
 
+### 统计图表制作
+| 主题 | 内容 | 学习状态 |
+|------|------|---------|
+| 基础图表 | 直方图、箱线图、散点图、条形图 | ✅ |
+| 医学专用图 | Kaplan-Meier、森林图、热图 | ✅ |
+| 高级可视化 | 小提琴图、配对图 | ✅ |
+| 眼科专用图 | 瀑布图、OCT地形图 | ✅ |
+| 设计原则 | 颜色、字体、导出规范 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
 3. **高级方法**: `memory/advanced_statistics_methods.md`
 4. **专业方法**: `memory/expert_statistics_methods.md`
 5. **文献写作**: `memory/scientific_writing_guide.md`
+6. **统计图表**: `memory/statistical_graphics_guide.md`
 
 ---
 
