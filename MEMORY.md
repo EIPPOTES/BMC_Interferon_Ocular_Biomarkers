@@ -180,6 +180,20 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 新兴技术 | AI/ML、真实世界研究 | 🟢 低 |
 | 职业发展 | 学术网络、导师技能 | 🟢 低 |
 
+### 核心技能实践 (已学习)
+| 主题 | 内容 | 状态 |
+|------|------|------|
+| 赫尔辛基宣言 | 三大原则、操作原则 | ✅ |
+| 伦理审查 | IRB/EC流程、审查内容 | ✅ |
+| 知情同意 | 四要素、撰写模板 | ✅ |
+| 数据隐私 | GDPR/HIPAA、去标识化 | ✅ |
+| 批判性思维 | 检查清单、逻辑谬误 | ✅ |
+| 循证医学 | 证据等级、GRADE、PICO | ✅ |
+| FAIR原则 | 可发现、可获取、可互操作、可重用 | ✅ |
+| 数据备份 | 3-2-1规则、备份策略 | ✅ |
+| 元数据 | 数据字典、元数据类型 | ✅ |
+| Git版本控制 | 基础命令、工作流程 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
@@ -190,6 +204,7 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 7. **生物信息学**: `memory/bioinformatics_frontiers.md`
 8. **实验设计**: `memory/study_design_guide.md`
 9. **技能发展**: `memory/skills_development_roadmap.md`
+10. **核心技能**: `memory/core_skills_practice.md`
 
 ---
 
