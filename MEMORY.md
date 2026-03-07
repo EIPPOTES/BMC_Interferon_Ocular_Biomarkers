@@ -129,11 +129,22 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 适应性试验 | 高效临床试验 | ✅ |
 | 平台试验 | 多治疗持续评估 | ✅ |
 
+### 文献写作
+| 主题 | 内容 | 学习状态 |
+|------|------|---------|
+| 科学写作基础 | 学术诚信、引用规范 | ✅ |
+| IMRAD结构 | 引言/方法/结果/讨论 | ✅ |
+| 摘要写作 | 结构式摘要 | ✅ |
+| 文献综述 | 系统性综述方法 | ✅ |
+| 同行评审 | 审稿流程、回复技巧 | ✅ |
+| 投稿策略 | 期刊选择、投稿清单 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
 3. **高级方法**: `memory/advanced_statistics_methods.md`
 4. **专业方法**: `memory/expert_statistics_methods.md`
+5. **文献写作**: `memory/scientific_writing_guide.md`
 
 ---
 
