@@ -168,6 +168,18 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 设计选择 | 根据研究问题选择设计 | ✅ |
 | 眼科特殊考虑 | 双眼问题、视力终点 | ✅ |
 
+### 技能发展路线图
+| 主题 | 内容 | 优先级 |
+|------|------|--------|
+| 批判性思维 | 文献批判性阅读、循证医学 | 🔴 高 |
+| 研究伦理 | 赫尔辛基宣言、伦理审查 | 🔴 高 |
+| 项目管理 | 时间管理、数据管理 | 🟡 中 |
+| 学术交流 | 演讲、海报、社交媒体 | 🟡 中 |
+| 基金申请 | 国自然、NIH申请写作 | 🟡 中 |
+| 跨学科合作 | 与生物信息学家/统计学家合作 | 🟡 中 |
+| 新兴技术 | AI/ML、真实世界研究 | 🟢 低 |
+| 职业发展 | 学术网络、导师技能 | 🟢 低 |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
@@ -177,6 +189,7 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 6. **统计图表**: `memory/statistical_graphics_guide.md`
 7. **生物信息学**: `memory/bioinformatics_frontiers.md`
 8. **实验设计**: `memory/study_design_guide.md`
+9. **技能发展**: `memory/skills_development_roadmap.md`
 
 ---
 
