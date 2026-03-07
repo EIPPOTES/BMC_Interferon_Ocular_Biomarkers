@@ -101,9 +101,24 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 统计功效 | 研究设计 | ✅ |
 | 样本量计算 | 研究规划 | ✅ |
 
+#### 高级方法
+| 方法 | 用途 | 学习状态 |
+|------|------|---------|
+| 贝叶斯推断 | 概率更新 | ✅ |
+| MCMC | 复杂后验抽样 | ✅ |
+| 随机森林 | 预测建模 | ✅ |
+| SVM | 分类/回归 | ✅ |
+| 深度学习 | 影像AI | ✅ |
+| 倾向评分匹配 | 观察性研究 | ✅ |
+| 工具变量 | 因果推断 | ✅ |
+| 双重差分 | 政策评估 | ✅ |
+| Meta分析 | 证据综合 | ✅ |
+| ROC分析 | 诊断试验 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
+3. **高级方法**: `memory/advanced_statistics_methods.md`
 
 ---
 
