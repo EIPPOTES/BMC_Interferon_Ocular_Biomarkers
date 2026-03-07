@@ -158,6 +158,16 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 | 宏基因组学 | 微生物组分析、QIIME2 | ✅ |
 | 多组学整合 | MOFA+、机器学习整合 | ✅ |
 
+### 医学实验设计
+| 主题 | 内容 | 学习状态 |
+|------|------|---------|
+| RCT | 随机化、对照、盲法、样本量 | ✅ |
+| 队列研究 | 前瞻性/回顾性、RR计算 | ✅ |
+| 病例对照 | OR计算、匹配、偏倚控制 | ✅ |
+| 横断面研究 | 患病率、描述性研究 | ✅ |
+| 设计选择 | 根据研究问题选择设计 | ✅ |
+| 眼科特殊考虑 | 双眼问题、视力终点 | ✅ |
+
 ### 详细笔记文件
 1. **基础分布**: `memory/statistics_tables_learning.md`
 2. **完整知识库**: `memory/complete_statistics_knowledge.md`
@@ -166,6 +176,7 @@ R实现: lmer(outcome ~ var1 + (1|patient_id))
 5. **文献写作**: `memory/scientific_writing_guide.md`
 6. **统计图表**: `memory/statistical_graphics_guide.md`
 7. **生物信息学**: `memory/bioinformatics_frontiers.md`
+8. **实验设计**: `memory/study_design_guide.md`
 
 ---
 
