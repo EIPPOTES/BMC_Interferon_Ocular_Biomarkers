@@ -1,9 +1,3 @@
-# 路径配置
-from pathlib import Path
-import sys
-sys.path.insert(0, str(Path(__file__).parent.parent))
-from configs.paths_config import *
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -26,8 +20,8 @@ def main():
     print("制作发表级可视化图表")
     print("=" * 80)
 
-    output_dir = str(FIGURES_OUTPUT_DIR)
-    data_dir = str(EXTERNAL_DATA_DIR)
+    output_dir = '/mnt/c/Users/CUI/Desktop/论文及图表'
+    data_dir = '/mnt/c/Users/CUI/Desktop/最终修改'
 
     # 读取数据
     df = pd.read_excel(f'{data_dir}/OCT数据_完整整合.xlsx')

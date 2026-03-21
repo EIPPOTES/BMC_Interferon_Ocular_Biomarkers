@@ -34,6 +34,9 @@ REPORTS_OUTPUT_DIR = Path(os.environ.get("REPORTS_OUTPUT_DIR", DEFAULT_OUTPUT_DI
 # 关键文件路径
 MAIN_DATA_FILE = RAW_DATA_DIR / "data.xlsx"  # 主数据文件
 
+# 外部数据源目录（用于需要访问原始数据文件的脚本）
+EXTERNAL_DATA_DIR = Path("/mnt/c/Users/CUI/Desktop/最终修改")
+
 # 确保所有目录存在
 def ensure_directories():
     """确保所有必要的目录都存在"""

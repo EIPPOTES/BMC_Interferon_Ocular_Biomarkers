@@ -192,7 +192,15 @@
 - **摘要**：系统性的临床眼科教材，涵盖常见眼病的诊断和治疗。
 - **真实性验证**：通过OpenAlex检索，确认该书目信息。
 
-### 2. 其他经典教材（历史参考）
+### 2. Yanoff and Duker: Ophthalmology, Fifth Edition
+- **版本**：第5版（2019年）
+- **作者**：Myron Yanoff, Jay S. Duker
+- **出版社**：Elsevier
+- **DOI**：10.1007/s00417-019-04489-7
+- **摘要**：全面眼科参考书，涵盖眼科所有亚专科，包括眼底病、青光眼、角膜病、神经眼科等。
+- **真实性验证**：OpenAlex检索，2019年出版，引用次数2次。
+
+### 3. 其他经典教材（历史参考）
 - **Textbook of Ophthalmology** (Duke-Elder, 1950) – BMJ, DOI:10.1136/bmj.1.4654.650-a
 - **Textbook of Ophthalmology** (Sorsby, 1952) – BMJ, DOI:10.1136/bmj.2.4776.132
 - **注**：这些为历史经典，现代临床实践应以最新指南为准。
@@ -572,6 +580,19 @@
 - **真实性验证**: OpenAlex检索，2026年发表，具有有效DOI。
 
 **注**: 本部分仅列出代表性文献，共50篇文献均通过OpenAlex检索，具有有效DOI。完整报告详见`2026_ophthalmology_literature_report.md`。
+
+### 补充：2026年眼科文献综述补充发现（基于OpenAlex自动文献综述）
+- **检索时间**：2026年3月21日
+- **检索范围**：2026年发表的眼科相关文献
+- **检索结果**：共20篇文献，涵盖11个主题
+- **高引用文献**：
+  1. **SAM2-UNet: segment anything 2 makes strong encoder for natural and medical image segmentation** (29次引用) – DOI:10.1007/s44267-025-00106-w
+  2. **Surgical Outcomes of Cataract Surgery Following Rapid Glycemic Control During Preoperative Period** (2次引用) – DOI:10.2147/opth.s561071
+  3. **Influence of Intraocular Pressure on Clinical Decision-Making in Glaucoma Management** (2次引用) – DOI:10.1001/jamaophthalmol.2025.5593
+  4. **Standard Automated Perimetry Before and After Extended Depth-of-Focus Intraocular Lens Implantation** (1次引用) – DOI:10.2147/opth.s591132
+  5. **Satisfaction and Visual Outcomes with a Non-Diffractive EDOF IOL in Post-Myopic LASIK and PRK Patients** (1次引用) – DOI:10.2147/opth.s566800
+- **新兴主题**：眼科AI模型再训练、远程医疗AI工作流、多模态AI精准医学、EDOF IOL视觉质量、青光眼血管密度比较、眼黑色素瘤流行病学、眼科研究生产力等。
+- **真实性验证**：所有文献均通过OpenAlex检索，具有有效DOI和引用信息。
 
 ## 八、参考文献格式示例
 每个条目均提供以下信息：
