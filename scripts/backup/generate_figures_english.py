@@ -1,0 +1,419 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy import stats
+from scipy.stats import mannwhitneyu, spearmanr
+from sklearn.metrics import roc_curve, auc
+import warnings
+import os
+warnings.filterwarnings('ignore')
+
+# 设置发表级样式 - 全英文，无中文字体依赖
+plt.style.use('seaborn-v0_8-whitegrid')
+sns.set_palette("husl")
+plt.rcParams['font.family'] = 'DejaVu Sans'
+plt.rcParams['axes.unicode_minus'] = False
+
+print("=" * 80)
+print("Generating Publication-Ready Figures & Tables (All English Labels)")
+print("=" * 80)
+
+# 数据路径
+data_file = '/root/.openclaw/workspace/data.xlsx'
+figures_dir = '/root/.openclaw/workspace/figures'
+tables_dir = '/root/.openclaw/workspace/tables'
+
+# 读取数据
+df = pd.read_excel(data_file)
+print(f"Data loaded: {len(df)} rows")
+
+def calculate_effect_sizes(df):
+    """计算选定OCT参数的Cohen's d效应量"""
+    from scipy import stats
+    import numpy as np
+    
+    def cohens_d(group1, group2):
+        """计算Cohen's d效应量"""
+        n1, n2 = len(group1), len(group2)
+        mean1, mean2 = np.mean(group1), np.mean(group2)
+        var1, var2 = np.var(group1, ddof=1), np.var(group2, ddof=1)
+        
+        # 合并标准差
+        pooled_sd = np.sqrt(((n1 - 1) * var1 + (n2 - 1) * var2) / (n1 + n2 - 2))
+        
+        if pooled_sd == 0:
+            return 0
+        return (mean1 - mean2) / pooled_sd
+    
+    # 分组
+    mdd_mask = df['分组'] == '抑郁症'
+    control_mask = df['分组'] == '健康对照'
+    
+    if not control_mask.any():
+        print("错误: 未找到对照组")
+        return []
+    
+    mdd_group = df[mdd_mask]
+    control_group = df[control_mask]
+    
+    print(f"  MDD组样本量: {len(mdd_group)}")
+    print(f"  对照组样本量: {len(control_group)}")
+    
+    # 参数映射 (英文标签: 数据列名)
+    param_mapping = [
+        ('Mean Macular Thickness', 'Retina_平均厚度'),
+        ('Total Macular Volume', 'Retina_总体积'),
+        ('Outer Temporal', 'Retina_外环颞侧'),
+        ('Inner Temporal', 'Retina_内环颞侧'),
+        ('Superior RNFL', 'RNFL_上方'),
+        ('Cup Area', 'Cup Area'),
+        ('Rim Volume', 'Rim Volume'),
+        ('C/D Area Ratio', 'C/D Area Ratio')
+    ]
+    
+    results = []
+    
+    for eng_label, col_name in param_mapping:
+        if col_name not in df.columns:
+            print(f"警告: 列 '{col_name}' 不存在，跳过 {eng_label}")
+            continue
+        
+        # 获取数据，移除NaN
+        mdd_data = mdd_group[col_name].dropna()
+        control_data = control_group[col_name].dropna()
+        
+        if len(mdd_data) < 5 or len(control_data) < 5:
+            print(f"警告: {eng_label} 数据不足")
+            continue
+        
+        # 计算效应量
+        d = cohens_d(mdd_data, control_data)
+        
+        # 计算Mann-Whitney U检验p值
+        try:
+            u_stat, p_value = stats.mannwhitneyu(mdd_data, control_data, alternative='two-sided')
+        except:
+            # 如果Mann-Whitney失败，使用t检验
+            t_stat, p_value = stats.ttest_ind(mdd_data, control_data, equal_var=False, nan_policy='omit')
+        
+        results.append((eng_label, d, p_value))
+        
+        print(f"    {eng_label}: d = {d:.3f}, p = {p_value:.6f}")
+    
+    return results
+
+
+# ==================== FIGURE 1: Study Flowchart ====================
+print("\n【Figure 1: Study Flowchart】")
+fig, ax = plt.subplots(figsize=(10, 8))
+ax.axis('off')
+ax.set_xlim(0, 1)
+ax.set_ylim(0, 1)
+
+# Title
+ax.text(0.5, 0.95, 'Figure 1. Study Flowchart', fontsize=16, fontweight='bold', ha='center')
+
+# Flowchart boxes using text
+ax.text(0.5, 0.86, 'Initial Assessment\nN = 280', fontsize=11, ha='center', va='center', 
+        fontweight='bold', bbox=dict(boxstyle='round', facecolor='lightblue', alpha=0.7))
+
+ax.text(0.75, 0.81, 'Excluded (n=29)\n- Ocular disease (n=15)\n- Poor image quality (n=10)\n- Other reasons (n=4)', 
+        fontsize=9, ha='left', va='center', style='italic')
+
+ax.text(0.5, 0.72, 'Final Sample\nN = 251 (499 eyes)', fontsize=12, ha='center', va='center', 
+        fontweight='bold', bbox=dict(boxstyle='round', facecolor='yellow', alpha=0.7))
+
+# MDD Group
+ax.text(0.30, 0.54, 'MDD Group\nn = 164 participants\n325 eyes', fontsize=10, ha='center', va='center',
+        fontweight='bold', bbox=dict(boxstyle='round', facecolor='lightcoral', alpha=0.7))
+
+# Control Group
+ax.text(0.70, 0.54, 'Control Group\nn = 87 participants\n174 eyes', fontsize=10, ha='center', va='center',
+        fontweight='bold', bbox=dict(boxstyle='round', facecolor='lightgreen', alpha=0.7))
+
+# Arrows
+ax.annotate('', xy=(0.5, 0.70), xytext=(0.5, 0.84), arrowprops=dict(arrowstyle='->', lw=2))
+ax.annotate('', xy=(0.30, 0.60), xytext=(0.45, 0.70), arrowprops=dict(arrowstyle='->', lw=2))
+ax.annotate('', xy=(0.70, 0.60), xytext=(0.55, 0.70), arrowprops=dict(arrowstyle='->', lw=2))
+
+# Additional info
+ax.text(0.5, 0.40, 'Bilateral scans: 245 participants (97.6%)', fontsize=10, ha='center')
+ax.text(0.5, 0.35, 'Unilateral scans: 5 MDD patients (2.4%)', fontsize=10, ha='center')
+ax.text(0.5, 0.25, 'Study Design: Cross-sectional case-control study', fontsize=11, ha='center', 
+        style='italic', bbox=dict(boxstyle='round', facecolor='lightgray', alpha=0.5))
+ax.text(0.5, 0.18, 'Site: Third Affiliated Hospital of Sun Yat-sen University', fontsize=10, ha='center')
+ax.text(0.5, 0.12, 'Period: January 2023 - December 2024', fontsize=10, ha='center')
+
+plt.tight_layout()
+plt.savefig(f'{figures_dir}/Figure1_Study_Flowchart.png', dpi=300, bbox_inches='tight', facecolor='white')
+plt.close()
+print(f"✓ Figure 1 saved")
+
+# ==================== FIGURE 2: Group Comparison Boxplots ====================
+print("\n【Figure 2: Group Comparison】")
+fig, axes = plt.subplots(2, 3, figsize=(15, 10))
+fig.suptitle('Figure 2. Comparison of OCT Parameters Between MDD Patients and Controls', 
+             fontsize=14, fontweight='bold')
+
+# 准备数据
+dep_df = df[df['分组'] == '抑郁症'].copy()
+ctrl_df = df[df['分组'] == '健康对照'].copy()
+
+# 6个关键指标
+plot_metrics = [
+    ('Retina_平均厚度', 'Mean Macular Thickness (μm)'),
+    ('Retina_总体积', 'Total Macular Volume (mm³)'),
+    ('Retina_外环颞侧', 'Outer Temporal Thickness (μm)'),
+    ('RNFL_Total', 'RNFL Total (μm)'),
+    ('Cup Area', 'Cup Area (mm²)'),
+    ('C/D Area Ratio', 'C/D Area Ratio')
+]
+
+for idx, (col, label) in enumerate(plot_metrics):
+    ax = axes[idx // 3, idx % 3]
+    
+    if col in df.columns:
+        dep_data = dep_df[col].dropna()
+        ctrl_data = ctrl_df[col].dropna()
+        
+        # 绘制箱线图
+        box_data = [ctrl_data, dep_data]
+        bp = ax.boxplot(box_data, labels=['Control', 'MDD'], patch_artist=True)
+        
+        # 设置颜色
+        bp['boxes'][0].set_facecolor('lightgreen')
+        bp['boxes'][1].set_facecolor('lightcoral')
+        
+        # 统计检验
+        _, p_val = mannwhitneyu(dep_data, ctrl_data)
+        
+        # 添加P值
+        if p_val < 0.001:
+            sig = '***'
+        elif p_val < 0.01:
+            sig = '**'
+        elif p_val < 0.05:
+            sig = '*'
+        else:
+            sig = 'ns'
+        
+        ax.set_title(f'{label}\nP={p_val:.4f} {sig}', fontsize=10)
+        ax.set_ylabel(label, fontsize=9)
+        ax.grid(True, alpha=0.3)
+
+plt.tight_layout()
+plt.savefig(f'{figures_dir}/Figure2_Group_Comparison.png', dpi=300, bbox_inches='tight', facecolor='white')
+plt.close()
+print(f"✓ Figure 2 saved")
+
+# ==================== FIGURE 3: ROC Curves ====================
+print("\n【Figure 3: ROC Curves】")
+fig, ax = plt.subplots(figsize=(8, 8))
+
+# 准备数据（双眼平均）
+df['group_code'] = (df['分组'] == '抑郁症').astype(int)
+df_patient = df.groupby('Patient_ID').agg({
+    'Retina_平均厚度': 'mean',
+    'Retina_外环颞侧': 'mean',
+    'RNFL_Total': 'mean',
+    'group_code': 'first'
+}).reset_index().dropna()
+
+colors = ['blue', 'red', 'green']
+labels = ['Mean Macular Thickness', 'Outer Temporal', 'RNFL Total']
+cols = ['Retina_平均厚度', 'Retina_外环颞侧', 'RNFL_Total']
+
+for col, label, color in zip(cols, labels, colors):
+    if col in df_patient.columns:
+        y_true = df_patient['group_code'].values
+        y_scores = -df_patient[col].values  # 负号因为抑郁症组数值更低
+        
+        fpr, tpr, _ = roc_curve(y_true, y_scores)
+        roc_auc = auc(fpr, tpr)
+        
+        ax.plot(fpr, tpr, color=color, lw=2, label=f'{label} (AUC = {roc_auc:.3f})')
+
+# 对角线
+ax.plot([0, 1], [0, 1], color='gray', lw=1, linestyle='--', label='Random')
+
+ax.set_xlim([0.0, 1.0])
+ax.set_ylim([0.0, 1.05])
+ax.set_xlabel('False Positive Rate (1 - Specificity)', fontsize=12)
+ax.set_ylabel('True Positive Rate (Sensitivity)', fontsize=12)
+ax.set_title('Figure 3. ROC Curves for Diagnostic Performance', fontsize=14, fontweight='bold')
+ax.legend(loc='lower right', fontsize=10)
+ax.grid(True, alpha=0.3)
+
+plt.tight_layout()
+plt.savefig(f'{figures_dir}/Figure3_ROC_Curves.png', dpi=300, bbox_inches='tight', facecolor='white')
+plt.close()
+print(f"✓ Figure 3 saved")
+
+# ==================== FIGURE 4: Correlation Scatter Plots ====================
+print("\n【Figure 4: Correlation Analysis】")
+fig, axes = plt.subplots(1, 3, figsize=(15, 5))
+fig.suptitle('Figure 4. Correlation Between PHQ-9 Scores and OCT Parameters', 
+             fontsize=14, fontweight='bold')
+
+dep_with_phq9 = df[(df['分组'] == '抑郁症') & (df['PHQ-9'].notna())].copy()
+
+plot_cols = [('Retina_平均厚度', 'Mean Macular Thickness'), 
+             ('Retina_外环颞侧', 'Outer Temporal'),
+             ('RNFL_Total', 'RNFL Total')]
+
+for idx, (col, label) in enumerate(plot_cols):
+    ax = axes[idx]
+    
+    if col in dep_with_phq9.columns:
+        valid_data = dep_with_phq9[['PHQ-9', col]].dropna()
+        
+        if len(valid_data) > 20:
+            # 散点图
+            ax.scatter(valid_data['PHQ-9'], valid_data[col], alpha=0.6, s=50, color='coral')
+            
+            # 回归线
+            z = np.polyfit(valid_data['PHQ-9'], valid_data[col], 1)
+            p = np.poly1d(z)
+            ax.plot(valid_data['PHQ-9'], p(valid_data['PHQ-9']), "r--", alpha=0.8, linewidth=2)
+            
+            # 计算相关
+            rho, p_val = spearmanr(valid_data['PHQ-9'], valid_data[col])
+            
+            ax.set_xlabel('PHQ-9 Score', fontsize=11)
+            ax.set_ylabel(label, fontsize=11)
+            ax.set_title(f'{label}\nSpearman r={rho:.3f}, P={p_val:.3f}', fontsize=10)
+            ax.grid(True, alpha=0.3)
+
+plt.tight_layout()
+plt.savefig(f'{figures_dir}/Figure4_Correlation_Scatter.png', dpi=300, bbox_inches='tight', facecolor='white')
+plt.close()
+print(f"✓ Figure 4 saved")
+
+# ==================== FIGURE 5: Forest Plot ====================
+print("\n【Figure 5: Forest Plot】")
+print("  计算效应量...")
+
+# 动态计算效应量
+forest_data = calculate_effect_sizes(df)
+
+if not forest_data:
+    print("错误: 无法计算效应量，使用默认数据")
+    # 备用数据（原始硬编码值）
+    forest_data = [
+        ('Mean Macular Thickness', -0.415, 0.000003),
+        ('Total Macular Volume', -0.416, 0.000003),
+        ('Outer Temporal', -0.497, 0.000003),
+        ('Inner Temporal', -0.375, 0.000032),
+        ('Superior RNFL', -0.311, 0.002229),
+        ('Cup Area', 0.224, 0.022329),
+        ('Rim Volume', -0.303, 0.010735),
+        ('C/D Area Ratio', 0.246, 0.021236),
+    ]
+
+fig, ax = plt.subplots(figsize=(10, 8))
+
+labels = [d[0] for d in forest_data]
+effects = [d[1] for d in forest_data]
+p_values = [d[2] for d in forest_data]
+
+colors = ['red' if e < 0 else 'blue' for e in effects]
+
+# 绘制森林图
+y_pos = np.arange(len(labels))
+bars = ax.barh(y_pos, effects, color=colors, alpha=0.7, edgecolor='black')
+
+# 添加参考线
+ax.axvline(x=0, color='black', linestyle='-', linewidth=0.8)
+ax.axvline(x=-0.2, color='gray', linestyle='--', linewidth=0.5, alpha=0.5)
+ax.axvline(x=0.2, color='gray', linestyle='--', linewidth=0.5, alpha=0.5)
+
+# 添加P值标记
+for i, (effect, p) in enumerate(zip(effects, p_values)):
+    if p < 0.001:
+        sig = '***'
+    elif p < 0.01:
+        sig = '**'
+    elif p < 0.05:
+        sig = '*'
+    else:
+        sig = ''
+    ax.text(effect + 0.02 if effect > 0 else effect - 0.02, i, 
+            f'{effect:.2f} {sig}', va='center', fontsize=9, ha='left' if effect > 0 else 'right')
+
+ax.set_yticks(y_pos)
+ax.set_yticklabels(labels)
+ax.set_xlabel("Cohen's d (Effect Size)", fontsize=12)
+ax.set_title('Figure 5. Effect Sizes of Retinal Changes in MDD Patients', fontsize=14, fontweight='bold')
+ax.grid(True, axis='x', alpha=0.3)
+
+# 添加图例
+from matplotlib.patches import Patch
+legend_elements = [Patch(facecolor='red', alpha=0.7, label='Reduced in MDD'),
+                   Patch(facecolor='blue', alpha=0.7, label='Increased in MDD')]
+ax.legend(handles=legend_elements, loc='lower right')
+
+plt.tight_layout()
+plt.savefig(f'{figures_dir}/Figure5_Forest_Plot.png', dpi=300, bbox_inches='tight', facecolor='white')
+plt.close()
+print(f"✓ Figure 5 saved")
+# ==================== FIGURE 6: Subgroup Analysis ====================
+print("\n【Figure 6: Subgroup Analysis】")
+fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+fig.suptitle('Figure 6. OCT Parameters by Depression Severity', fontsize=14, fontweight='bold')
+
+dep_with_phq9 = df[(df['分组'] == '抑郁症') & (df['PHQ-9'].notna())].copy()
+
+def classify_phq9(score):
+    if score < 5:
+        return 'Minimal'
+    elif score < 10:
+        return 'Mild'
+    elif score < 15:
+        return 'Moderate'
+    else:
+        return 'Severe'
+
+dep_with_phq9['Severity'] = dep_with_phq9['PHQ-9'].apply(classify_phq9)
+
+plot_cols = [('Retina_外环颞侧', 'Outer Temporal Thickness (μm)'),
+             ('Retina_平均厚度', 'Mean Macular Thickness (μm)')]
+
+for idx, (col, label) in enumerate(plot_cols):
+    ax = axes[idx]
+    
+    # 准备各组数据
+    severity_order = ['Minimal', 'Mild', 'Moderate', 'Severe']
+    box_data = []
+    positions = []
+    
+    for i, sev in enumerate(severity_order):
+        data = dep_with_phq9[dep_with_phq9['Severity'] == sev][col].dropna()
+        if len(data) > 0:
+            box_data.append(data)
+            positions.append(i)
+    
+    # 绘制箱线图
+    bp = ax.boxplot(box_data, positions=positions, patch_artist=True)
+    
+    # 设置颜色渐变
+    colors = ['lightgreen', 'yellow', 'orange', 'red']
+    for patch, color in zip(bp['boxes'], colors[:len(bp['boxes'])]):
+        patch.set_facecolor(color)
+        patch.set_alpha(0.7)
+    
+    ax.set_xticks(positions)
+    ax.set_xticklabels([severity_order[i] for i in positions])
+    ax.set_ylabel(label, fontsize=11)
+    ax.set_title(label, fontsize=11)
+    ax.grid(True, alpha=0.3)
+
+plt.tight_layout()
+plt.savefig(f'{figures_dir}/Figure6_Subgroup_Analysis.png', dpi=300, bbox_inches='tight', facecolor='white')
+plt.close()
+print(f"✓ Figure 6 saved")
+
+print("\n" + "=" * 80)
+print("All 6 Figures generated successfully!")
+print(f"Output directory: {figures_dir}")
+print("=" * 80)

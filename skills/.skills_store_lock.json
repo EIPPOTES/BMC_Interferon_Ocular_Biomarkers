@@ -1,0 +1,449 @@
+{
+  "version": 1,
+  "skills": {
+    "maomao-weather": {
+      "name": "weather",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=maomao-weather",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "calendar-manager": {
+      "name": "Calendar Manager",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=calendar-manager",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "pdf-ocr-skill": {
+      "name": "pdf-ocr",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=pdf-ocr-skill",
+      "source": "skillhub",
+      "version": "2.2.0"
+    },
+    "academic-research": {
+      "name": "Academic Research",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=academic-research",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "paper-parse": {
+      "name": "Paper Parse",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=paper-parse",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "paper-fetcher": {
+      "name": "Academic Paper Fetcher",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=paper-fetcher",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "data-visualizer": {
+      "name": "data-visualizer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=data-visualizer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "chart-generator": {
+      "name": "Chart Generator",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=chart-generator",
+      "source": "skillhub",
+      "version": "1.4.1"
+    },
+    "image-handler": {
+      "name": "Image Handler",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=image-handler",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "web-search-ex-skill": {
+      "name": "Web Search",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=web-search-ex-skill",
+      "source": "skillhub",
+      "version": "1.3.0"
+    },
+    "web-to-markdown": {
+      "name": "web-to-markdown",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=web-to-markdown",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "file-sorter": {
+      "name": "File Sorter",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=file-sorter",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "note": {
+      "name": "Note",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=note",
+      "source": "skillhub",
+      "version": "2.1.0"
+    },
+    "translate": {
+      "name": "Translate",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=translate",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "browser-use-pro": {
+      "name": "Browser Use Pro",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=browser-use-pro",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "codex-bridge": {
+      "name": "Codex Bridge",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=codex-bridge",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "batch-file-renamer": {
+      "name": "Batch File Renamer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=batch-file-renamer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "meeting-notes-generator": {
+      "name": "Meeting Notes Generator",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=meeting-notes-generator",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "pdf-translate": {
+      "name": "PDF Translate",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=pdf-translate",
+      "source": "skillhub",
+      "version": "4.0.0"
+    },
+    "web-scraper-pro": {
+      "name": "Web Scraper Pro",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=web-scraper-pro",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "local-file": {
+      "name": "Local File",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=local-file",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "notebooklm-ppt": {
+      "name": "NotebookLM PPT",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=notebooklm-ppt",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "arxiv-translate": {
+      "name": "Arxiv Translate",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=arxiv-translate",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github-trending-project": {
+      "name": "github-trending-project",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=github-trending-project",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "email-assistant": {
+      "name": "Email Assistant",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=email-assistant",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "reminder": {
+      "name": "Reminder",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=reminder",
+      "source": "skillhub",
+      "version": "0.1.1"
+    },
+    "math-evaluate": {
+      "name": "Math Evaluate",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=math-evaluate",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "precision-calc": {
+      "name": "Precision Calculator — Exact Math, Every Time",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=precision-calc",
+      "source": "skillhub",
+      "version": "1.0.6"
+    },
+    "time-convert": {
+      "name": "Time Convert",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=time-convert",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "timestamp-converter": {
+      "name": "Timestamp Converter",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=timestamp-converter",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "crypto-price-checker": {
+      "name": "Crypto Price Checker",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=crypto-price-checker",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "health-data-analyzer": {
+      "name": "Health Data Analyzer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=health-data-analyzer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "debugging-r-environment-and-dependencies": {
+      "name": "Debugging R Environment And Dependencies",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=debugging-r-environment-and-dependencies",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "data-analysis": {
+      "name": "Data Analysis",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=data-analysis",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "statistics": {
+      "name": "Statistics",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=statistics",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "csv-data-explorer": {
+      "name": "CSV Data Explorer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=csv-data-explorer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "openclaw-optimizer-pro": {
+      "name": "OpenClaw Optimizer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=openclaw-optimizer-pro",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "openclaw-safe-ops": {
+      "name": "OpenClaw Safe Ops",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=openclaw-safe-ops",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "shadows-context-optimizer": {
+      "name": "Shadows Context Optimizer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=shadows-context-optimizer",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "context-budget-optimizer": {
+      "name": "Context Budget Optimizer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=context-budget-optimizer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "openclaw-session-recall": {
+      "name": "Session Recall",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=openclaw-session-recall",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "openclaw-guide-maintenance": {
+      "name": "OpenClaw Guide & Maintenance",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=openclaw-guide-maintenance",
+      "source": "skillhub",
+      "version": "2026.3.8"
+    },
+    "openclaw360": {
+      "name": "Openclaw360",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=openclaw360",
+      "source": "skillhub",
+      "version": "0.1.6"
+    },
+    "skill-optimizer": {
+      "name": "skill-optimizer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=skill-optimizer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "word-docx": {
+      "name": "Word / DOCX",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=word-docx",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "image-ocr": {
+      "name": "Image Ocr",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=image-ocr",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "markdown-to-word-skill": {
+      "name": "Markdown To Word Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=markdown-to-word-skill",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "tavily-search-pro": {
+      "name": "Tavily Search Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=tavily-search-pro",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "nano-pdf": {
+      "name": "Nano Pdf",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=nano-pdf",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "obsidian": {
+      "name": "Obsidian",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=obsidian",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "humanize-ai-text": {
+      "name": "Humanize AI text",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=humanize-ai-text",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "brave-search": {
+      "name": "Brave Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=brave-search",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "baidu-search": {
+      "name": "baidu web search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=baidu-search",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "api-gateway": {
+      "name": "API Gateway",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=api-gateway",
+      "source": "skillhub",
+      "version": "1.0.54"
+    },
+    "notion": {
+      "name": "Notion",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=notion",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github": {
+      "name": "Github",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "mcporter": {
+      "name": "Mcporter",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mcporter",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "skill-creator": {
+      "name": "Skill Creator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-creator",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "elite-longterm-memory": {
+      "name": "Elite Longterm Memory",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=elite-longterm-memory",
+      "source": "skillhub",
+      "version": "1.2.3"
+    },
+    "model-usage": {
+      "name": "Model Usage",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=model-usage",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "medical-research-toolkit": {
+      "name": "Medical Research Toolkit",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=medical-research-toolkit",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "pubmed": {
+      "name": "PubMed",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=pubmed",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "academic-writing-refiner": {
+      "name": "academic-writing-refiner",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=academic-writing-refiner",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "academic-citation-manager": {
+      "name": "Academic Citation Manager",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=academic-citation-manager",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "research-paper-kb": {
+      "name": "Research Paper Kb",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=research-paper-kb",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "automation-workflows": {
+      "name": "Automation Workflows",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=automation-workflows",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "academic-deep-research": {
+      "name": "Academic Deep Research",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=academic-deep-research",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "statistics-2": {
+      "name": "Pywayne Statistics",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=statistics-2",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "survival-analysis-km": {
+      "name": "Survival Analysis (KM)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=survival-analysis-km",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "ml-metrics-analyser": {
+      "name": "Ml Metrics Analyser",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ml-metrics-analyser",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "academic-writing": {
+      "name": "academic-writing",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=academic-writing",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "humanizer": {
+      "name": "Humanizer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=humanizer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "writing-style-iterator": {
+      "name": "Writing Style Iterator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=writing-style-iterator",
+      "source": "skillhub",
+      "version": "0.1.0"
+    }
+  }
+}
