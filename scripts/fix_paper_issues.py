@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 修复OCT-MDD论文中的关键问题
 基于用户2026-03-15 22:04的详细审核报告

@@ -1,3 +1,8 @@
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -15,7 +20,7 @@ def main():
     plt.rcParams['axes.unicode_minus'] = False
 
     input_dir = '/mnt/c/Users/CUI/Desktop/最终修改'
-    output_dir = '/mnt/c/Users/CUI/Desktop/论文及图表'
+    output_dir = 'str(/mnt/c/Users/CUI/Desktop/论文及图表)'
 
     def excel_to_png(df, png_path, title, col_widths=None):
         """将DataFrame转换为PNG图片"""

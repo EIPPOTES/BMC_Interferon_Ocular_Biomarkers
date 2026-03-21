@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 生成完整的数据更新清单
 对比论文中的统计数据 vs 实际计算值

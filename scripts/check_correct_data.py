@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 检查正确的原始数据文件：02_OCT数据_完整整合.xlsx
 """

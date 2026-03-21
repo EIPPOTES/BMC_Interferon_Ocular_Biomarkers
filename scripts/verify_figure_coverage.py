@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 验证所有Figures是否涵盖需要展示的数据
 与论文中的关键发现对比

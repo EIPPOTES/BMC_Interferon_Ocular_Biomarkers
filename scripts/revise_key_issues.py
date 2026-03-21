@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 根据审稿意见进行关键修改
 1. 年龄匹配亚组分析

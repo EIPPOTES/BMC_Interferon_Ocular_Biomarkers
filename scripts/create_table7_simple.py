@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 创建Table 7: PHQ-9严重程度分层分析（简化直接版）
 基于论文描述和现有样本量信息

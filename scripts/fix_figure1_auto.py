@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 自动修复Figure 1箭头重叠问题
 尝试使用图像处理技术自动检测和修复箭头与文字的重叠

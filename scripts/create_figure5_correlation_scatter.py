@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 制作SCI图表 - Figure 5: Correlation between OCT parameters and PHQ-9 scores
 基于463眼OCT-MDD研究数据

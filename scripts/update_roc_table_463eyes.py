@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
+
 def main():
     """主函数，包装原有执行代码"""
     """
