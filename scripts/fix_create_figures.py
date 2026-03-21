@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 修复create_figures.py，添加if __name__ == "__main__":保护
 """

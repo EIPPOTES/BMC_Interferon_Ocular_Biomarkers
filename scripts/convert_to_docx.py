@@ -5,6 +5,11 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.enum.style import WD_STYLE_TYPE
 import re
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def markdown_to_docx(md_file, docx_file):
     """Convert Markdown file to DOCX with basic formatting."""
     

@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     """
@@ -90,8 +95,8 @@ def main():
 
     # 主要目录
     base_dirs = [
-        "/mnt/c/Users/CUI/Desktop/投稿、数据修改/03_Tables",
-        "/mnt/c/Users/CUI/Desktop/投稿、数据修改/08_Unified_Analysis_20260315/unified_analysis_results_20260315"
+        str(/mnt/c/Users/CUI/Desktop/论文及图表),
+        str(/mnt/c/Users/CUI/Desktop/论文及图表)
     ]
 
     all_files = []
@@ -223,7 +228,7 @@ def main():
     ]
 
     for filename, rel_path, description in core_files:
-        full_path = f"/mnt/c/Users/CUI/Desktop/投稿、数据修改/{rel_path}"
+        full_path = fstr(/mnt/c/Users/CUI/Desktop/论文及图表)
         if os.path.exists(full_path):
             mtime = datetime.fromtimestamp(os.path.getmtime(full_path)).strftime('%Y-%m-%d %H:%M')
             print(f"\n📄 {filename}")

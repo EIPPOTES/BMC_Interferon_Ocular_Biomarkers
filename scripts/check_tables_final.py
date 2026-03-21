@@ -33,7 +33,7 @@ def check_table1_consistency():
     print("="*70)
     
     # 读取原始数据
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/投稿版/投稿版/data/str(/root/.openclaw/workspace/data/raw/data.xlsx)')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
     
     # 按人分组（去重）
     df_patient = df.drop_duplicates(subset=['Patient_ID'])
@@ -53,7 +53,7 @@ def check_table1_consistency():
         print(f"     Control: {ctrl_age.mean():.1f} ± {ctrl_age.std():.1f}岁 (n={len(ctrl_age)})")
     
     # 读取Word文档
-    docx_data = extract_table_data('/mnt/c/Users/CUI/Desktop/投稿版/05_Tables_Docx/Table1_Baseline_Characteristics.docx')
+    docx_data = extract_table_data(str(/mnt/c/Users/CUI/Desktop/论文及图表))
     
     if docx_data and len(docx_data) > 1:
         print(f"\n📄 Word文档数据:")
@@ -74,7 +74,7 @@ def check_all_tables_summary():
     print("📋 05_Tables_Docx 所有表格文件检查")
     print("="*70)
     
-    tables_dir = '/mnt/c/Users/CUI/Desktop/投稿版/05_Tables_Docx'
+    tables_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     tables = [
         ('Table1', 'Baseline_Characteristics', '基线特征'),

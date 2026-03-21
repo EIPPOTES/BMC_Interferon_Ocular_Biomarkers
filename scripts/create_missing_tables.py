@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 创建缺失的表格文件
 包括：Table 7 和补充表格 S1, S4, S5, S7, S8
@@ -14,7 +19,7 @@ warnings.filterwarnings('ignore')
 
 def load_and_filter_data():
     """加载并筛选数据（463眼有完整年龄性别数据）"""
-    data_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/04_Data/data_499eyes_20260315.xlsx"
+    data_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     df = pd.read_excel(data_path)
     
     print("加载原始数据...")
@@ -509,7 +514,7 @@ def create_supplementary_table_s8(df):
 
 def save_tables(tables_dict):
     """保存所有表格到文件"""
-    output_dir = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript"
+    output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     os.makedirs(output_dir, exist_ok=True)
     
     saved_files = []

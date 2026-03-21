@@ -515,7 +515,7 @@ def main():
     print("基于用户22:36的详细审核建议")
     print("=" * 80)
     
-    paper_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/OCT_MDD_Manuscript_463eyes_ML_with_Tables_ROC_Updated_20260315.md"
+    paper_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     if not os.path.exists(paper_path):
         print(f"错误：论文文件不存在: {paper_path}")
@@ -560,7 +560,7 @@ def main():
     print(report)
     
     # 保存报告
-    report_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/第二轮修复完成报告.txt"
+    report_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
     print(f"\n报告已保存: {report_path}")

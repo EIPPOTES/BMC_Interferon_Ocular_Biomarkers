@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 根据原始数据重新生成所有Figures
 使用正确的数据：02_OCT数据_完整整合.xlsx
@@ -20,13 +25,13 @@ plt.style.use('seaborn-v0_8-whitegrid')
 sns.set_palette("husl")
 
 # 设置输出目录
-output_dir = '/mnt/c/Users/CUI/Desktop/投稿版/Figures_重新生成_全面版'
+output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 import os
 os.makedirs(output_dir, exist_ok=True)
 
 def load_data():
     """加载原始数据"""
-    data_file = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx'
+    data_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     df = pd.read_excel(data_file)
     
     # 按人分组

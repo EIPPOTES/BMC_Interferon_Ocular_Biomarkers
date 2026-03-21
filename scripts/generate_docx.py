@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     """
@@ -17,8 +22,8 @@ def main():
         subprocess.run(['apt-get', 'install', '-y', 'pandoc'], capture_output=True)
 
     # 转换markdown到docx
-    input_file = '/mnt/c/Users/CUI/Desktop/投稿版/01_Manuscript/OCT_MDD_Manuscript_FINAL_20260314_1308.md'
-    output_file = '/mnt/c/Users/CUI/Desktop/投稿版/01_Manuscript/OCT_MDD_Manuscript_FINAL.docx'
+    input_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
+    output_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 
     print("="*60)
     print("生成docx版本")

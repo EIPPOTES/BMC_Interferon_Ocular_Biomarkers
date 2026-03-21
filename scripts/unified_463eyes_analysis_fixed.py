@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     """
@@ -21,7 +26,7 @@ def main():
     print("=" * 80)
 
     # 路径设置
-    base_dir = "/mnt/c/Users/CUI/Desktop/投稿、数据修改"
+    base_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     data_path = os.path.join(base_dir, "04_Data", "data_499eyes_20260315.xlsx")
     tables_dir = os.path.join(base_dir, "03_Tables")
     report_dir = os.path.join(base_dir, "分析报告", "01_原始数据表格")

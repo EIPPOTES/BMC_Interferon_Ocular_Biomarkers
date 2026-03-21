@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 创建Table 7: PHQ-9严重程度分层分析（修复版）
 基于现有数据和论文描述
@@ -14,7 +19,7 @@ def create_table7_from_existing_data():
     print("创建 Table 7: PHQ-9严重程度分层分析...")
     
     # 方法1: 基于亚组分析文件
-    subgroup_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/03_Tables/亚组分析结果_20260315.xlsx"
+    subgroup_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     if os.path.exists(subgroup_path):
         df_subgroup = pd.read_excel(subgroup_path)
@@ -69,7 +74,7 @@ def create_table7_from_existing_data():
                 print("亚组分析文件中的β值为空，尝试使用相关性数据...")
                 
                 # 加载相关性分析文件
-                corr_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/Table4_Correlation_PHQ9.xlsx"
+                corr_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
                 if os.path.exists(corr_path):
                     df_corr = pd.read_excel(corr_path)
                     print(f"相关性数据: {df_corr.shape}")
@@ -186,7 +191,7 @@ def main():
     
     if table7_df is not None and len(table7_df) > 0:
         # 保存文件
-        output_dir = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript"
+        output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
         os.makedirs(output_dir, exist_ok=True)
         
         output_path = os.path.join(output_dir, "Table7_PHQ9_Stratified_Analysis.xlsx")

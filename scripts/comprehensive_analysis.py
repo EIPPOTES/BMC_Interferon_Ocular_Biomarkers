@@ -4,6 +4,11 @@ from scipy import stats
 from sklearn.metrics import roc_curve, auc
 import warnings
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     warnings.filterwarnings('ignore')

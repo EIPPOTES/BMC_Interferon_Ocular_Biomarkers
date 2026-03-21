@@ -3,6 +3,11 @@ import os
 import numpy as np
 
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     def analyze_image(img_path):
@@ -111,7 +116,7 @@ def main():
             print(f"\n✅ 未检测到明显异常")
 
     # 分析所有表格
-    table_dir = "/mnt/c/Users/CUI/Desktop/最终版/02_图表_Table/"
+    table_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     print("开始分析表格图片...")
     print(f"目录: {table_dir}")
 

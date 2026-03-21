@@ -4,6 +4,11 @@ import numpy as np
 from matplotlib import font_manager as fm
 import warnings
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     warnings.filterwarnings('ignore')
@@ -22,8 +27,8 @@ def main():
     print("将Excel表格转换为PNG图片")
     print("=" * 80)
 
-    input_dir = '/mnt/c/Users/CUI/Desktop/最终修改'
-    output_dir = '/mnt/c/Users/CUI/Desktop/论文及图表'
+    input_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
+    output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 
     # 定义要转换的表格
     tables = [

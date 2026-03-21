@@ -4,12 +4,17 @@ from sklearn.metrics import roc_curve, auc
 from scipy import stats
 import warnings
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     warnings.filterwarnings('ignore')
 
     # 读取数据
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/03_OCT数据_最终清洗.xlsx')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
 
     print("=" * 80)
     print("ROC Analysis with 95% Confidence Intervals")
@@ -148,7 +153,7 @@ def main():
     results_df = pd.DataFrame(results)
 
     # 保存结果
-    output_path = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/ROC_Analysis_with_95CI.xlsx'
+    output_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     results_df.to_excel(output_path, index=False)
     print(f"\nResults saved to: {output_path}")
 

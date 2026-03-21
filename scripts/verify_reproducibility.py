@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 验证统计结果的可复现性
 """
@@ -9,7 +14,7 @@ from scipy import stats
 
 def load_data():
     """加载数据"""
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
     
     # 排除年龄缺失的Control参与者
     control_ages = df[df['分组'] == '健康对照'].drop_duplicates('Patient_ID')[['Patient_ID', '年龄']]

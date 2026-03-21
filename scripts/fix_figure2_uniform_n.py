@@ -14,7 +14,7 @@ from scipy import stats
 
 def load_and_filter_data():
     """加载并过滤数据"""
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
     
     # 排除年龄缺失的Control参与者
     control_ages = df[df['分组'] == '健康对照'].drop_duplicates('Patient_ID')[['Patient_ID', '年龄']]
@@ -143,7 +143,7 @@ def generate_figure2_uniform_n():
             bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.3, pad=0.5))
     
     # 保存
-    output_path = '/mnt/c/Users/CUI/Desktop/投稿版/Figures_修订版/Figure2_Group_Comparison_统一版.png'
+    output_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white', 
                 pad_inches=0.3)
     plt.close()

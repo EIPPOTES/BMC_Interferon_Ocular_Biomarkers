@@ -3,6 +3,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import warnings
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     warnings.filterwarnings('ignore')
@@ -14,8 +19,8 @@ def main():
     plt.rcParams['font.family'] = ['DejaVu Sans']
     plt.rcParams['axes.unicode_minus'] = False
 
-    output_dir = '/mnt/c/Users/CUI/Desktop/论文及图表'
-    input_dir = '/mnt/c/Users/CUI/Desktop/最终修改'
+    output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
+    input_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 
     def create_table_image(df, output_path, title, fig_width=None, fig_height=None):
         """创建表格图片"""

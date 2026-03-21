@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 详细检查Figure内容及排版质量
 """
@@ -91,7 +96,7 @@ def analyze_figure_content(path, fig_name):
 
 def check_all_figures():
     """检查所有figures"""
-    figures_dir = '/mnt/c/Users/CUI/Desktop/投稿版/02_Figures'
+    figures_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     figures = [
         ('Figure 1 - Study Flowchart', 'Figure1_Study_Flowchart.png'),

@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 重新计算Table 1基线特征表
 使用正确的原始数据：02_OCT数据_完整整合.xlsx
@@ -13,7 +18,7 @@ def recalculate_table1():
     """重新计算Table 1"""
     
     # 读取正确的数据文件
-    data_file = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx'
+    data_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     df = pd.read_excel(data_file)
     
     print("="*70)

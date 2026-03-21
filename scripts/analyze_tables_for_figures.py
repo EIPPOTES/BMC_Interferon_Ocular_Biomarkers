@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 分析最终版表格数据，为制作SCI图表做准备
 """
@@ -15,7 +20,7 @@ print(f"分析时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 print("=" * 80)
 
 # 路径设置
-final_dir = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版"
+final_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 tables_dir = os.path.join(final_dir, "03_Tables")
 manuscript_dir = os.path.join(final_dir, "01_Manuscript")
 

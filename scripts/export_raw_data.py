@@ -13,11 +13,11 @@ from scipy import stats
 from sklearn.metrics import roc_curve, auc
 import os
 
-OUTPUT_DIR = '/mnt/c/Users/CUI/Desktop/投稿、数据修改/05_Raw_Data'
+OUTPUT_DIR = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 
 def load_data():
     """加载485眼数据"""
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
     control_ages = df[df['分组'] == '健康对照'].drop_duplicates('Patient_ID')[['Patient_ID', '年龄']]
     age_missing_ids = control_ages[control_ages['年龄'].isna()]['Patient_ID'].tolist()
     return df[~((df['分组'] == '健康对照') & (df['Patient_ID'].isin(age_missing_ids)))]

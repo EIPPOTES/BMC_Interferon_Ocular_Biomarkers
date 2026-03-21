@@ -91,7 +91,7 @@ def main():
     plt.tight_layout()
 
     # 保存图片
-    output_path = '/mnt/c/Users/CUI/Desktop/最终版/06_修订版论文_2026-03-11/Supplementary_Figure_S1_Age_Distribution.png'
+    output_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white')
     print(f"\n图片已保存到: {output_path}")
 

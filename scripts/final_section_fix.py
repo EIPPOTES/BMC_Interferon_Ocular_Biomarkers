@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 最终节编号修复脚本
 确保所有3.x节编号连续且逻辑正确
@@ -91,7 +96,7 @@ def renumber_sections(content):
 
 def main():
     """主函数"""
-    paper_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/OCT_MDD_Manuscript_463eyes_ML_with_Tables_ROC_Updated_20260315.md"
+    paper_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     content = read_file(paper_path)
     

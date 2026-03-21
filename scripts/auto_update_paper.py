@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 自动更新论文中的所有数值
 """
@@ -10,7 +15,7 @@ from datetime import datetime
 def update_paper():
     """自动更新论文数值"""
     
-    paper_file = '/mnt/c/Users/CUI/Desktop/投稿版/01_Manuscript/OCT_MDD_Manuscript_Final.md'
+    paper_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     print("="*70)
     print("自动更新论文数值")
@@ -61,7 +66,7 @@ def update_paper():
     # 保存更新后的文件
     if updates:
         timestamp = datetime.now().strftime('%Y%m%d_%H%M')
-        output_file = f'/mnt/c/Users/CUI/Desktop/投稿版/01_Manuscript/OCT_MDD_Manuscript_Updated_{timestamp}.md'
+        output_file = fstr(/mnt/c/Users/CUI/Desktop/论文及图表)
         
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
@@ -146,7 +151,7 @@ def create_update_report():
 更新后的数据更准确，建议立即使用新版本投稿。
 """
     
-    report_file = '/mnt/c/Users/CUI/Desktop/投稿版/数据更新报告.md'
+    report_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     with open(report_file, 'w', encoding='utf-8') as f:
         f.write(report)
     

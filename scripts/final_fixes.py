@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 OCT-MDD论文最终修复脚本
 完成剩余的所有修改
@@ -338,7 +343,7 @@ def main():
     print("完成所有剩余修改")
     print("=" * 80)
     
-    paper_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/OCT_MDD_Manuscript_463eyes_ML_with_Tables_ROC_Updated_20260315.md"
+    paper_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     if not os.path.exists(paper_path):
         print(f"错误：论文文件不存在: {paper_path}")
@@ -375,7 +380,7 @@ def main():
     print(report)
     
     # 保存报告
-    report_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/修改完成报告.txt"
+    report_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
     print(f"\n报告已保存: {report_path}")

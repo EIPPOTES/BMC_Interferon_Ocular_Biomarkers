@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 检查论文中引用的表格哪些已经生成，哪些缺失
 """
@@ -97,9 +102,9 @@ def map_table_to_files(table_ref, existing_files):
 def main():
     """主函数"""
     # 路径
-    paper_path = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript/OCT_MDD_Manuscript_463eyes_ML_with_Tables_ROC_Updated_20260315.md"
-    tables_dir = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/03_Tables"
-    manuscript_dir = "/mnt/c/Users/CUI/Desktop/投稿、数据修改/最终版/01_Manuscript"
+    paper_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
+    tables_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
+    manuscript_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     print("检查论文表格完整性...")
     print("=" * 60)

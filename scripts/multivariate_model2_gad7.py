@@ -6,6 +6,11 @@ from scipy import stats
 from sklearn.preprocessing import LabelEncoder
 import warnings
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     warnings.filterwarnings('ignore')
@@ -15,7 +20,7 @@ def main():
     print("=" * 100)
 
     # 读取OCT数据
-    df_oct = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx')
+    df_oct = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
 
     print(f"\n原始数据形状: {df_oct.shape}")
     print(f"列名: {df_oct.columns.tolist()[:10]}...")
@@ -153,7 +158,7 @@ def main():
     print(results_df.to_string(index=False))
 
     # 保存结果
-    output_path = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/Multivariate_Model2_GAD7_Results.xlsx'
+    output_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     results_df.to_excel(output_path, index=False)
     print(f"\nResults saved to: {output_path}")
 

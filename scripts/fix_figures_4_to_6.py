@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 继续修复Figures 4-6
 """
@@ -19,12 +24,12 @@ plt.rcParams['axes.labelsize'] = 11
 
 cb_palette = ['#E69F00', '#56B4E9', '#009E73', '#F0E442', '#0072B2', '#D55E00', '#CC79A7']
 
-output_dir = '/mnt/c/Users/CUI/Desktop/投稿版/Figures_修订版'
+output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 import os
 os.makedirs(output_dir, exist_ok=True)
 
 def load_data():
-    data_file = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx'
+    data_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     df = pd.read_excel(data_file)
     df_patient = df.drop_duplicates(subset=['Patient_ID'])
     mdd = df_patient[df_patient['分组'] == '抑郁症']

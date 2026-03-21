@@ -211,13 +211,14 @@ knowledge_base/
 | 2026-03-21 | Cron任务(16:48)：验证性检索，未发现2025-2026年新权威内容，知识库v6.5维持最新 | 科研助手 |
 | 2026-03-21 | Cron任务(18:18)：新增EURETINA视网膜静脉阻塞指南(2019)，更正EGS指南第5版DOI，知识库v6.6更新 | 科研助手 |
 | 2026-03-21 | Cron任务(19:18)：新增2026年文献3篇（眼科发展展望、无纸化声明），知识库v6.7更新 | 科研助手 |
+| 2026-03-21 | Cron任务(20:48)：新增AAO PPP指南9项（2024-2025年）、EGS指南第6版（2025年）、IMI 2025 Digest，知识库v6.8更新 | 科研助手 |
 
-### 最新增量更新亮点 (2026-03-20 19:18)
+### 最新增量更新亮点 (2026-03-21 20:48)
+- **AAO PPP指南更新 (2024-2025年)** - 糖尿病视网膜病变、年龄相关性黄斑变性、特发性黄斑裂孔等9项指南更新
+- **European Glaucoma Society Guidelines 6th Edition (2025)** - 青光眼术语、诊断和治疗全面更新
+- **IMI 2025 Digest** - 近视定义、分类、临床管理指南更新
 - **Friedel et al. (2025)** - MDD患者OCT研究 (BMC Psychiatry, 1引用)
 - **Sheehan et al. (2024)** - 精神分裂症和双相障碍神经视网膜改变Meta分析 (Schizophrenia Bulletin, 23引用)
-- **Xiao et al. (2025)** - OCT和OCTA区分MDD与BPD (Int J Methods Psychiatr Res)
-- **Agnihotri et al. (2024)** - 眼科大语言模型综述 (Ophthalmology Science, 15引用)
-- **Patel et al. (2026)** - Avacincaptad pegol联合雷珠单抗治疗nAMD安全性研究 (BMJ Open Ophthalmology)
 
 ---
 

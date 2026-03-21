@@ -5,6 +5,11 @@ import statsmodels.formula.api as smf
 from scipy import stats
 import warnings
 
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 def main():
     """主函数，包装原有执行代码"""
     warnings.filterwarnings('ignore')
@@ -14,7 +19,7 @@ def main():
     print("=" * 100)
 
     # 读取数据
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
 
     # 创建二分类标签
     df['Label'] = (df['分组'] == '抑郁症').astype(int)
@@ -175,7 +180,7 @@ def main():
     print(summary_df.to_string(index=False))
 
     # 保存结果
-    output_path = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/Outlier_Analysis_CooksD_DFBETAS.xlsx'
+    output_path = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     summary_df.to_excel(output_path, index=False)
     print(f"\nSummary saved to: {output_path}")
 

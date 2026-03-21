@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 生成选项B的剩余图表（Figure 3-6）
 """
@@ -13,11 +18,11 @@ import os
 plt.rcParams['font.sans-serif'] = ['DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
-OUTPUT_DIR = '/mnt/c/Users/CUI/Desktop/投稿、数据修改/02_Figures'
+OUTPUT_DIR = str(/mnt/c/Users/CUI/Desktop/论文及图表)
 
 def load_data():
     """加载485眼数据"""
-    df = pd.read_excel('/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx')
+    df = pd.read_excel(str(/mnt/c/Users/CUI/Desktop/论文及图表))
     control_ages = df[df['分组'] == '健康对照'].drop_duplicates('Patient_ID')[['Patient_ID', '年龄']]
     age_missing_ids = control_ages[control_ages['年龄'].isna()]['Patient_ID'].tolist()
     return df[~((df['分组'] == '健康对照') & (df['Patient_ID'].isin(age_missing_ids)))]

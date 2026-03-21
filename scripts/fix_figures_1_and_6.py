@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 修复Figure 1和Figure 6
 """
@@ -11,7 +16,7 @@ from matplotlib.patches import FancyArrowPatch
 
 def load_data():
     """加载数据"""
-    data_file = '/mnt/c/Users/CUI/Desktop/最终版/04_原始数据/02_OCT数据_完整整合.xlsx'
+    data_file = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     df = pd.read_excel(data_file)
     df_patient = df.drop_duplicates(subset=['Patient_ID'])
     mdd = df_patient[df_patient['分组'] == '抑郁症']
@@ -22,7 +27,7 @@ def fix_figure1(mdd, control):
     """修复Figure 1 - 添加箭头"""
     print("修复 Figure 1: 添加流程箭头...")
     
-    output_dir = '/mnt/c/Users/CUI/Desktop/投稿版/Figures_重新生成_全面版'
+    output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     fig, ax = plt.subplots(figsize=(12, 10))
     ax.set_xlim(0, 10)
@@ -79,7 +84,7 @@ def fix_figure6(mdd):
     """修复Figure 6 - 检查并修正数据"""
     print("\n修复 Figure 6: 检查数据...")
     
-    output_dir = '/mnt/c/Users/CUI/Desktop/投稿版/Figures_重新生成_全面版'
+    output_dir = str(/mnt/c/Users/CUI/Desktop/论文及图表)
     
     # 检查PHQ-9数据
     mdd_with_phq9 = mdd[mdd['PHQ-9'].notna()]

@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# 路径配置
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from configs.paths_config import *
 """
 全面检查所有Figures的状态
 """
@@ -109,7 +114,7 @@ def check_figure2():
             else:
                 print(f"✅ 符合期刊标准")
     
-    print(f"\n数据来源: ✅ 基于原始data.xlsx (OCT数据)")
+    print(f"\n数据来源: ✅ 基于原始str(/root/.openclaw/workspace/data/raw/data.xlsx) (OCT数据)")
     print(f"状态: ✅ 已完成期刊标准修复 (带单位版)")
     print(f"参数: 15个OCT参数，包含均值、标准差、P值、效应量")
 
@@ -139,7 +144,7 @@ def check_figure3():
             else:
                 print(f"✅ 基本符合期刊标准")
     
-    print(f"\n数据来源: ✅ 基于原始data.xlsx计算AUC")
+    print(f"\n数据来源: ✅ 基于原始str(/root/.openclaw/workspace/data/raw/data.xlsx)计算AUC")
     print(f"状态: ✅ 已完成极紧凑版优化")
     print(f"指标: 9个ROC指标，包含AUC值和95% CI")
 
@@ -168,7 +173,7 @@ def check_figure4():
                 for issue in info['issues']:
                     print(f"  • {issue}")
     
-    print(f"\n数据来源: ✅ 基于原始data.xlsx (OCT+PHQ-9相关性)")
+    print(f"\n数据来源: ✅ 基于原始str(/root/.openclaw/workspace/data/raw/data.xlsx) (OCT+PHQ-9相关性)")
     print(f"状态: ⚠️ 需进一步改进以符合期刊标准")
     print(f"建议: 考虑分割为2×2网格或增加高度")
 
@@ -198,7 +203,7 @@ def check_figure5():
             else:
                 print(f"✅ 基本符合期刊标准")
     
-    print(f"\n数据来源: ✅ **已修复！基于原始data.xlsx动态计算Cohen's d**")
+    print(f"\n数据来源: ✅ **已修复！基于原始str(/root/.openclaw/workspace/data/raw/data.xlsx)动态计算Cohen's d**")
     print(f"状态: ✅ 数据计算逻辑修复完成")
     print(f"参数: 8个OCT参数效应量，与硬编码值完全一致")
     print(f"可重复性: ⭐⭐⭐⭐⭐ (5/5星)")
@@ -228,7 +233,7 @@ def check_figure6():
                 for issue in info['issues']:
                     print(f"  • {issue}")
     
-    print(f"\n数据来源: ✅ 基于原始data.xlsx (PHQ-9分层)")
+    print(f"\n数据来源: ✅ 基于原始str(/root/.openclaw/workspace/data/raw/data.xlsx) (PHQ-9分层)")
     print(f"状态: ⚠️ 需进一步改进以符合期刊标准")
     print(f"建议: 调整宽高比至1.5:1或改为纵向布局")
 
