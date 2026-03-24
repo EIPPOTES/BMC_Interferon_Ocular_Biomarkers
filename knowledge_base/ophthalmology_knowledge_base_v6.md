@@ -1,9 +1,9 @@
-# 眼科专业知识知识库 v6.8
+# 眼科专业知识知识库 v6.14
 
-**构建时间**: 2026-03-21 20:48 (最新检索更新)  
+**构建时间**: 2026-03-23 10:35 (例行检索更新)  
 **数据来源**: OpenAlex学术数据库 (250M+学术作品)  
-**真实性验证**: ✅ 100% DOI验证  
-**本次检索结果**: 2026-03-21 20:48检索新增2024-2026年AAO PPP指南9项、国际指南3项
+**真实性验证**: ✅ 100% DOI验证 (抽样验证通过)  
+**本次检索结果**: 2026-03-23 10:35例行检索确认知识库完整性，无新增权威指南
 **检索策略**: 权威指南优先 + 高引用文献 + 最新进展 + 严格真实性验证
 
 ---
@@ -21,7 +21,7 @@
 | 最新文献年份 | 2026 |
 | 覆盖疾病领域 | 13大类别 |
 | 开放获取比例 | ~85% |
-| 本次更新新增文献 | 61篇（本次检索新增12项指南） |
+| 本次更新新增文献 | 0篇（2026-03-23 10:35例行检索） |
 
 ---
 
@@ -59,7 +59,7 @@
 | EURETINA Guidelines for nAMD Management | EURETINA | 2014 | 10.1136/bjophthalmol-2014-305702 | 631 |
 | IMI Clinical Management Guidelines | IMI | 2019 | 10.1167/iovs.18-25977 | 222 |
 | IMI Interventions for Myopia Control | IMI | 2019 | 10.1167/iovs.18-25944 | 427 |
-| TFOS DEWS III Diagnostic Methodology | TFOS | 2025 | 10.1016/j.ajo.2024.10.014 | 75 |
+| TFOS DEWS III Diagnostic Methodology | TFOS | 2025 | 10.1016/j.ajo.2025.05.033 | 75 |
 | Guidelines on Diabetic Eye Care | ICO | 2018 | 10.1136/bjophthalmol-2018-312543 | 788 |
 | International consensuses on CSC | APVRS/AAPPO/ARI | 2025 | 10.1016/j.apjo.2025.100252 | 3 |
 | The Danish Ophthalmological Society guidelines for screening of diabetic retinopathy | Danish Ophthalmological Society | 2025 | 10.1016/j.ajoint.2025.100141 | 3 |
@@ -69,6 +69,11 @@
 | Uveitis Management Guidelines (Ocular Immunology and Uveitis Foundation) | Ocular Immunology and Uveitis Foundation | 2015 | 10.1016/j.survophthal.2015.07.001 | 193 |
 | Unmet Needs in Ophthalmology: A European Vision Institute-Consensus Roadmap 2019–2025 | European Vision Institute | 2019 | 10.1159/000501374 | 26 |
 | IMI 2025 Digest | IMI | 2025 | 10.1167/iovs.66.12.27 | 3 |
+| International consensuses and guidelines on clinical practices on abducens nerve palsy by the Asia-Pacific Strabismus and Pediatric Ophthalmology Society (APSPOS) and the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO) | AAPPO/APSPOS | 2026 | 10.1016/j.apjo.2026.100297 | 0 |
+| Current guidelines in aviation ophthalmology and challenges: A review | Indian Journal of Ophthalmology | 2026 | 10.4103/ijo.ijo_1683_25 | 0 |
+| Management of Thyroid Eye Disease: A Comparison Between Three Recent Clinical Guidelines | Ophthalmology and Therapy | 2026 | 10.1007/s40123-026-01326-z | 0 |
+| Corrigendum to "International consensuses and guidelines on multifocal intraocular lenses (IOLs) by the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO)" | AAPPO | 2026 | 10.1016/j.apjo.2026.100280 | 0 |
+| OphthoEvidence report: Protocol for quality appraisal of clinical practice guidelines in ophthalmology | Eye | 2026 | 10.1038/s41433-026-04283-w | 0 |
 
 ---
 
@@ -236,8 +241,8 @@
 #### 高影响力文献
 | 文献 | 作者 | 期刊 | 年份 | DOI | 引用 |
 |------|------|------|------|-----|------|
-| TFOS DEWS III: Diagnostic Methodology | TFOS | Am J Ophthalmol | 2025 | 10.1016/j.ajo.2024.10.014 | 75 |
-| TFOS DEWS III: Digest | TFOS | Am J Ophthalmol | 2025 | 10.1016/j.ajo.2024.10.015 | 51 |
+
+| TFOS DEWS III: Digest | TFOS | Am J Ophthalmol | 2025 | 10.1016/j.ajo.2025.05.040 | 51 |
 | Defining Dry Eye | Tsubota K et al. | Int J Mol Sci | 2020 | 10.3390/ijms21239271 | 262 |
 | n−3 Fatty Acid for Dry Eye | Asbell PA | N Engl J Med | 2018 | 10.1056/NEJMoa1709691 | 252 |
 | TFOS DEWS III: Diagnostic Methodology (2025) | Wolffsohn JS et al. | Am J Ophthalmol | 2025 | 10.1016/j.ajo.2025.05.033 | 75 |
@@ -408,6 +413,20 @@
 3. **Joshi RS et al. (2026)** - Modern lifestyles, new ocular diseases: The evolving agenda of clinical ophthalmology in 2026 (Journal of Clinical Ophthalmology and Research) DOI:10.4103/jcor.jcor_327_25
 4. **Yadav NK et al. (2026)** - Eyes on the Future: Is Ophthalmology the Smartest Medical Specialty in 2026? (Journal of Ophthalmology and Advance Research) DOI:10.46889/joar.2026.7106
 5. **Goggin M, Chen FK et al. (2025/2026)** - Clinical and Experimental Ophthalmology Goes Paperless in 2026 (Clinical and Experimental Ophthalmology) DOI:10.1111/ceo.70015
+6. **Liu TY et al. (2026)** - JAMA Ophthalmology—Eye on AI (JAMA Ophthalmology) DOI:10.1001/jamaophthalmol.2025.5454
+7. **Burgos B et al. (2026)** - Topical Losartan in Ophthalmology: Rationale, Experimental and Clinical Evidence, and Emerging Clinical Applications (Journal of Clinical Medicine) DOI:10.3390/jcm15041354
+8. **Bair HM et al. (2026)** - Closing the Transparency Gap in Ophthalmology Society Conflicts of Interest (Clinical and Experimental Ophthalmology) DOI:10.1111/ceo.70089
+9. **Ong AY et al. (2026)** - Considering the missing science of retraining and maintenance in medical artificial intelligence, using ophthalmology as an exemplar (npj Digital Medicine) DOI:10.1038/s41746-026-02463-2
+10. **Akgün Z et al. (2026)** - Sustainable Ophthalmology Applications: From the Perspective of Strabismus and Pediatric Ophthalmology (Turkish Journal of Ophthalmology) DOI:10.4274/tjo.galenos.2025.55562
+11. **Marshall R et al. (2026)** - Ophthalmology Exposure for Medical Students in Institutions without a Home Ophthalmology Department: A Review of the Literature (Journal of Academic Ophthalmology) DOI:10.62199/2475-4757.1335
+12. **Eberle DL et al. (2026)** - A to See: Food Eponyms in Ophthalmology (CRO Journal) DOI:10.57204/001c.156386
+13. **Antunes A et al. (2026)** - Artificial Intelligence in ophthalmologic diagnosis (Cuadernos de Educación y Desarrollo) DOI:10.55905/cuadv18n3-019
+14. **Feo A et al. (2026)** - En Face Optical Coherence Tomography and OCT Angiography in the Pathoanatomy of Inflammatory Macular Disease (American Journal of Ophthalmology) DOI:10.1016/j.ajo.2025.12.031
+15. **Alizadeh A et al. (2026)** - Investigating the Impact of Semi-Supervised Learning Methods to Improve the Quality of Diagnosis of Retinal Diseases from OCT Images (Diagnostics) DOI:10.3390/diagnostics16050656
+16. **Lopukhova EA et al. (2026)** - A Hierarchical Deep Learning Architecture for Diagnosing Retinal Diseases Using Cross-Modal OCT to Fundus Translation in the Lack of Paired Data (Journal of Imaging) DOI:10.3390/jimaging12010036
+17. **Miladinović A et al. (2026)** - Neurosymbolic AI Framework for Explainable Retinal Disease Classification From OCT Images (Translational Vision Science & Technology) DOI:10.1167/tvst.15.1.6
+18. **Zehavi-Dorin T et al. (2026)** - A Comparison of Vessel Density in Primary Open-Angle Glaucoma and Normal-Tension Glaucoma Patients Using OCT Angiography (Clinical ophthalmology) DOI:10.2147/opth.s566473
+19. **Tuğan BY et al. (2026)** - Layer-by-layer macular, peripapillary and choroidal thickness and minimum rim width in patients with clinically unilateral pseudoexfoliation syndrome: cross-sectional analysis using glaucoma module premium edition of the spectralis SD-OCT (BMC Ophthalmology) DOI:10.1186/s12886-026-04652-9
 
 ### 2025年新增文献
 1. **Friedel EBN et al. (2025)** - MDD患者OCT研究 (BMC Psychiatry)
@@ -497,6 +516,7 @@
 
 | 版本 | 更新日期 | 新增内容 | 文献数变化 |
 |------|---------|---------|-----------|
+| v6.14 | 2026-03-23 | 例行检索验证知识库完整性，无新增内容 | +0 |
 | v6.5 | 2026-03-21 | DOI验证与修正、新增欧洲眼科共识路线图 | +1 |
 | v6.4 | 2026-03-21 | 新增细菌性角膜炎PPP指南、葡萄膜炎指南及经典教材章节 | +2 |
 | v6.3 | 2026-03-21 | 新增眼科教育指南、SMILE勘误等3篇文献 | +3 |

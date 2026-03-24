@@ -29,9 +29,9 @@
 
 | 指南名称 | 年份 | DOI | 引用次数 |
 |---------|------|-----|---------|
-| Primary Open-Angle Glaucoma | 2020 | 10.1016/j.ophtha.2020.10.031 | 395 |
-| Primary Open-Angle Glaucoma Suspect | 2020 | 10.1016/j.ophtha.2020.10.032 | 71 |
-| Primary Angle-Closure Disease | 2020 | 10.1016/j.ophtha.2020.10.033 | 116 |
+| Primary Open-Angle Glaucoma | 2020 | 10.1016/j.ophtha.2020.10.022 | 396 |
+| Primary Open-Angle Glaucoma Suspect | 2020 | 10.1016/j.ophtha.2020.10.023 | 71 |
+| Primary Angle-Closure Disease | 2020 | 10.1016/j.ophtha.2020.10.021 | 116 |
 | Diabetic Retinopathy | 2019 | 10.1016/j.ophtha.2019.09.025 | 671 |
 | Age-Related Macular Degeneration | 2019 | 10.1016/j.ophtha.2019.09.024 | 329 |
 | Retinal Vein Occlusions | 2019 | 10.1016/j.ophtha.2019.09.029 | 88 |

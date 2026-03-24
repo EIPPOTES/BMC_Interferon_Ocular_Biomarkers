@@ -444,6 +444,36 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=writing-style-iterator",
       "source": "skillhub",
       "version": "0.1.0"
+    },
+    "medical-specialty-briefs": {
+      "name": "Medical Briefs",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=medical-specialty-briefs",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "medical-research-literature-reader-pro": {
+      "name": "Medical Research Literature Reader Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=medical-research-literature-reader-pro",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "auto-updater": {
+      "name": "Auto-Updater Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=auto-updater",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "data-analysis-workflow": {
+      "name": "Data Analysis Workflow",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=data-analysis-workflow",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "anygen-data-analysis": {
+      "name": "Data Analysis",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=anygen-data-analysis",
+      "source": "skillhub",
+      "version": "1.3.5"
     }
   }
 }

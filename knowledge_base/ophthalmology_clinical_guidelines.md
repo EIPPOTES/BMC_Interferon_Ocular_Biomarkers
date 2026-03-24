@@ -1,586 +1,185 @@
-# 眼科专业知识知识库
-## Ophthalmology Clinical Knowledge Base
+# 眼科临床指南与专业知识知识库
 
-**创建日期**: 2026-03-20  
-**更新周期**: 每季度审查更新  
-**真实性承诺**: 所有内容均来自权威出版物或官方指南
-
----
-
-## 目录
-
-1. [知识库说明](#知识库说明)
-2. [青光眼](#青光眼)
-3. [视网膜疾病](#视网膜疾病)
-4. [角膜与眼表疾病](#角膜与眼表疾病)
-5. [白内障](#白内障)
-6. [小儿眼科与斜视](#小儿眼科与斜视)
-7. [神经眼科](#神经眼科)
-8. [葡萄膜炎](#葡萄膜炎)
-9. [OCT影像标准](#oct影像标准)
-10. [资料来源索引](#资料来源索引)
+**最后更新:** 2026-03-24  
+**数据来源:** OpenAlex学术数据库、PubMed索引期刊  
+**真实性验证:** 所有文献均来自同行评议期刊，附DOI可验证
 
 ---
 
-## 知识库说明
+## 一、权威指南与共识
 
-### 真实性验证策略
-- ✅ 优先使用学术数据库（OpenAlex、PubMed）检索
-- ✅ 确保资料来源为权威机构（AAO、期刊Ophthalmology等）
-- ✅ 标注所有资料的DOI和引用信息
-- ✅ 定期审查更新内容
-- ❌ 拒绝任何非权威或来源不明的信息
+### 1.1 欧洲青光眼学会指南 (EGS Guidelines)
 
-### 主要权威来源
-1. **美国眼科学会 (AAO)** - Preferred Practice Pattern® 系列
-2. **Ophthalmology 期刊** - AAO官方期刊
-3. **TFOS (Tear Film & Ocular Surface Society)** - 眼表疾病指南
-4. **国际眼科共识** - 专家共识文件
+| 指南 | 版本 | 年份 | 期刊 | DOI | 引用次数 |
+|------|------|------|------|-----|----------|
+| European Glaucoma Society Terminology and Guidelines for Glaucoma | 5th Edition | 2021 | British Journal of Ophthalmology | 10.1136/bjophthalmol-2021-egsguidelines | 562 |
+| EGS Guidelines - Chapter 3: Treatment principles and options | 4th Edition | 2017 | British Journal of Ophthalmology | 10.1136/bjophthalmol-2016-egsguideline.003 | 263 |
+| EGS Guidelines - Chapter 2: Classification and terminology | 4th Edition | 2017 | British Journal of Ophthalmology | 10.1136/bjophthalmol-2016-egsguideline.002 | 254 |
 
----
+**关键内容概要:**
+- 青光眼定义：一组进行性视神经病变，特征是视网膜神经节细胞和视网膜神经纤维层变性
+- 治疗原则：基于"WHOM-TO-TREAT"图表，考虑神经节细胞丢失速率和功能衰退程度
+- 分类系统：包括原发性先天性青光眼/儿童青光眼、开角型青光眼、闭角型青光眼等
 
-## 青光眼
+### 1.2 糖尿病视网膜病变指南
 
-### 原发性开角型青光眼 (Primary Open-Angle Glaucoma, POAG)
+| 指南 | 年份 | 期刊 | DOI | 引用次数 |
+|------|------|------|-----|----------|
+| Diabetic Retinopathy Preferred Practice Pattern® | 2019 | Ophthalmology | 10.1016/j.ophtha.2019.09.025 | 671 |
+| Diabetic retinopathy and diabetic macular oedema pathways and management: UK Consensus Working Group | 2020 | Eye | 10.1038/s41433-020-0961-6 | 197 |
 
-**指南来源**: AAO Preferred Practice Pattern® (2020)  
-**DOI**: 10.1016/j.ophtha.2020.10.022  
-**引用**: 395次
+### 1.3 年龄相关性黄斑变性 (AMD) 指南
 
-#### 核心要点
-- **定义**: 以视神经损伤和视野缺损为特征的慢性进行性视神经病变
-- **眼压**: 是主要危险因素，但不是诊断必要条件
-- **诊断标准**: 
-  - 视神经乳头改变（视网膜神经纤维层缺损、视盘凹陷扩大）
-  - 特征性视野缺损
-  - 房角开放（Shaffer分级III-IV级）
-
-#### 治疗目标
-- 目标眼压：根据基线眼压、病情严重程度设定个体化目标
-- 常用药物：前列腺素类似物、β受体阻滞剂、碳酸酐酶抑制剂
-- 手术治疗：小梁切除术、青光眼引流阀植入、MIGS
+| 指南 | 年份 | 期刊 | DOI | 引用次数 |
+|------|------|------|-----|----------|
+| Guidelines for the management of neovascular age-related macular degeneration by EURETINA | 2014 | British Journal of Ophthalmology | 10.1136/bjophthalmol-2014-305702 | 632 |
+| Risk Factors for the Incidence of Advanced AMD (AREDS Report No. 19) | 2005 | Ophthalmology | 10.1016/j.ophtha.2004.10.047 | 678 |
 
 ---
 
-### 原发性闭角型青光眼 (Primary Angle-Closure Disease, PACD)
+## 二、视网膜疾病
 
-**指南来源**: AAO Preferred Practice Pattern® (2020)  
-**DOI**: 10.1016/j.ophtha.2020.10.021  
-**引用**: 116次  
-**开放获取**: http://www.aaojournal.org/article/S016164202031023X/pdf
+### 2.1 糖尿病视网膜病变 (Diabetic Retinopathy, DR)
 
-#### 疾病谱系
-1. **可疑原发性房角关闭 (PACS)**: 房角狭窄但无眼压升高或视神经损伤
-2. **原发性房角关闭 (PAC)**: 房角关闭导致眼压升高或周边虹膜前粘连
-3. **原发性闭角型青光眼 (PACG)**: 房角关闭导致青光眼性视神经病变
+**流行病学 [来源: Eye and Vision, 2015]**
+- 全球糖尿病患者约2.85亿，其中约1/3有DR表现
+- 约1/3的DR为威胁视力的DR，包括糖尿病黄斑水肿(DME)
+- DR是全球视力丧失的主要原因之一
 
-#### 治疗策略
-- **激光虹膜周切术 (LPI)**：预防性治疗PACS/PAC
-- **白内障手术**：可有效加深前房、开放房角
-- **药物治疗**：降眼压药物
-- **滤过手术**：晚期病例
+**关键研究文献:**
 
-#### 全球流行病学
-- 占全球青光眼致盲的50%
-- 亚洲人群高发
-- 危险因素：浅前房、短眼轴、晶状体增厚
+| 研究 | 年份 | 期刊 | DOI | 引用 | 核心发现 |
+|------|------|------|-----|------|----------|
+| Epidemiology of diabetic retinopathy, diabetic macular edema and related vision loss | 2015 | Eye and Vision | 10.1186/s40662-015-0026-2 | 1535 | 全球DR流行病学数据 |
+| Diabetic retinopathy: current understanding, mechanisms, and treatment strategies | 2017 | JCI Insight | 10.1172/jci.insight.93751 | 1022 | DR机制与治疗策略综述 |
+| Deep learning system for DR detection (Singapore Eye Lesion Analyzer) | 2017 | JAMA | 10.1001/jama.2017.18152 | 2215 | DLS在DR筛查中的高敏感性和特异性 |
 
----
+**治疗进展:**
+- **RESTORE研究 (2011)**: Ranibizumab单药和联合激光治疗DME，视力获益优于标准激光 [Ophthalmology, DOI: 10.1016/j.ophtha.2011.01.031, 1315引用]
+- **抗VEGF治疗**: 显著降低nAMD致盲发生率，改善患者预后 [BMC Ophthalmology, 2020]
 
-### 开角型青光眼临床指南 (2024更新)
+### 2.2 年龄相关性黄斑变性 (Age-related Macular Degeneration, AMD)
 
-**指南来源**: Acta Ophthalmologica  
-**DOI**: 10.1111/aos.16599  
-**引用**: 19次  
-**开放获取**: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aos.16599
+**关键研究:**
 
-#### 指南范围
-涵盖：
-- 原发性开角型青光眼 (POAG)
-- 剥脱性青光眼 (XFG)
-- 色素性青光眼 (PG)
+| 研究 | 年份 | 期刊 | DOI | 引用 | 核心发现 |
+|------|------|------|-----|------|----------|
+| Photodynamic Therapy with Verteporfin for subfoveal CNV in AMD | 1999 | Archives of Ophthalmology | 10.1001/archopht.117.10.1329 | 2186 | Verteporfin治疗的2年安全性数据 |
+| Pegaptanib for Neovascular AMD | 2004 | NEJM | 10.1056/nejmoa042760 | 2308 | Pegaptanib治疗nAMD的有效性 |
+| Autologous iPSC-derived Retinal Cells for Macular Degeneration | 2017 | NEJM | 10.1056/nejmoa1608368 | 1498 | iPSC-RPE移植的可行性研究 |
 
-#### 诊断要点
-- 全面的眼科检查
-- 房角镜检查确认房角开放
-- 视野检查（标准自动视野计）
-- OCT视神经纤维层分析
+**AI在AMD中的应用:**
+- 基于深度卷积神经网络的AMD自动分级算法，性能接近人类专家水平 [JAMA Ophthalmology, 2017, DOI: 10.1001/jamaophthalmol.2017.3782]
 
----
+### 2.3 视网膜色素变性 (Retinitis Pigmentosa, RP)
 
-## 视网膜疾病
+| 文献 | 年份 | 期刊 | DOI | 引用 | 要点 |
+|------|------|------|-----|------|------|
+| Retinitis Pignentosa Review | 2006 | Orphanet Journal of Rare Diseases | 10.1186/1750-1172-1-40 | 967 | RP是最常见的遗传性视网膜营养不良，患病率约1/4000，典型表现为杆-锥营养不良 |
 
-### 年龄相关性黄斑变性 (Age-Related Macular Degeneration, AMD)
+### 2.4 病理性近视并发症
 
-**指南来源**: AAO Preferred Practice Pattern® (2019)  
-**DOI**: 10.1016/j.ophtha.2019.09.024  
-**引用**: 329次
-
-#### 分类
-1. **早期AMD**: 中等大小玻璃膜疣（直径63-125μm）
-2. **中期AMD**: 大玻璃膜疣（直径>125μm）和/或视网膜色素上皮异常
-3. **晚期AMD**:
-   - 地图样萎缩（干性AMD）
-   - 新生血管性AMD（湿性AMD）
-
-#### 治疗进展
-**抗VEGF治疗**:
-- 雷珠单抗 (Ranibizumab)
-- 阿柏西普 (Aflibercept)
-- 贝伐单抗 (Bevacizumab)
-- 法瑞西单抗 (Faricimab) - 双特异性抗体
-
-**重要研究**:
-- **RESTORE研究** (2011): 雷珠单抗单药或联合激光治疗DME优于单纯激光
-  - DOI: 10.1016/j.ophtha.2011.01.031
-  - 引用: 1315次
-
-- **AREDS研究**: 抗氧化剂和锌补充可延缓中期AMD进展
-  - DOI: 10.1016/s0197-2456(99)00031-8
-  - 引用: 570次
-
-#### 液体作为生物标志物
-**共识来源**: Eye期刊 (2021)  
-**DOI**: 10.1038/s41433-021-01487-0  
-**引用**: 44次  
-**开放获取**: https://www.nature.com/articles/s41433-021-01487-0.pdf
-
-- 视网膜内液 (IRF) 和视网膜下液 (SRF) 是nAMD管理的关键生物标志物
-- 无液体状态是理想治疗目标
-- SRF少量存在可能具有保护性
+| 文献 | 年份 | 期刊 | DOI | 引用 | 要点 |
+|------|------|------|-----|------|------|
+| Complications of Myopia: Review and Meta-Analysis | 2020 | IOVS | 10.1167/iovs.61.4.49 | 768 | 高度近视风险最高，但轻中度近视也有显著风险 |
 
 ---
 
-### 糖尿病视网膜病变 (Diabetic Retinopathy, DR)
+## 三、青光眼 (Glaucoma)
 
-**指南来源**: AAO Preferred Practice Pattern® (2019)  
-**DOI**: 10.1016/j.ophtha.2019.09.025  
-**引用**: 671次
+### 3.1 定义与流行病学
+- 青光眼是一组进行性视神经病变，全球不可逆性视力丧失的主要原因
+- 特征是视网膜神经节细胞变性和视网膜神经纤维层丢失
 
-#### 国际分期
-1. **无明显DR**: 无明显异常
-2. **轻度NPDR**: 仅有微动脉瘤
-3. **中度NPDR**: 微动脉瘤+其他异常（出血、硬性渗出等），但轻于重度
-4. **重度NPDR**: 任一象限有多于20个视网膜内出血，或2个以上象限有静脉串珠样改变，或1个以上象限有IRMA
-5. **PDR**: 新生血管形成和/或玻璃体/视网膜前出血
+### 3.2 诊断与监测
 
-#### 糖尿病黄斑水肿 (DME)
-- **中心累及型DME (CI-DME)**: 黄斑中心500μm内视网膜增厚
-- **非中心累及型DME (NCI-DME)**: 黄斑中心500μm外视网膜增厚
+| 技术/研究 | 年份 | 期刊 | DOI | 引用 | 要点 |
+|-----------|------|------|-----|------|------|
+| SITA Faster perimetric threshold testing | 2018 | American Journal of Ophthalmology | 10.1016/j.ajo.2018.10.010 | 128 | SITA Faster显著缩短测试时间，结果与SITA Fast几乎相同 |
+| Deep learning in glaucoma with OCT | 2020 | Eye | 10.1038/s41433-020-01191-5 | 110 | OCT深度学习在青光眼诊断中的应用综述 |
+| Detection of glaucomatous ONH damage with DL | 2020 | Ophthalmology | 10.1016/j.ophtha.2020.07.045 | 91 | 深度学习检测青光眼性视神经病变 |
 
-#### 治疗策略
-1. **抗VEGF治疗**: 一线治疗（雷珠单抗、阿柏西普、贝伐单抗）
-2. **激光治疗**: 局灶/格栅激光用于非中心DME
-3. **糖皮质激素**: 地塞米松植入剂、氟轻松植入剂
+### 3.3 治疗
 
-#### 糖尿病视网膜病变筛查
-**AI筛查系统**:
-- **Deep Learning系统** (2017): 多民族糖尿病队列中DR识别的高敏感性和特异性
-  - DOI: 10.1001/jama.2017.18152
-  - 引用: 2214次
-  - 开放获取: https://jamanetwork.com/journals/jama/articlepdf/2665775/jama_ting_2017_oi_170140.pdf
-
-- **EyeArt系统**: 10万例以上糖尿病患者的自动化DR筛查
-  - DOI: 10.1089/dia.2019.0164
-  - 引用: 194次
+| 研究 | 年份 | 期刊 | DOI | 引用 | 要点 |
+|------|------|------|-----|------|------|
+| Latanoprost for open-angle glaucoma (UKGTS) | 2014 | The Lancet | 10.1016/s0140-6736(14)62111-5 | 643 | 拉坦前列素治疗开角型青光眼的随机对照试验 |
+| MIGS clinical and economic outcomes | 2018 | Ophthalmology and Therapy | 10.1007/s40123-018-0131-0 | 138 | 微创青光眼手术的系统综述 |
 
 ---
 
-### 视网膜疾病OCT-A标准化
+## 四、光学相干断层扫描 (OCT) 技术
 
-**指南来源**: Ophthalmic Research (2021)  
-**DOI**: 10.1159/000518620  
-**引用**: 37次  
-**开放获取**: https://www.karger.com/Article/Pdf/518620
+### 4.1 OCT基础与进展
 
-#### OCT-A在糖尿病视网膜疾病中的应用
-- 非侵入性评估视网膜和脉络膜循环
-- 检测早期糖尿病视网膜病变临床体征
-- 标准化成像生物标志物
+| 文献 | 年份 | 期刊 | DOI | 引用 | 贡献 |
+|------|------|------|-----|------|------|
+| Optical coherence tomography (OCT) introduction | 1996 | Journal of Biomedical Optics | 10.1117/12.231361 | 537 | OCT技术基础原理 |
+| Ultrahigh-resolution OCT | 2004 | Journal of Biomedical Optics | 10.1117/1.1629679 | 547 | 超高分辨率OCT发展 |
+| OCT: clinical development review | 2007 | Journal of Biomedical Optics | 10.1117/1.2793736 | 545 | OCT从实验室到临床的发展历程 |
+| Optical coherence tomography angiography (OCTA) | 2017 | Progress in Retinal and Eye Research | 10.1016/j.preteyeres.2017.11.003 | 1644 | OCT血管造影技术，提供视网膜和脉络膜血流的深度分辨图像 |
 
----
+### 4.2 OCT临床应用
 
-## 角膜与眼表疾病
+**黄斑裂孔手术:**
+- OCT测量的黄斑裂孔大小是术后视力预后和解剖成功率的预测因子 [British Journal of Ophthalmology, 2002, DOI: 10.1136/bjo.86.4.390]
 
-### 干眼疾病 (Dry Eye Disease, DED)
+### 4.3 AI与OCT结合
 
-#### TFOS DEWS II 指南 (2017)
-**指南来源**: The Ocular Surface  
-**DOI**: 10.1016/j.jtos.2017.05.005  
-**引用**: 281次  
-**开放获取**: https://unsworks.unsw.edu.au/bitstreams/576c0fd2-45b2-45e4-8793-ac50300c244d/download
-
-#### 定义
-干眼是一种多因素疾病，其特征是泪膜稳态丧失，伴有眼部症状，其病因包括泪膜不稳定、泪液高渗、眼表炎症和损伤以及神经感觉异常。
-
-#### 分类
-1. **水液缺乏型干眼**: 泪液分泌减少
-2. **蒸发过强型干眼**: 睑板腺功能障碍 (MGD) 最常见
-3. **混合型**: 两种机制并存
-
-#### AAO干眼综合征指南 (2018)
-**指南来源**: AAO Preferred Practice Pattern®  
-**DOI**: 10.1016/j.ophtha.2018.10.023  
-**引用**: 169次
-
-#### 治疗策略
-- **一线治疗**: 人工泪液、环境调整、眼睑卫生
-- **二线治疗**: 抗炎治疗（环孢素、糖皮质激素）
-- **三线治疗**: 泪点栓塞、血清滴眼液、手术
-
-#### 重要研究
-**n-3脂肪酸补充治疗干眼** (2018):
-- DOI: 10.1056/nejmoa1709691
-- 引用: 252次
-- 结论: 3000mg n-3脂肪酸补充12个月并未显著优于安慰剂
+| 文献 | 年份 | 期刊 | DOI | 引用 | 要点 |
+|------|------|------|-----|------|------|
+| Foundation model for disease detection from retinal images | 2023 | Nature | 10.1038/s41586-023-06555-x | 733 | 视网膜图像疾病检测基础模型 |
+| Deep learning-enabled medical computer vision | 2021 | npj Digital Medicine | 10.1038/s41746-020-00376-2 | 1204 | 医学计算机视觉中的深度学习综述 |
+| Diagnostic accuracy of DL in medical imaging: meta-analysis | 2021 | npj Digital Medicine | 10.1038/s41746-021-00438-z | 819 | 医学影像深度学习诊断准确性的系统综述和荟萃分析 |
+| Segment anything in medical images | 2024 | Nature Communications | 10.1038/s41467-024-44824-z | 2059 | 医学图像分割基础模型 |
 
 ---
 
-### 睑板腺功能障碍 (Meibomian Gland Dysfunction, MGD)
+## 五、全球眼健康
 
-**指南来源**: International Workshop on Meibomian Gland Dysfunction (2011)  
-**DOI**: 10.1167/iovs.10-6997g  
-**引用**: 603次  
-**开放获取**: https://iovs.arvojournals.org/arvo/content_public/journal/iovs/932970/z7g00411002050.pdf
-
-#### 管理要点
-- 热敷和眼睑按摩
-- 人工泪液（含脂质成分）
-- 局部抗生素/抗炎治疗
-- 口服四环素类（多西环素、阿奇霉素）
+| 文献 | 年份 | 期刊 | DOI | 引用 | 要点 |
+|------|------|------|-----|------|------|
+| Lancet Global Health Commission on Global Eye Health | 2021 | The Lancet Global Health | 10.1016/s2214-109x(20)30488-5 | 1418 | 改善眼健康有助于实现多项可持续发展目标，包括减少贫困、提高工作生产力、改善教育和公平 |
 
 ---
 
-### 细菌性角膜炎
+## 六、真实性验证记录
 
-**指南来源**: AAO Preferred Practice Pattern® (2018)  
-**DOI**: 10.1016/j.ophtha.2018.10.018  
-**引用**: 247次
+### 6.1 数据来源验证
+- ✅ 所有文献来自同行评议期刊
+- ✅ 所有文献附DOI，可通过CrossRef验证
+- ✅ 高被引文献优先收录（引用次数>500为经典文献）
+- ✅ 优先选择近5年发表的指南和共识
 
-#### 治疗原则
-- **经验性抗生素治疗**: 氟喹诺酮类或头孢菌素+氨基糖苷类联合
-- **培养指导治疗**: 根据培养和药敏结果调整
-- **糖皮质激素**: 感染控制后谨慎使用，减少瘢痕形成
+### 6.2 权威期刊分布
+- The Lancet / Lancet 系列
+- New England Journal of Medicine
+- JAMA / JAMA Ophthalmology
+- Nature / Nature Communications
+- Ophthalmology (AAO官方期刊)
+- British Journal of Ophthalmology
+- Investigative Ophthalmology & Visual Science
+- Progress in Retinal and Eye Research
 
----
-
-### 结膜炎
-
-**指南来源**: AAO Preferred Practice Pattern® (2018)  
-**DOI**: 10.1016/j.ophtha.2018.10.020  
-**引用**: 102次
-
-#### 分类与治疗
-1. **病毒性结膜炎**: 支持治疗，注意隔离
-2. **细菌性结膜炎**: 抗生素滴眼液
-3. **过敏性结膜炎**: 抗组胺药、肥大细胞稳定剂
-
----
-
-### 角膜扩张 (Corneal Ectasia)
-
-**指南来源**: AAO Preferred Practice Pattern® (2018)  
-**DOI**: 10.1016/j.ophtha.2018.10.021  
-**引用**: 60次
-
-#### 类型
-- 圆锥角膜 (Keratoconus)
-- 透明性边缘性角膜变性 (PMD)
-- 角膜屈光手术后扩张
-
-#### 治疗进展
-- 角膜交联术 (CXL) 阻止进展
-- 角膜环植入 (ICRS)
-- 深板层角膜移植 (DALK)
-- 穿透性角膜移植 (PKP)
+### 6.3 更新计划
+- 每季度检查指南更新
+- 每年更新高影响力新文献
+- 持续追踪AAO和EGS指南新版本
 
 ---
 
-## 白内障
+## 七、使用说明
 
-### 术前医学检查
+### 7.1 文献引用格式建议
+采用Vancouver格式，示例：
+```
+1. Azuara-Blanco A, Bagnasco L, Bagnis A, et al. European Glaucoma Society Terminology and Guidelines for Glaucoma, 5th Edition. Br J Ophthalmol. 2021;105(Suppl 1):1-169.
+```
 
-**重要研究**: NEJM (2015)  
-**DOI**: 10.1056/nejmsa1410846  
-**引用**: 152次
-
-#### 关键发现
-- 白内障手术前术前检查频繁发生
-- 检查模式与医生执业习惯关联强于患者特征
-- 强调术前评估的个体化
-
----
-
-### 屈光手术指南
-
-**指南来源**: AAO Preferred Practice Pattern® (2017)  
-**DOI**: 10.1016/j.ophtha.2017.10.003  
-**引用**: 105次  
-**开放获取**: https://www.aaojournal.org/article/S0161-6420(17)33028-2/pdf
-
-#### 手术类型
-- LASIK
-- PRK
-- SMILE
-- 有晶状体眼人工晶状体植入 (ICL)
+### 7.2 知识库访问路径
+- 本地路径: `/root/.openclaw/workspace/knowledge_base/ophthalmology_clinical_guidelines.md`
+- 可通过关键词搜索快速定位相关内容
 
 ---
 
-## 小儿眼科与斜视
-
-### 弱视 (Amblyopia)
-
-**指南来源**: AAO Preferred Practice Pattern® (2017)  
-**DOI**: 10.1016/j.ophtha.2017.10.008  
-**引用**: 188次
-
-#### 治疗原则
-- **屈光矫正**: 首要步骤，精确验光配镜
-- **遮盖治疗**: 金标准，遮盖优势眼
-- **压抑治疗**: 阿托品压抑优势眼
-- **治疗年龄**: 越早越好，但大龄儿童和成人仍有治疗价值
-
----
-
-### 小儿眼科评估
-
-**指南来源**: AAO Preferred Practice Pattern® (2017)  
-**DOI**: 10.1016/j.ophtha.2017.09.032  
-**引用**: 137次
-
-#### 筛查建议
-- **新生儿**: 红光反射检查
-- **6个月**: 眼部健康评估
-- **3-5岁**: 视力筛查
-- **入学前**: 全面眼科检查
-
----
-
-### 内斜视与外斜视
-
-**指南来源**: AAO Preferred Practice Pattern® (2017)  
-**DOI**: 10.1016/j.ophtha.2017.10.007  
-**引用**: 53次  
-**开放获取**: http://www.aaojournal.org/article/S0161642017330348/pdf
-
-#### 内斜视类型
-1. **婴儿型内斜视**: 6月龄前发病，大角度斜视
-2. **调节性内斜视**: 与屈光不正相关
-3. **部分调节性内斜视**: 戴镜后仍有残余斜视
-4. **非调节性内斜视**: 与屈光无关
-
-#### 外斜视类型
-1. **间歇性外斜视**: 最常见
-2. **恒定性外斜视**
-
-#### 治疗
-- 屈光矫正
-- 弱视治疗
-- 手术治疗（肌肉减弱/加强术）
-
----
-
-### 成人斜视
-
-**指南来源**: AAO Preferred Practice Pattern® (2019)  
-**DOI**: 10.1016/j.ophtha.2019.09.023  
-**引用**: 17次
-
-#### 特点
-- 可影响双眼视功能
-- 可能导致复视
-- 影响外观和心理健康
-
----
-
-### 早产儿视网膜病变 (ROP)
-
-**流行病学研究**: Pediatric Research (2013)  
-**DOI**: 10.1038/pr.2013.205  
-**引用**: 779次
-
-#### 全球负担
-- 2010年全球约有ROP导致的视力损害
-- 低收入国家ROP负担更重
-- 需要完善的筛查和治疗体系
-
----
-
-## 神经眼科
-
-### 特发性颅内高压 (Idiopathic Intracranial Hypertension, IIH)
-
-**指南来源**: Journal of Neurology Neurosurgery & Psychiatry (2018)  
-**DOI**: 10.1136/jnnp-2017-317440  
-**引用**: 554次  
-**开放获取**: https://jnnp.bmj.com/content/jnnp/89/10/1088.full.pdf
-
-#### 诊断标准（改良Dandy标准）
-1. 颅内压增高的症状和体征（头痛、视乳头水肿）
-2. 除视乳头水肿和展神经麻痹外，无其他局部神经系统体征
-3. 脑脊液成分正常
-4. 脑成像正常（无占位、脑积水或静脉窦血栓）
-5. 侧卧位脑脊液压力>250mmH2O
-
-#### 治疗
-- **体重管理**: 减重是首要治疗
-- **药物治疗**: 乙酰唑胺（一线）、托吡酯、呋塞米
-- **手术治疗**: 视神经鞘开窗术、脑脊液分流术
-
----
-
-### 外伤性视神经病变 (Traumatic Optic Neuropathy, TON)
-
-**指南来源**: Journal of Neuro-Ophthalmology (2011)  
-**DOI**: 10.1097/wno.0b013e31821c9b11  
-**引用**: 27次  
-**开放获取**: https://www.ncbi.nlm.nih.gov/pmc/articles/6648694
-
-#### 治疗争议
-- **高剂量糖皮质激素**: 证据不足，可能有害
-- **视神经减压术**: 无明确获益证据
-- **目前建议**: 支持治疗为主
-
----
-
-### 多发性硬化与视网膜
-
-**病理学研究**: Brain (2010)  
-**DOI**: 10.1093/brain/awq080  
-**引用**: 477次
-
-#### 发现
-- 多发性硬化患者存在视网膜萎缩
-- 与疾病持续时间无关的炎症改变
-- OCT可作为监测疾病进展的工具
-
----
-
-## 葡萄膜炎
-
-### 巨细胞病毒性葡萄膜炎
-
-**指南来源**: Journal of the Formosan Medical Association (2023)  
-**DOI**: 10.1016/j.jfma.2023.03.014  
-**引用**: 15次
-
-#### 台湾专家共识要点
-- CMV葡萄膜炎的诊断标准
-- 抗病毒治疗方案
-- 复发预防策略
-
----
-
-### 眼梅毒
-
-**综述来源**: Clinical and Experimental Optometry (2021)  
-**DOI**: 10.1080/08164622.2021.1906848  
-**引用**: 29次
-
-#### 临床特点
-- 可在梅毒任何阶段发生
-- 表现多样：前葡萄膜炎、后葡萄膜炎、视神经炎
-- 需要系统性青霉素治疗
-
----
-
-## OCT影像标准
-
-### APOSTEL推荐标准
-
-**指南来源**: Neurology (2016)  
-**DOI**: 10.1212/wnl.0000000000002774  
-**引用**: 400次  
-**开放获取**: https://n.neurology.org/content/neurology/86/24/2303.full.pdf
-
-#### 核心要素
-定量OCT研究报告的核心项目，包括：
-- 设备信息
-- 扫描协议
-- 分割方法
-- 质量控制
-- 统计分析方法
-
-### OCT临床研究标准化
-
-**综述来源**: Journal of Biomedical Optics (2007)  
-**DOI**: 10.1117/1.2793736  
-**引用**: 545次
-
-#### 发展历程
-- 从实验室到临床的发展历程
-- 技术改进和临床应用扩展
-- 从时域OCT到频域OCT的演进
-
----
-
-## 资料来源索引
-
-### AAO Preferred Practice Pattern® 系列
-
-| 疾病领域 | 年份 | DOI | 引用次数 |
-|---------|------|-----|---------|
-| 原发性开角型青光眼 | 2020 | 10.1016/j.ophtha.2020.10.022 | 395 |
-| 原发性开角型青光眼疑似 | 2020 | 10.1016/j.ophtha.2020.10.023 | 71 |
-| 原发性闭角型疾病 | 2020 | 10.1016/j.ophtha.2020.10.021 | 116 |
-| 年龄相关性黄斑变性 | 2019 | 10.1016/j.ophtha.2019.09.024 | 329 |
-| 糖尿病视网膜病变 | 2019 | 10.1016/j.ophtha.2019.09.025 | 671 |
-| 成人斜视 | 2019 | 10.1016/j.ophtha.2019.09.023 | 17 |
-| 弱视 | 2017 | 10.1016/j.ophtha.2017.10.008 | 188 |
-| 小儿眼科评估 | 2017 | 10.1016/j.ophtha.2017.09.032 | 137 |
-| 内斜视与外斜视 | 2017 | 10.1016/j.ophtha.2017.10.007 | 53 |
-| 屈光手术 | 2017 | 10.1016/j.ophtha.2017.10.003 | 105 |
-| 细菌性角膜炎 | 2018 | 10.1016/j.ophtha.2018.10.018 | 247 |
-| 干眼综合征 | 2018 | 10.1016/j.ophtha.2018.10.023 | 169 |
-| 睑缘炎 | 2018 | 10.1016/j.ophtha.2018.10.019 | 117 |
-| 结膜炎 | 2018 | 10.1016/j.ophtha.2018.10.020 | 102 |
-| 角膜扩张 | 2018 | 10.1016/j.ophtha.2018.10.021 | 60 |
-
-### 国际共识指南
-
-| 指南名称 | 年份 | DOI | 引用次数 |
-|---------|------|-----|---------|
-| TFOS DEWS II 干眼指南 | 2017 | 10.1016/j.jtos.2017.05.005 | 281 |
-| 睑板腺功能障碍国际研讨会 | 2011 | 10.1167/iovs.10-6997g | 603 |
-| IIH管理共识 | 2018 | 10.1136/jnnp-2017-317440 | 554 |
-| APOSTEL OCT报告标准 | 2016 | 10.1212/wnl.0000000000002774 | 400 |
-| 开角型青光眼指南(瑞典) | 2024 | 10.1111/aos.16599 | 19 |
-| nAMD液体管理共识 | 2021 | 10.1038/s41433-021-01487-0 | 44 |
-
-### 重要临床研究
-
-| 研究名称 | 年份 | DOI | 引用次数 |
-|---------|------|-----|---------|
-| RESTORE研究 (DME) | 2011 | 10.1016/j.ophtha.2011.01.031 | 1315 |
-| AREDS研究 | 1999 | 10.1016/s0197-2456(99)00031-8 | 570 |
-| 深度学习DR筛查 | 2017 | 10.1001/jama.2017.18152 | 2214 |
-| n-3脂肪酸干眼研究 | 2018 | 10.1056/nejmoa1709691 | 252 |
-| 白内障术前检查研究 | 2015 | 10.1056/nejmsa1410846 | 152 |
-
----
-
-## 更新日志
-
-### 2026-03-20
-- 初始版本创建
-- 检索并整合AAO Preferred Practice Pattern® 系列指南
-- 添加TFOS DEWS II干眼指南
-- 收录重要临床研究和共识文件
-- 建立分类知识框架
-
----
-
-## 待补充内容
-
-- [ ] 眼肿瘤学临床指南
-- [ ] 眼整形外科指南
-- [ ] 眼外伤处理指南
-- [ ] 遗传性视网膜疾病指南
-- [ ] 中国眼科专家共识
-- [ ] 欧洲眼科协会指南
-
----
-
-*最后更新: 2026-03-20*  
-*维护者: 小cui的科研助手*  
-*验证状态: 所有资料均来自权威来源，已验证DOI*
+*本知识库严格遵循真实性原则，所有内容均可通过提供的DOI进行原始文献验证。*
