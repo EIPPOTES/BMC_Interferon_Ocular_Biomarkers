@@ -32,6 +32,7 @@ Dr. Cui is a physician-researcher at the Third Affiliated Hospital of Sun Yat-se
 - Values data accuracy and validation
 - Appreciates memory keeping for continuity
 - Works late hours (often past midnight)
+- **Communication Mode**: Hybrid (Internal processing in English, final output in Chinese) - Token efficient
 
 ---
 
