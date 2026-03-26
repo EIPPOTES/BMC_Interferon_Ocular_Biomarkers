@@ -474,6 +474,12 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=anygen-data-analysis",
       "source": "skillhub",
       "version": "1.3.5"
+    },
+    "speech-recognition": {
+      "name": "speech-recognition",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=speech-recognition",
+      "source": "skillhub",
+      "version": "1.0.1"
     }
   }
 }
