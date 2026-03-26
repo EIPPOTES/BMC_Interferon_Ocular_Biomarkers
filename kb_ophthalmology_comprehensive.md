@@ -3,8 +3,9 @@
 
 **构建日期**: 2026-03-23  
 **数据来源**: OpenAlex学术数据库  
-**文献总数**: 135篇  
-**验证状态**: ✅ 已验证DOI和来源真实性
+**文献总数**: 155篇 (含增量更新+20)  
+**验证状态**: ✅ 已验证DOI和来源真实性  
+**最后增量更新**: 2026-03-26 (+20篇高引用文献)
 
 ---
 
@@ -465,3 +466,37 @@
 **知识库维护**: 崔师海科研助手  
 **更新日期**: 2026-03-23  
 **下次更新计划**: 2026-04-23
+
+---
+
+## 增量更新记录 Incremental Updates
+
+### 2026-03-26 轻量增量更新 (Cron #7876fb5f)
+
+| 项目 | 数值 |
+|------|------|
+| 更新类型 | 自动化增量更新 |
+| 检索策略 | "ophthalmology retina OCT" |
+| 新增文献 | 20篇 |
+| 引用>50 | 20篇 (100%) |
+| 处理时间 | ~2分钟 |
+| DOI验证 | ✅ 全部有效 |
+
+#### 高影响力新增文献 TOP 8
+
+| 标题 | 年份 | 期刊 | 引用 |
+|------|------|------|------|
+| Optical coherence tomography angiography: comprehensive review | 2017 | Prog Retin Eye Res | 973 |
+| Diabetic Retinopathy Preferred Practice Pattern® | 2019 | Ophthalmology | 674 |
+| Retinal findings in patients with COVID-19 | 2020 | The Lancet | 531 |
+| In vivo high-resolution SD-OCT | 2004 | Opt Express | 515 |
+| Doppler OCT | 2014 | Prog Retin Eye Res | 427 |
+| Ultrahigh speed Spectral/Fourier domain OCT | 2008 | Opt Express | 371 |
+| Recent developments in OCT for retinal imaging | 2006 | Prog Retin Eye Res | 339 |
+| Retinal layer segmentation of macular OCT | 2013 | Biomed Opt Express | 309 |
+
+**主题分布**: OCT技术(8) | 视网膜疾病(6) | 糖尿病视网膜病变(2) | AI应用(2) | 其他(2)
+
+---
+
+*最后增量更新: 2026-03-26 09:06 CST*
