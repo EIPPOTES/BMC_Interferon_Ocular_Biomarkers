@@ -480,6 +480,30 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=speech-recognition",
       "source": "skillhub",
       "version": "1.0.1"
+    },
+    "voice-tts": {
+      "name": "Voice TTS",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=voice-tts",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "voiceclaw": {
+      "name": "VoiceClaw",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=voiceclaw",
+      "source": "skillhub",
+      "version": "1.0.6"
+    },
+    "voice-edge-tts": {
+      "name": "Voice (Edge TTS)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=voice-edge-tts",
+      "source": "skillhub",
+      "version": "1.10.0"
+    },
+    "voice-reply": {
+      "name": "Voice Reply",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=voice-reply",
+      "source": "skillhub",
+      "version": "1.0.0"
     }
   }
 }

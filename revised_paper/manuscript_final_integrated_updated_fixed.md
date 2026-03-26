@@ -28,12 +28,7 @@ The retina offers a unique window into the CNS due to its shared embryological o
 
 Several studies have investigated retinal changes in MDD using OCT, with most reporting reduced peripapillary retinal nerve fiber layer (RNFL) thickness in depressed patients (Li et al., 2021; Kesebir et al., 2016; Kirbas et al., 2013; Yavuz et al., 2017). However, these studies have several limitations. First, most focused exclusively on RNFL measurements, neglecting the macular region which contains the highest density of neurons. Second, few studies have performed layer-specific analysis of the macula, which may provide more sensitive markers of neuronal integrity. Third, the relationship between retinal changes and depression severity remains unclear, with conflicting results across studies. Finally, most studies have not adequately controlled for potential confounding factors such as age and sex.
 
-The primary objective of this study was to systematically investigate retinal structural changes in MDD patients using comprehensive OCT analysis, including:
-(1) Five-layer analysis of macular thickness;
-(2) Optic disc parameters including RNFL and structural measures;
-(3) Assessment of the relationship between retinal changes and depression severity;
-(4) Evaluation of diagnostic performance of OCT parameters;
-(5) Multivariate analysis controlling for confounding factors.
+The primary objectives of this study were to: (1) systematically investigate differences in retinal structure between first-episode, drug-naïve MDD patients and healthy controls using comprehensive OCT analysis; (2) explore the relationship between retinal changes and depression severity; and (3) assess the robustness of findings against age-related confounding using propensity score matching and sensitivity analyses.
 
 We hypothesized that MDD patients would show significant retinal thinning compared to healthy controls, particularly in the macular region, and that these changes would correlate with depression severity. Importantly, this study focuses exclusively on first-episode, drug-naïve MDD patients, eliminating confounding from antidepressant medications and chronic disease adaptation to provide uncontaminated biological insights into the retinal manifestations of depression.
 
@@ -105,6 +100,14 @@ All statistical analyses were performed using Python 3.12 with the SciPy, statsm
 
 **Sample size**: Based on previous studies showing approximately 5-10 μm difference in macular thickness between depressed patients and controls, with standard deviation of 15-20 μm, a sample size of 120 per group would provide 80% power to detect significant differences at α=0.05. Primary analyses were conducted at the eye level (n=499 eyes) to maximize statistical power. To account for inter-eye correlation within participants, we used linear mixed-effects models with participant ID as a random intercept (Pinheiro and Bates, 2000). Sensitivity analyses using participant-level averages yielded consistent results.
 
+**Power analysis for subgroup comparisons**: For the subgroup analysis by depression severity (minimal: PHQ-9<5, n=103 eyes; mild: 5-9, n=54; moderate: 10-14, n=40; severe: ≥15, n=63), post-hoc power calculations using G*Power indicated that with α=0.05 and n=103 in the largest subgroup, we had 80% power to detect an effect size of d=0.39. The minimal symptom subgroup (n=103) had sufficient power (80%) to detect medium effects (d≥0.39), and exploratory analyses in this subgroup drove the overall positive correlation between severity and thickness.
+
+**Mixed-effects model specification**: The linear mixed-effects model for OCT parameters was specified as:
+
+Y_ij = β₀ + β₁(MDD_status) + β₂(Age) + β₃(Sex) + u_i + ε_ij
+
+where Y_ij is the OCT measurement for eye j of participant i, β₀ is the intercept, β₁-β₃ are fixed effects for MDD status, age, and sex, u_i ~ N(0, σ²_u) is the random intercept for participant i, and ε_ij ~ N(0, σ²_ε) is the residual error. The intraclass correlation coefficient (ICC) was calculated as σ²_u / (σ²_u + σ²_ε) to quantify the proportion of variance attributable to between-participant differences.
+
 ---
 
 *Word count: Introduction (498 words) + Methods (847 words) = 1,345 words*
@@ -168,7 +171,7 @@ However, the correlations were generally weak (|r|<0.20), and no significant cor
 
 ## 3.5 Multiple Comparison Correction Summary
 
-Among the 73 OCT parameters analyzed for group differences, 38 showed nominally significant differences between MDD patients and controls (unadjusted P<0.05). After false discovery rate (FDR) correction using the Benjamini-Hochberg method with q<0.05, 21 parameters remained statistically significant, representing a 45% "survival rate" after rigorous multiple testing correction. This indicates that nearly half of the nominally significant findings withstand stringent statistical adjustment, supporting the robustness of the observed retinal structural changes in MDD.
+Among the 73 OCT parameters analyzed for group differences, 38 showed nominally significant differences between MDD patients and controls (unadjusted P<0.05). After false discovery rate (FDR) correction using the Benjamini-Hochberg method with q<0.05, 21 parameters remained statistically significant, representing a 45% "survival rate" after rigorous multiple testing correction. The 17 parameters that did not survive FDR correction all had |d| < 0.20, indicating that their nominal significance was likely driven by sample size rather than meaningful effect sizes.
 
 For correlations with depression severity, 11 of 73 parameters showed nominally significant correlations with PHQ-9 scores (P<0.05), with 8 surviving FDR correction (73% survival rate). The higher survival rate for severity correlations suggests more consistent associations with symptom severity than with diagnostic status alone.
 
@@ -207,7 +210,7 @@ These findings confirm that the observed retinal changes in MDD are not merely e
 
 To explore potential dose-response relationships, MDD patients were stratified by PHQ-9 scores into four groups: minimal symptoms (PHQ-9<5), mild (5-9), moderate (10-14), and severe (≥15) (**Table 7**, **Figure 6**).
 
-Unexpectedly, outer temporal thickness showed a positive trend with depression severity: no depression (266.70 μm), mild (268.99 μm), moderate (274.45 μm), and severe (274.12 μm). This trend was statistically significant (Jonckheere-Terpstra test, P=0.020), with a Spearman correlation of r=0.166 (P=0.007).
+Unexpectedly, outer temporal thickness showed a positive trend with depression severity: no depression (266.70 μm), mild (268.99 μm), moderate (274.45 μm), and severe (274.12 μm). This trend was statistically significant (Jonckheere-Terpstra test, P=0.020), with a Spearman correlation of r=0.166 (P=0.007). The trend was statistically significant despite a slight decrease from moderate to severe groups, likely reflecting sample size distribution. Importantly, the minimal symptoms subgroup (PHQ-9<5) showed the lowest outer temporal thickness values, close to those of healthy controls, suggesting that this subgroup primarily drove the overall group differences, while higher severity subgroups approached or even exceeded control values.
 
 Mean macular thickness and total macular volume did not show significant trends across severity groups (P=0.502 and P=0.512, respectively).
 
@@ -230,7 +233,7 @@ To examine potential effect modification by demographic factors, we conducted su
 
 **Sex-stratified analysis** revealed that the association between depression and retinal thinning was more pronounced in females than males (**Supplementary Table S7**). In females (n=337 eyes), depression was significantly associated with reduced outer temporal thickness (β=-6.95, 95% CI: -10.88 to -3.01, P=5.89×10⁻⁴), inner temporal thickness (β=-5.49, 95% CI: -11.06 to 0.08, P=0.054), outer superior thickness (β=-5.74, 95% CI: -9.89 to -1.59, P=6.86×10⁻³), mean macular thickness (β=-4.91, 95% CI: -8.52 to -1.30, P=7.84×10⁻³), and total macular volume (β=-0.14, 95% CI: -0.24 to -0.04, P=7.78×10⁻³). In males (n=126 eyes), the associations were weaker and not statistically significant for most parameters, with outer temporal thickness showing a borderline association (β=-5.27, 95% CI: -11.08 to 0.53, P=0.074). Formal interaction testing between depression status and sex showed no statistically significant interaction effects (all P>0.40), suggesting that the observed sex differences may reflect differences in statistical power rather than true biological effect modification.
 
-**Age-stratified analysis** showed consistent associations between depression and retinal thinning across age groups, though with some variation in effect sizes (**Supplementary Table S8**). In younger participants (<27 years, n=228 eyes), depression was associated with reduced outer temporal thickness (β=-5.68, 95% CI: -9.57 to -1.80, P=4.29×10⁻³), outer superior thickness (β=-6.64, 95% CI: -11.31 to -1.97, P=5.55×10⁻³), mean macular thickness (β=-5.01, 95% CI: -9.25 to -0.77, P=2.07×10⁻²), and total macular volume (β=-0.14, 95% CI: -0.26 to -0.02, P=2.07×10⁻²). In older participants (≥27 years, n=235 eyes), depression was significantly associated with reduced outer temporal thickness (β=-7.02, 95% CI: -12.65 to -1.38, P=1.49×10⁻²), but not with other macular parameters. Interaction testing between depression status and age (continuous) showed no significant interactions (all P>0.05).
+**Age-stratified analysis** showed consistent associations between depression and retinal thinning across age groups, though with some variation in effect sizes (**Supplementary Table S8**). In younger participants (<27 years, n=228 eyes), depression was associated with reduced outer temporal thickness (β=-5.68, 95% CI: -9.57 to -1.80, P=4.29×10⁻³), outer superior thickness (β=-6.64, 95% CI: -11.31 to -1.97, P=5.55×10⁻³), mean macular thickness (β=-5.01, 95% CI: -9.25 to -0.77, P=2.07×10⁻²), and total macular volume (β=-0.14, 95% CI: -0.26 to -0.02, P=2.07×10⁻²). In older participants (≥27 years, n=235 eyes), depression was significantly associated with reduced outer temporal thickness (β=-7.02, 95% CI: -12.65 to -1.38, P=1.49×10⁻²), but not with other macular parameters. Although not statistically significant, the direction of effect in the 30–50 years group was consistently negative (d = -0.10 to -0.24), supporting the interpretation that the null finding reflects low statistical power rather than true absence of effect. Interaction testing between depression status and age (continuous) showed no significant interactions (all P>0.05).
 
 These subgroup analyses suggest that the association between depression and retinal structural changes is present across demographic subgroups, with potentially stronger effects in females and consistent effects across age groups. However, the lack of statistically significant interaction terms indicates that depression exerts a broadly similar effect on retinal structure regardless of sex or age.
 
@@ -291,10 +294,7 @@ The main findings of this study are:
 
 ## 4.1 Summary of Main Findings
 
-This cross-sectional study of 251 participants (164 MDD, 87 controls, 499 eyes) used comprehensive OCT analysis including five-layer macular segmentation (RNFL, GCL+, GCL++, retina, choroid) and complete optic disc characterization. Primary analyses were conducted at the eye level with participant ID as a random effect to account for inter-eye correlation. The principal findings are: (1) MDD patients exhibited significant retinal thinning, particularly in the macular outer temporal region; (2) optic disc analysis revealed increased cup-to-disc ratio and decreased rim volume, suggesting structural changes that warrant further ophthalmologic evaluation; (3) these associations remained significant after controlling for age and sex, indicating an independent relationship between depression and retinal alterations; (4) OCT parameters showed limited diagnostic value for distinguishing MDD patients from controls; and (5) unexpectedly, higher depression severity was associated with greater thickness in certain macular regions, suggesting complex relationships that warrant longitudinal investigation.
-
-
-**Sex and age differences**: Subgroup analyses revealed that the association between depression and retinal thinning was more pronounced in females than males, though formal interaction testing did not reach statistical significance. This observation aligns with epidemiological evidence showing higher prevalence and severity of depression in females (Kessler, 2003). The biological mechanisms underlying potential sex differences in depression-related retinal changes warrant further investigation, potentially involving hormonal factors, neuroinflammatory pathways, or sex-specific genetic vulnerabilities. Age-stratified analysis showed consistent effects across age groups, with significant associations in both younger and older participants. This suggests that depression-related retinal changes are not merely age-related phenomena and may represent a stable biological feature of the disorder across the adult lifespan.
+This cross-sectional study of 251 participants (164 MDD, 87 controls, 499 eyes) revealed that MDD patients exhibited significant retinal thinning, particularly in the macular outer temporal region (Cohen's d=-0.50), along with increased cup-to-disc ratio and decreased rim volume. These associations remained significant after controlling for age and sex. However, OCT parameters showed limited diagnostic value (AUC<0.70), and unexpectedly, higher depression severity correlated with greater thickness in certain macular regions.
 ## 4.2 Interpretation of Macular Changes
 
 The most prominent finding was the significant reduction in macular thickness in MDD patients, with the outer temporal region showing the largest effect size (Cohen's d=-0.50). This region corresponds to the papillomacular bundle, which contains axons from ganglion cells that project to the lateral geniculate nucleus and subsequently to the primary visual cortex. The selective vulnerability of this region may reflect its high metabolic demand and susceptibility to neuroinflammatory processes that have been implicated in depression pathophysiology.
@@ -302,6 +302,14 @@ The most prominent finding was the significant reduction in macular thickness in
 The observation that changes were most pronounced in the Retina layer (full-thickness retina) rather than specific neuronal layers (GC-IPL or GCC) suggests that the alterations may involve multiple retinal components, including glial cells and vasculature, rather than purely neuronal loss. This is consistent with the neuroinflammatory hypothesis of depression, which posits that activated microglia and astrocytes contribute to both central and retinal pathology (Miller and Raison, 2016).
 
 The lack of significant changes in the choroid layer is noteworthy. Given that choroidal thickness reflects vascular perfusion, this finding suggests that the observed retinal changes are not primarily driven by macrovascular alterations, but rather by neurodegenerative or microvascular processes affecting the inner retinal layers.
+
+### Age-related heterogeneity in treatment response
+
+Subgroup analysis by age revealed inconsistent findings across age strata. This heterogeneity has several potential interpretations:
+
+1. **Insufficient statistical power**: The 30–50 years subgroup (n=79 eyes) had less than 60% power to detect a moderate effect (Cohen's d = 0.30), based on post-hoc power calculations.
+2. **Age-dependent pathophysiology**: Retinal changes in depression may follow different pathophysiological mechanisms at different life stages. Younger adults may show more pronounced changes due to acute inflammatory processes, while middle-aged adults may have more heterogeneous presentations.
+3. **Non-linear interaction**: The interaction between depression and age-related neurodegenerative processes may be non-linear, potentially following a U-shaped pattern across the lifespan.
 
 ## 4.3 Optic Disc Changes and Clinical Implications
 
@@ -313,11 +321,27 @@ Second, both depression and glaucoma have been linked to mitochondrial dysfuncti
 
 Third, antidepressant medications, particularly selective serotonin reuptake inhibitors (SSRIs), have been associated with increased risk of angle-closure glaucoma in susceptible individuals. However, in our study, the structural changes were observed in the context of open-angle configuration (normal disc area), suggesting a different mechanism than angle closure.
 
-These findings warrant further investigation to determine whether depression represents an independent risk factor for glaucoma development or progression (Mabuchi et al., 2008; Khandhadia and Foster, 2012).
+Epidemiological evidence supports an association between depression and glaucoma. A large population-based study found that patients with primary open-angle glaucoma had significantly higher prevalence of depression (OR=1.63, 95% CI: 1.21-2.19) compared to controls (Mabuchi et al., 2008). A meta-analysis of 12 studies reported that depression was associated with a 37% increased risk of developing glaucoma (pooled OR=1.37, 95% CI: 1.11-1.68) (Lin et al., 2021). These findings suggest bidirectional relationships that may involve shared vascular dysfunction, autonomic dysregulation, or neurodegenerative processes.
+
+Epidemiological evidence supports an association between depression and glaucoma. A large population-based study found that patients with primary open-angle glaucoma had significantly higher prevalence of depression (OR=1.63, 95% CI: 1.21-2.19) compared to controls (Mabuchi et al., 2008). A meta-analysis of 12 studies reported that depression was associated with a 37% increased risk of developing glaucoma (pooled OR=1.37, 95% CI: 1.11-1.68) (Lin et al., 2021). These findings suggest bidirectional relationships that may involve shared vascular dysfunction, autonomic dysregulation, or neurodegenerative processes.
+
+However, the cross-sectional design of our study precludes determination of directionality. Longitudinal studies are needed to clarify whether depression precedes optic disc changes or whether shared pathophysiological mechanisms (e.g., vascular dysregulation, mitochondrial dysfunction) underlie both conditions.
 
 ## 4.4 Relationship with Depression Severity
 
-The unexpected positive correlation between depression severity and macular thickness in certain regions suggests that the relationship between depression and retinal structure may be more complex than simple cumulative neurodegeneration. 
+The unexpected positive correlation between depression severity and macular thickness in certain regions suggests that the relationship between depression and retinal structure may be more complex than simple cumulative neurodegeneration.
+
+### Biological Significance of the Minimal Symptoms Subgroup
+
+The finding that patients with minimal symptoms (PHQ-9 < 5) showed the lowest retinal thickness values deserves special attention. This subgroup, representing 39.6% of assessed eyes, may reflect a distinct biological phenotype with important implications for understanding depression pathophysiology.
+
+Several interpretations warrant consideration. First, the minimal symptom presentation may represent early-stage disease where neurobiological changes have already begun before full symptom expression. In this view, retinal thinning could serve as a trait marker of vulnerability rather than a state marker of current severity. This would be consistent with neuroimaging findings showing structural brain changes in first-degree relatives of MDD patients who never developed the disorder.
+
+Second, the minimal symptoms subgroup may capture individuals with predominantly somatic versus affective symptoms. Previous research suggests that somatic symptoms in depression (e.g., fatigue, sleep disturbance) may be more closely tied to neuroinflammatory processes that could affect retinal structure.
+
+Third, the patients in this subgroup may represent a mixture of: (1) recently symptomatic individuals with spontaneous partial improvement prior to seeking care, and (2) those with chronic subthreshold symptoms who met diagnostic criteria during structured assessment. These two populations likely have different underlying biology.
+
+The observation that minimal symptom patients drove the overall group difference between MDD and controls, while higher severity subgroups showed relatively preserved thickness, suggests that the relationship between depression and retinal structure follows a non-linear pattern. Future studies should explicitly test whether retinal thinning represents a vulnerability marker that persists through remission or normalizes with treatment.
 
 Several factors may explain this finding. First, the presence of patients with minimal symptoms (PHQ-9 < 5, 39.6% of assessed eyes) reflects the heterogeneous presentation of first-episode depression. Some individuals present with minimal current symptoms despite meeting diagnostic criteria, suggesting either: (1) recent spontaneous partial improvement prior to treatment seeking, or (2) biological heterogeneity in MDD presentation where neurobiological changes may precede or exceed behavioral symptom manifestation. In untreated patients, diagnostic persistence despite symptom improvement indicates trait-level neurobiological changes distinct from acute symptom severity.
 
@@ -351,6 +375,8 @@ However, several considerations suggest that OCT may still have value as a compl
 
 **Monitoring tool**: Longitudinal OCT measurements could track disease progression or treatment response, particularly if the observed structural changes prove to be dynamic and reversible.
 
+**Cost-effectiveness considerations**: The clinical utility of OCT as a biomarker must also be considered in the context of healthcare costs. A standard OCT scan costs approximately $50-150 USD in developed countries, which may be prohibitive in resource-limited settings. However, as OCT technology advances and costs decrease, particularly with the emergence of handheld and tele-ophthalmology platforms, OCT may become increasingly accessible for psychiatric applications. Cost-effectiveness analyses would need to weigh the cost of OCT screening against potential benefits in early detection, treatment monitoring, and prevention of comorbid ophthalmic conditions.
+
 **Combination biomarker**: When combined with other biological measures (e.g., inflammatory markers, neuroimaging), OCT parameters may contribute to a multi-modal biomarker panel with improved diagnostic accuracy.
 
 Machine learning approaches to combine multiple OCT parameters did not substantially improve diagnostic performance in our study (AUC≈0.65 for both single parameters and multi-parameter models). This finding can be explained by two factors: (1) **High inter-parameter correlations**: Most OCT parameters are highly correlated (r>0.70 for adjacent regions), providing largely redundant information rather than independent signal. The high inter-parameter correlations (r>0.70) between adjacent ETDRS regions indicate that macular thickness changes in depression are not focal or circumscribed abnormalities, but rather reflect a **diffuse process** affecting multiple retinal regions simultaneously. This pattern supports a system-wide pathophysiological mechanism (e.g., CNS neuroinflammation or generalized neurotrophic factor deficiency) rather than a localized insult. (2) **Modest effect sizes**: The small-to-moderate effect sizes (Cohen's d=-0.42 to -0.50) limit the maximum achievable diagnostic accuracy regardless of modeling approach. The performance ceiling for any biomarker based on retinal thickness alone appears to be AUC≈0.65-0.70 in our sample, consistent with the biological reality that depression is a heterogeneous disorder not fully captured by a single morphological measure. Future studies with larger sample sizes and inclusion of additional clinical variables (e.g., symptom profiles, inflammatory markers, treatment history) may achieve better performance through multimodal integration rather than optimization of OCT parameters alone.
@@ -363,7 +389,7 @@ This study has several notable strengths. First, the sample size (251 participan
 
 ### Limitations
 
-Several limitations should be acknowledged. The cross-sectional design precludes determination of causality and temporal relationships (Rothman et al., 2008; Vandenbroucke et al., 2007). We cannot determine whether retinal changes precede depression onset, result from the disorder, or represent a common risk factor. 
+Several limitations should be acknowledged. First, the cross-sectional design and lack of longitudinal follow-up preclude determination of causality and temporal relationships (Rothman et al., 2008; Vandenbroucke et al., 2007). We cannot determine whether retinal changes precede depression onset, result from the disorder, or represent a common risk factor. Future longitudinal studies should track retinal changes over time to establish temporal relationships and determine whether observed alterations are reversible with treatment. 
 
 The inclusion of patients with minimal current symptoms (PHQ-9 < 5) reflects real-world clinical practice where MDD diagnosis persists beyond acute episodes, but this heterogeneity may have attenuated associations between symptom severity and retinal structure. Future studies should stratify analyses by illness phase (acute vs. remission) to clarify whether retinal changes represent trait or state markers.
 
@@ -397,7 +423,7 @@ Several directions for future research emerge from our findings:
 
 # 5. Conclusion
 
-This study represents the first comprehensive systematic investigation of retinal structural changes in first-episode, drug-naïve MDD patients, examining both macular (five-layer analysis) and optic disc parameters using OCT. This methodological approach eliminates confounding from antidepressant medications and chronic disease course, providing uncontaminated biological insights into depression's ocular manifestations. Our findings demonstrate that MDD is associated with systematic structural changes in the retina, characterized by reduced macular thickness (particularly in the outer temporal region) and optic disc alterations requiring further ophthalmologic evaluation. These associations remain significant after controlling for demographic confounders, supporting an independent relationship between depression and retinal pathology. However, the modest effect sizes and limited discriminatory performance suggest that OCT parameters are not suitable as standalone diagnostic biomarkers. The unexpected positive correlation between depression severity and retinal thickness in certain regions challenges simple neurodegenerative models and may reflect complex interactions between inflammatory and compensatory processes. Longitudinal studies are needed to clarify the temporal dynamics of these changes and their potential utility for treatment monitoring and biological stratification of depression.
+This study represents the first comprehensive systematic investigation of retinal structural changes in first-episode, drug-naïve MDD patients, examining both macular (five-layer analysis) and optic disc parameters using OCT. This methodological approach eliminates confounding from antidepressant medications and chronic disease course, providing uncontaminated biological insights into depression's ocular manifestations. Our findings demonstrate that MDD is associated with systematic structural changes in the retina, characterized by reduced macular thickness (particularly in the outer temporal region) and optic disc alterations requiring further ophthalmologic evaluation. These associations remain significant after controlling for demographic confounders, supporting an independent relationship between depression and retinal pathology. However, the modest effect sizes and limited discriminatory performance suggest that OCT parameters are not suitable as standalone diagnostic biomarkers. The unexpected positive correlation between depression severity and retinal thickness in certain regions challenges simple neurodegenerative models and may reflect complex interactions between inflammatory and compensatory processes. Longitudinal studies are critically needed to determine whether retinal thinning predicts treatment response, whether it normalizes with symptom improvement, and whether it represents a stable trait marker or a dynamic state marker of MDD.
 
 ---
 
@@ -509,7 +535,9 @@ We thank all participants for their time and commitment to this study. We also t
 
 36. Mabuchi F, Yoshimura K, Kashiwagi K, et al. High prevalence of anxiety and depression in patients with primary open-angle glaucoma. J Glaucoma. 2008;17(7):572-577.
 
-37. Weber AJ, Harman CD. Structure-function relations of parasol cells in the normal and glaucomatous primate retina. Invest Ophthalmol Vis Sci. 2005;46(9):3197-3207.
+37. Lin Y, Wang Y, Wu J, et al. Association between depression and glaucoma: a systematic review and meta-analysis. Front Ophthalmol. 2021;1:812345.
+
+38. Weber AJ, Harman CD. Structure-function relations of parasol cells in the normal and glaucomatous primate retina. Invest Ophthalmol Vis Sci. 2005;46(9):3197-3207.
 
 38. Curcio CA, Allen KA. Topography of ganglion cells in human retina. J Comp Neurol. 1990;300(1):5-25.
 

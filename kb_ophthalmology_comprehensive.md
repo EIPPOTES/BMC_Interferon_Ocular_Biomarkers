@@ -3,9 +3,9 @@
 
 **构建日期**: 2026-03-23  
 **数据来源**: OpenAlex学术数据库  
-**文献总数**: 155篇 (含增量更新+20)  
+**文献总数**: 163篇 (含增量更新+28)  
 **验证状态**: ✅ 已验证DOI和来源真实性  
-**最后增量更新**: 2026-03-26 (+20篇高引用文献)
+**最后增量更新**: 2026-03-27 (+8篇新发表文献)
 
 ---
 
@@ -499,4 +499,38 @@
 
 ---
 
-*最后增量更新: 2026-03-26 09:06 CST*
+*最后增量更新: 2026-03-27 01:15 CST*
+
+---
+
+### 2026-03-27 轻量增量更新 (Cron #7876fb5f)
+
+| 项目 | 数值 |
+|------|------|
+| 更新类型 | 自动化增量更新（轻量版） |
+| 检索策略 | "ophthalmology OR retina OR glaucoma OR macular" |
+| 新增文献 | 8篇 |
+| 筛选标准 | 引用≥1 (新发表文献特征) |
+| DOI验证 | ✅ 验证通过 |
+| 处理时间 | ~1分钟 |
+
+#### 新增文献列表
+
+| 标题 | 年份 | 期刊 | 引用 | DOI | 状态 |
+|------|------|------|------|-----|------|
+| Anti-inflammatory and dry eye benefits of accelerated epi-off corneal cross-linking in pediatric keratoconus | 2026 | Eye and Vision | 2 | 10.1186/s40662-025-00469-7 | ✅ |
+| Epigenetic reprogramming for ocular aging and disease: Mechanisms, biomarkers, and the road to the clinic | 2026 | Prog Retin Eye Res | 2 | 10.1016/j.preteyeres.2026.101442 | ✅ |
+| Enhancing ocular sign detection: AI-based strategic segmentation for improved accuracy and privacy protection | 2026 | npj Digital Medicine | 2 | 10.1038/s41746-025-02310-w | ✅ |
+| Influence of Intraocular Pressure on Clinical Decision-Making in Glaucoma Management | 2026 | JAMA Ophthalmology | 2 | 10.1001/jamaophthalmol.2025.5593 | ✅ |
+| De novo and inherited dominant variants in U4 and U6 snRNA genes cause retinitis pigmentosa | 2026 | Nature Genetics | 2 | 10.1038/s41588-025-02451-4 | ✅ |
+| Surgical Outcomes of Cataract Surgery Following Rapid Glycemic Control During Preoperative Period | 2026 | Clinical Ophthalmology | 2 | 10.2147/opth.s561071 | ✅ |
+| Deep Learning Prediction of Childhood Myopia Progression Using Fundus Image and Refraction Data | 2026 | JAMA Network Open | 2 | 10.1001/jamanetworkopen.2025.53543 | ✅ |
+| Mitochondrial Health Through Nicotinamide Riboside and Berberine: Shared Pathways and Therapeutic Potential (含眼科 disorders) | 2026 | Int J Mol Sci | 2 | 10.3390/ijms27010485 | ✅ |
+
+**主题分布**: AI眼科应用(2) | 角膜疾病(1) | 视网膜疾病(1) | 青光眼(1) | 白内障(1) | 近视预测(1) | 眼部老化(1)
+
+**备注**: 本次更新聚焦于最近7天发表的眼科新文献。由于新发表文献引用数普遍较低(<5)，采用引用≥1作为筛选标准以确保文献质量。所有DOI均已验证有效。
+
+---
+
+*最后增量更新: 2026-03-27 01:15 CST*
