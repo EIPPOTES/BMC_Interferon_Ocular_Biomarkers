@@ -92,5 +92,34 @@
 20. **眼内结核综述** | Gupta et al. (2007) | Surv Ophthalmol
     - 引用：663 | DOI: 10.1016/j.survophthal.2007.08.015 ✅
 
+### 青光眼 / Glaucoma
+21. **青光眼全球患病率预测** | Quigley & Broman (2006) | British J Ophthalmology
+    - 题目：The number of people with glaucoma worldwide in 2010 and 2020
+    - 引用：7325 | DOI: 10.1136/bjo.2005.081224 ✅
+    - 类型：流行病学 | 全球首个青光眼患病率系统估计
+
+22. **青光眼全球负担预测** | Tham et al. (2014) | Ophthalmology
+    - 题目：Global Prevalence of Glaucoma and Projections of Glaucoma Burden through 2040
+    - 引用：6727 | DOI: 10.1016/j.ophtha.2014.05.013 ✅
+    - 类型：流行病学 | 2040年预测
+
+### 近视 / Myopia
+23. **近视全球患病率趋势** | Holden et al. (2016) | Ophthalmology
+    - 题目：Global Prevalence of Myopia and High Myopia and Temporal Trends from 2000 through 2050
+    - 引用：5162 | DOI: 10.1016/j.ophtha.2016.01.006 ✅
+    - 类型：流行病学 | 2050年预测50亿人近视
+
+### AMD / 年龄相关性黄斑变性
+24. **AMD全球疾病负担** | Wong et al. (2014) | Lancet Global Health
+    - 题目：Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040
+    - 引用：5094 | DOI: 10.1016/s2214-109x(13)70145-1 ✅
+    - 类型：系统综述/Meta分析
+
+### 抗VEGF治疗
+25. **Ranibizumab治疗nAMD** | Rosenfeld et al. (2006) | NEJM
+    - 题目：Ranibizumab for Neovascular Age-Related Macular Degeneration
+    - 引用：5818 | DOI: 10.1056/nejmoa054481 ✅
+    - 类型：RCT | 抗VEGF治疗里程碑
+
 ---
-*总收录：20篇 | 平均引用：1114次 | 全部DOI已验证*
+*总收录：25篇 | 更新日期：2026-03-28 | 全部DOI已验证*
