@@ -283,102 +283,31 @@ The main findings of this study are:
 
 ---
 
-## Tables
+## Tables and Figures
 
-**Table 1.** Baseline Characteristics of Study Participants
+**Note**: All tables are provided as high-resolution PNG files (300 DPI) in the supplementary materials. All tables use standard three-line format consistent with journal requirements.
 
-| Characteristic | MDD (n=303 eyes) | Control (n=160 eyes) | Statistic | P value |
-|:--------------|:-----------------|:----------------------|:----------|:--------|
-| **Demographics** | | | | |
-| Eyes, n | 303 | 160 | - | - |
-| Subjects, n | 153 | 80 | - | - |
-| Age, years | 38.3 ± 20.2 | 28.0 ± 14.2 | t = 5.73 | <0.0001 |
-| Female, n (%) | 235 (77.6%) | 102 (63.7%) | χ² = 9.39 | 0.0022 |
+### Tables (8 tables, three-line format)
+| Table | Title | Filename |
+|-------|-------|----------|
+| **Table 1** | Baseline Characteristics | `Table1_Baseline_Characteristics_ThreeLine_Final.png` |
+| **Table 2** | Macular Layer Analysis (5 layers) | `Table2_Macular_Layers_ThreeLine.png` |
+| **Table 3** | Optic Disc Parameters | `Table3_Optic_Disc_ThreeLine.png` |
+| **Table 4** | Correlation Analysis (PHQ-9 vs OCT) | `Table4_Correlation_Analysis_ThreeLine.png` |
+| **Table 5** | ROC Analysis with 95% CI | `Table5_ROC_Analysis_ThreeLine.png` |
+| **Table 6** | Multivariate Regression | `Table6_Multivariate_Regression_ThreeLine.png` |
+| **Table 7** | Subgroup Analysis by Severity | `Table7_Subgroup_Analysis_ThreeLine.png` |
+| **Table 8** | Inter-eye Consistency | `Table8_Intereye_Consistency_ThreeLine.png` |
 
-*Note:* Data are presented as mean ± SD or n (%). MDD = Major Depressive Disorder.
-
-**Table 2.** Macular Thickness Analysis with ANCOVA Adjustment
-
-| Parameter | MDD (n=303) | Control (n=160) | Mean Diff | d (unadjusted) | 95% CI | d (adjusted) | 95% CI | P value |
-|:----------|:------------|:----------------|:----------|:----------------|:-------|:--------------|:-------|:--------|
-| Outer temporal thickness | 271.0 ± 17.9 | 279.2 ± 13.4 | -8.2 | -0.498 | (-0.77, -0.23) | -0.360 | (-0.63, -0.09) | 0.0003 |
-| Average macular thickness | 271.9 ± 16.0 | 278.3 ± 15.2 | -6.5 | -0.411 | (-0.68, -0.14) | -0.272 | (-0.54, -0.00) | 0.0056 |
-| Total macular volume | 7.68 ± 0.46 | 7.87 ± 0.43 | -0.19 | -0.413 | (-0.68, -0.14) | -0.271 | (-0.54, -0.00) | 0.0057 |
-
-*Note:* d = Cohen's d effect size; CI = confidence interval; adjusted = adjusted for age and sex. Negative d values indicate MDD group had lower values than control group.
-
-**Table 3.** Optic Disc Parameters
-
-| Parameter | MDD (n=303) | Control (n=160) | Cohen's d | P value |
-|:----------|:------------|:-----------------|:----------|:--------|
-| Cup-to-disc ratio | 0.30 ± 0.19 | 0.25 ± 0.18 | 0.25 | 0.008 |
-| Rim volume (mm³) | 0.25 ± 0.16 | 0.30 ± 0.24 | -0.30 | 0.011 |
-| RNFL Total (μm) | 105.89 ± 17.43 | 109.67 ± 13.28 | -0.24 | 0.078 |
-
-*Note:* RNFL = Retinal Nerve Fiber Layer.
-
-**Table 4.** Correlation between OCT Parameters and PHQ-9 Scores
-
-| Parameter | r | P value | Significance |
-|:----------|:--|:--------|:-------------|
-| Outer temporal thickness (GCL+) | 0.200 | 0.001 | * |
-| Outer temporal thickness (Retina) | 0.166 | 0.007 | * |
-| Rim volume | 0.172 | 0.006 | * |
-| Cup area | -0.13 | 0.045 | * |
-| Mean macular thickness | 0.020 | 0.748 | ns |
-
-*Note:* r = Spearman correlation coefficient; * P < 0.05; ns = not significant.
-
-**Table 5.** Diagnostic Performance of OCT Parameters (ROC Analysis)
-
-| Parameter | AUC (95% CI) | Sensitivity (%) | Specificity (%) | Optimal Cutoff | P value |
-|:----------|:-------------|:-----------------|:-----------------|:--------------|:--------|
-| Outer temporal thickness | 0.646 (0.597-0.694) | 62.2 | 60.3 | 275.79 μm | <0.001 |
-| Mean macular thickness | 0.630 (0.580-0.680) | 66.9 | 56.9 | 277.70 μm | <0.001 |
-| Total macular volume | 0.631 (0.580-0.680) | 59.1 | 58.6 | 7.74 mm³ | <0.001 |
-| Inner temporal thickness | 0.631 (0.582-0.680) | 57.8 | 62.1 | 289.35 μm | <0.001 |
-| Peripapillary RNFL (avg) | 0.593 (0.540-0.646) | 55.1 | 60.9 | 103.95 μm | 0.003 |
-
-*Note:* AUC = Area Under Curve; CI = Confidence Interval.
-
-**Table 6.** Multivariate Linear Regression: Predictors of Macular Thickness
-
-| Predictor | β | 95% CI | SE | t | P value |
-|:----------|:--|:-------|:---|:--|:--------|
-| Depression status | -5.67 | (-9.87, -1.46) | 2.14 | -2.65 | 0.009 |
-| Age (per year) | -0.15 | (-0.26, -0.04) | 0.06 | -2.72 | 0.007 |
-| Sex (female) | -1.23 | (-3.12, 0.66) | 0.96 | -1.28 | 0.201 |
-
-*Model:* R² = 0.093, Adjusted R² = 0.081, F = 7.74, P < 0.001
-
-*Note:* β = unstandardized coefficient; CI = Confidence Interval; SE = Standard Error.
-
-**Table 7.** Age-Stratified Analysis of Macular Parameters
-
-| Age Group | n (MDD/Control) | Parameter | Cohen's d | 95% CI | P value |
-|:----------|:-----------------|:----------|:----------|:-------|:--------|
-| <30 years | 156/106 | Outer temporal thickness | -0.368 | (-0.72, -0.02) | 0.004 |
-| <30 years | 156/106 | Average thickness | -0.368 | (-0.72, -0.02) | 0.004 |
-| <30 years | 156/106 | Total volume | -0.369 | (-0.72, -0.02) | 0.004 |
-| 30-50 years | 39/40 | Outer temporal thickness | -0.236 | (-0.86, 0.39) | 0.298 |
-| 30-50 years | 39/40 | Average thickness | -0.105 | (-0.73, 0.52) | 0.643 |
-| 30-50 years | 39/40 | Total volume | -0.102 | (-0.73, 0.52) | 0.653 |
-| >50 years* | 108/14 | Outer temporal thickness | -0.879 | (-1.67, -0.09) | 0.003 |
-| >50 years* | 108/14 | Average thickness | -0.571 | (-1.36, 0.22) | 0.047 |
-| >50 years* | 108/14 | Total volume | -0.577 | (-1.36, 0.21) | 0.044 |
-
-*Note:* * >50 years group has severely imbalanced sample sizes (108:14 ratio); results should be interpreted with caution.
-
-**Table 8.** Inter-eye Consistency of OCT Parameters
-
-| Parameter | Pearson r | ICC | Mean Difference | P value |
-|:----------|:----------|:-----|:----------------|:--------|
-| Mean macular thickness | 0.806 | 0.806 | 4.78 ± 8.84 μm | <0.001 |
-| Outer temporal thickness | 0.782 | 0.780 | 5.12 ± 9.21 μm | <0.001 |
-| Total macular volume | 0.795 | 0.793 | 0.02 ± 0.03 mm³ | <0.001 |
-| Peripapillary RNFL | 0.724 | 0.721 | 6.34 ± 11.2 μm | <0.001 |
-
-*Note:* ICC = Intraclass Correlation Coefficient; r = Pearson correlation coefficient.
+### Figures (6 figures)
+| Figure | Title | Filename |
+|--------|-------|----------|
+| **Figure 1** | Study Flow Chart | `Figure1_Study_Flowchart.png` |
+| **Figure 2** | Group Comparison | `Figure2_Group_Comparison.png` |
+| **Figure 3** | ROC Curves | `Figure3_ROC_Curves.png` |
+| **Figure 4** | Correlation Scatter Plots | `Figure4_Correlation_Scatter.png` |
+| **Figure 5** | Forest Plot of Effect Sizes | `Figure5_Forest_Plot.png` |
+| **Figure 6** | Subgroup Analysis | `Figure6_Subgroup_Analysis.png` |
 
 ---
 
