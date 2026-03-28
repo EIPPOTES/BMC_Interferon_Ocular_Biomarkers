@@ -533,4 +533,30 @@
 
 ---
 
-*最后增量更新: 2026-03-27 01:15 CST*
+### 2026-03-28 高影响力文献更新 (Cron #7876fb5f)
+
+| 项目 | 数值 |
+|------|------|
+| 更新类型 | 高影响力文献检索（引用>50） |
+| 检索策略 | "ophthalmology OR retina OR OCT" + 引用排序 |
+| 新增文献 | 5篇 |
+| 筛选标准 | 引用≥50 |
+| DOI验证 | ✅ 验证通过 |
+
+#### 新增高影响力文献列表
+
+| 标题 | 年份 | 期刊 | 引用 | DOI | 状态 |
+|------|------|------|------|-----|------|
+| Segment anything in medical images | 2024 | Nature Communications | 2075 | 10.1038/s41467-024-44824-z | ✅ |
+| A foundation model for generalizable disease detection from retinal images | 2023 | Nature | 740 | 10.1038/s41586-023-06555-x | ✅ |
+| How Artificial Intelligence Is Shaping Medical Imaging Technology: A Survey | 2023 | Bioengineering | 437 | 10.3390/bioengineering10121435 | ✅ |
+| Diabetic retinopathy: Looking forward to 2030 | 2023 | Front Endocrinol | 434 | 10.3389/fendo.2022.1077669 | ✅ |
+| Medical image analysis using deep learning algorithms | 2023 | Front Public Health | 393 | 10.3389/fpubh.2023.1273253 | ✅ |
+
+**主题分布**: AI医学影像(5) | 视网膜疾病(2) | 糖尿病视网膜病变(1)
+
+**备注**: 聚焦2023-2024年高影响力眼科/医学影像文献，引用>50。所有DOI已验证有效（302重定向）。
+
+---
+
+*最后增量更新: 2026-03-28 09:10 CST*
