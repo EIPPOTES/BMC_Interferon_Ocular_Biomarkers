@@ -559,4 +559,35 @@
 
 ---
 
-*最后增量更新: 2026-03-28 09:10 CST*
+### 2026-03-30 神经眼科与精神疾病交叉文献更新 (Cron #7876fb5f)
+
+| 项目 | 数值 |
+|------|------|
+| 更新类型 | 高影响力文献检索（引用>50） |
+| 检索策略 | "retina OCT psychiatry depression neurodegenerative" + 引用排序 |
+| 新增文献 | 10篇 |
+| 筛选标准 | 引用≥50 |
+| DOI验证 | ✅ 验证通过 |
+
+#### 新增高影响力文献列表
+
+| 标题 | 年份 | 期刊 | 引用 | DOI |
+|------|------|------|------|-----|
+| The Rotterdam Study: 2016 objectives and design update | 2015 | Eur J Epidemiol | 382 | 10.1007/s10654-015-0082-x |
+| The Rotterdam Study: 2012 objectives and design update | 2011 | Eur J Epidemiol | 289 | 10.1007/s10654-011-9610-5 |
+| Role of ATP-binding cassette transporters in brain lipid transport | 2007 | J Neurochem | 240 | 10.1111/j.1471-4159.2007.05099.x |
+| The Eye As a Biomarker for Alzheimer's Disease | 2016 | Front Neurosci | 216 | 10.3389/fnins.2016.00536 |
+| Mental stress as consequence and cause of vision loss | 2018 | Adv Exp Med Biol | 212 | 10.1007/s13167-018-0136-8 |
+| Visual and Ocular Manifestations of Alzheimer's Disease | 2016 | Front Neurol | 175 | 10.3389/fneur.2016.00055 |
+| Optical coherence tomography angiography in preclinical AD | 2019 | Br J Ophthalmol | 146 | 10.1136/bjophthalmol-2019-314127 |
+| Ocular Neurodegenerative Diseases: Interconnection with Cortical Areas | 2021 | Cells | 125 | 10.3390/cells10092394 |
+| OCT as Biomarker for Neurodegenerative Diseases | 2016 | Oxid Med Cell Longev | 123 | 10.1155/2016/8503859 |
+| Nonvascular retinal imaging markers of preclinical AD | 2016 | Alzheimers Dement | 113 | 10.1016/j.dadm.2016.09.001 |
+
+**主题分布**: 阿尔茨海默病(5) | 神经眼科生物标志物(3) | 眼科流行病学(2) | 精神压力与视力(1)
+
+**备注**: 本次更新聚焦于眼科与神经退行性疾病/精神疾病的交叉领域文献，与MDD视网膜研究高度相关。DOI均已验证有效。
+
+---
+
+*最后增量更新: 2026-03-30 01:10 CST*
