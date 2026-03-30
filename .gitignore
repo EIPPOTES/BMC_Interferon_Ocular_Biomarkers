@@ -1,4 +1,90 @@
-__pycache__/
-*.pyc
-venv/
+# 临时文件和编译输出
+*.tmp
 *.log
+*.bak
+*.swp
+*.swo
+*.pid
+*.lock
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 环境配置和密钥
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.vscode/
+.idea/
+*.swp
+*.swo
+*.orig
+
+# OpenClaw特定配置
+.openclaw/
+.clawhub/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大型数据文件（建议单独管理）
+*.xlsx
+*.csv
+*.pdf
+*.docx
+*.zip
+*.tar.gz
+*.7z
+
+# 图片和图表（如需保留，请单独添加）
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+
+# 日志文件
+*.log
+logs/
+log/
+*.log.*
+
+# 缓存文件
+.cache/
+cache/
+*.cache
+
+# 测试相关
+coverage/
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+.mypy_cache/
+
+# 项目特定排除
+# 在此添加项目特定的排除规则

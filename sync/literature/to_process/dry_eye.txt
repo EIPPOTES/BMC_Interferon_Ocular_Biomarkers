@@ -1,0 +1,1541 @@
+The Ocular Surface 37 (2025) 11–23
+
+Contents lists available at ScienceDirect
+
+The Ocular Surface
+journal homepage: www.elsevier.com/locate/jtos
+
+The impact of dry eye disease on patient-reported quality of life: A Save
+Sight Dry Eye Registry study
+Himal Kandel a,* , Fiona Stapleton AO b, Laura E. Downie c , Ngozi C Chidi-Egboka a ,
+David MIngo-Botin d , Francisco Arnalich-Montiel d , Saaeha Rauz e, Alberto Recchioni e ,
+Sanjeeta Sitaula f, Maria Markoulli b, Vincent Daien g , Fanny Babeau g , Gerd Geerling h ,
+Jennifer P. Craig i , Stephanie L. Watson OAM a
+a
+
+Sydney Medical School, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia
+School of Optometry and Vision Science, UNSW Sydney, New South Wales, Australia
+c
+Department of Optometry and Vision Sciences, University of Melbourne, Melbourne, Victoria, Australia
+d
+Ophthalmology, Hospital Universitario Ramon y Cajal, Madrid, Spain
+e
+Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, University of Birmingham, Birmingham, West Midlands, United Kingdom
+f
+BP Koirala Lions Centre for Ophthalmic Studies, Institute of Medicine, Kathmandu, Nepal
+g
+Ophthalmology, Centre Hospitalier Universitaire (CHU) Montpellier, Montpellier, France
+h
+Ophthalmology, University Hospital Duesseldorf, Heinrich-Heine University, Duesseldorf, Germany
+i
+Department of Ophthalmology, Aotearoa New Zealand National Eye Centre, The University of Auckland, Auckland, New Zealand
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Corneal neuropathic pain
+Dry eye disease
+Impact
+Patient-reported outcomes
+Quality of life
+Questionnaire
+Symptoms
+Visual function
+
+Purpose: The aim of this real-world registry study was to evaluate the quality-of-life (QoL) impact of dry eye
+disease (DED). The specific objectives were to determine factors affecting QoL in DED, and to evaluate the
+psychometric properties of the Ocular Surface Disease Index (OSDI), Ocular Comfort Index (OCI), and Patient
+Health Questionnaire (PHQ) in a real-world DED population using modern psychometric methods.
+Methods: This descriptive cross-sectional study included 368 DED patients (mean 54.7 ± 16.6 years; 80.2 %
+female) who completed one or more of the three questionnaires (OSDI, OCI and PHQ). Psychometric analysis of
+the QoL data was carried out with Andrich’s Rating Scale Model of Rasch analysis.
+Results: The original OSDI and OCI had disordered categories. The Rasch-optimised final QoL scales (OSDI –
+Overall, OSDI – Symptoms [SY], OSDI – Activity limitation [AL], OSDI – Environmental trigger [EN], OCI
+Overall, OCI - Frequency [FR], OCI - Intensity [IN], and PHQ) had satisfactory psychometric properties. Patients
+diagnosed with a mixed aqueous/evaporative DED subtype had worse mean OSDI-Overall and OSDI-AL scores
+than individuals with evaporative DED (p = 0.012 and 0.001 respectively). Patients with corneal neuropathic
+pain had worse QoL scores (OSDI-Overall, OSDI-AL, OSDI-SY, OSDI-EN, OCI-Overall, OCI-FR, OCI-IN, and PHQ;
+all p < 0.05) than those without. Patients who reported undergoing prior treatment or procedure for DED had
+worse QoL scores than those who did not (all p < 0.05 except for PHQ). The associations between DED signs (tear
+breakup time and staining) and symptoms were weak or not significant.
+Conclusions: In this real-world setting, diagnoses of mixed DED, corneal neuropathic pain, and history of DED
+treatment/procedures were associated with worse dry eye symptoms, activity limitation, and/or QoL.
+
+* Corresponding author. The University of Sydney, Save Sight Institute, Sydney Eye Hospital, South Block, Level 1, 8 Macquarie Street, NSW, 2000, Australia.
+E-mail addresses: himal.kandel@sydney.edu.au (H. Kandel), f.stapleton@unsw.edu.au (F. Stapleton), ldownie@unimelb.edu.au (L.E. Downie), ngozi.
+chidiegboka@sydney.edu.au (N.C. Chidi-Egboka), davminbot@gmail.com (D. MIngo-Botin), farnalich@gmail.com (F. Arnalich-Montiel), s.rauz@bham.ac.uk
+(S. Rauz), a.recchioni@bham.ac.uk (A. Recchioni), sanjeeta8272@gmail.com (S. Sitaula), m.markoulli@unsw.edu.au (M. Markoulli), vincent.daien@gmail.com
+(V. Daien), fanny.babeau@orange.fr (F. Babeau), Geerling@med.uni-duesseldorf.de (G. Geerling), jp.craig@auckland.ac.nz (J.P. Craig), stephanie.watson@
+sydney.edu.au (S.L. Watson).
+https://doi.org/10.1016/j.jtos.2025.02.005
+Received 10 September 2024; Received in revised form 23 January 2025; Accepted 11 February 2025
+Available online 13 February 2025
+1542-0124/© 2025 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+1. Introduction
+
+health impact of DED was captured using the PHQ-4 [25] questionnaire.
+Most of the existing QoL studies in DED have used traditional
+analytical techniques, such as summary scoring [1–3], which have
+methodological limitations. The summary scoring erroneously assigns
+each item in a scale the same weighting, with response categories
+located equidistant from adjacent categories [26–28]. Modern psychometric methods, such as Rasch analysis, can address these shortcomings
+[29,30]. This real-world clinical registry study sought to comprehensively evaluate the impact of DED on QoL. The specific objectives were
+to determine the factors affecting QoL, and to evaluate the psychometric
+properties of the OSDI, OCI, and PHQ-4 in a real-world DED population,
+using Rasch analysis.
+
+Dry eye disease (DED) is one of the most common ocular conditions
+worldwide [1–3]. It results from reduced quality and/or quantity of
+tears, leading to compromise of the ocular surface [4]. Globally, DED
+causes significant morbidity [5] and healthcare expenditure [1,4]. The
+prevalence of DED varies around the world, with estimates ranging from
+5 % to 50 % of adults depending on the geographic location and definition(s) applied [6]. The burden of DED is growing due to lifestyle
+changes (e.g., prolonged screen use) and the ageing population [2,7,8].
+The subjective impact of DED can range from mild ocular discomfort
+to disabling eye pain [9,10]. Severe limitations on daily activity are less
+common but can include difficulties with driving and reading [4]. Most
+studies evaluating patient-reported outcomes among people living with
+DED have focused on ocular symptoms; the impacts of DED on other
+quality of life (QoL) domains are less well understood. Comprehensively
+evaluating the QoL impact of DED, from a patient’s perspective, is
+important as standard ophthalmic clinical measures, such as visual
+acuity (VA), tear breakup time (TBUT) and ocular surface staining, may
+not reflect the impact of the disease on QoL and/or real-world visual
+function [1]. For example, a person with DED may have normal (6/6)
+high-contrast visual acuity, but may not feel comfortable safely driving
+at night [11].
+It has been reported that clinicians frequently underestimate the
+severity of DED relative to patients’ self-assessment of their disease
+severity [2]. Moreover, some individuals with DED may suffer from
+corneal neuropathic pain, manifesting with few standard ocular surface
+signs in the presence of severe eye pain [10]. Real-world data have
+provided useful insight into the impact of a variety of ocular diseases,
+and their management, on QoL outcomes [12,13]. Unlike clinical trials
+that are conducted among discrete populations in controlled settings,
+studies that analyse routinely-collected clinical outcome data can provide real-world insights. Clinical registries have been used to collect
+short- and longer-term real-world data from different patient populations [14–17]. For DED, the Save Sight Dry Eye Registry (SSDER) is a
+web-based, multinational patient database for monitoring natural history and treatment outcomes, including clinical and patient-reported
+QoL outcomes [18–20]. Analysing data entered into the SSDER can
+assist with determining the long-term effectiveness and safety of DED
+treatments, identifying patients at a higher risk of developing severe
+DED, and developing individually tailored treatment regimens to
+enhance person-centred care [18,21].
+The Ocular Surface Disease Index (OSDI), Ocular Comfort Index
+(OCI), and Patient Health Questionnaire-4 (PHQ-4) are the three measures used in the SSDER [18] to collect real-world patient-reported
+outcome data by clinicians. These patient-reported outcome measures
+were chosen after a literature review and international steering committee consensus based on how frequently they are used, and evidence
+on validity, reliability, and psychometric properties, with a goal of
+capturing the comprehensive impact of DED on patients with minimal
+data entry burden to patients and clinicians. The OSDI [22], the most
+frequently used DED-specific patient-reported outcome measure globally, has three subscales: symptoms (OSDI-SY; consists of both visual and
+ocular comfort symptoms), vision-related activity limitation (OSDI-AL),
+and environmental triggers (OSDI-EN). OSDI consists of 3 types of
+4-point Likert scales, traditionally scored with summary scoring. The
+OCI [23] has been reported to be of higher psychometric quality than
+other DED questionnaires [24]. However, it has content on only the
+ocular comfort symptoms domain of QoL. It evaluates the frequency
+(OCI-FR) and intensity (OCI-IN) attributes of six symptoms. The mental
+
+2. Materials and methods
+This cross-sectional study included patients with a diagnosis of DED,
+in one or both eyes, who completed one or more of the three patientreported outcome measures: OSDI, OCI and PHQ. They were recruited
+from six practices (eight clinicians) within Australia, Spain, and Nepal,
+with data collected prospectively using the SSDER [18] from April 2020
+to April 2024. The SSDER incorporates quality assurance measures,
+including mandatory fields and the requirement that questionnaires be
+completed before data can be finalised [18]. Only finalised data were
+analysed in this study.
+Ethical approval was granted by the Human Research Ethics Committees of the Royal Australian and New Zealand College of Ophthalmologists (RANZCO), the Royal Prince Alfred Hospital, and locally for
+other participating sites. The study was conducted in adherence with the
+tenets of the Declaration of Helsinki.
+DED and corneal neuropathic pain diagnoses and treatment decisions were made by each individual patient’s treating clinician,
+reflecting the nature of real-world clinical practice. Data recorded in the
+SSDER [18] included patient demographics, medical history (including
+DED treatment details) and clinical measures, including visual acuity
+(VA), TBUT, ocular surface staining (none, minimal, mild, moderate,
+severe) and Oxford ocular surface staining score (OSS, 0–15).
+Patient-reported outcomes were captured in the registry using the OSDI
+[31,32], OCI [33], and PHQ-4 [34,35] questionnaires (Table 1).
+2.1. Rasch analysis
+Psychometric evaluation of the QoL data was carried out using Rasch
+analysis with Winsteps software (version 3.92.1; Winsteps, Chicago, IL)
+employing Andrich’s Rating Scale Model. Details of the Rasch analysis
+have been described previously [13,26,27,36]. In brief, Rasch analysis
+converts raw categorical patient-reported outcome data into
+interval-level data with log transformation. The data were coded such
+that the higher scores represented better QoL (e.g., fewer symptoms and
+less activity limitation). Rasch iterations were conducted until acceptable values of Rasch parameters were obtained to ensure that the data
+met the Rasch model expectations.
+Rasch parameters evaluated included response-category functioning,
+unidimensionality, measurement precision, fit statistics, differential
+item functioning, local item dependency (LID), and targeting [26].
+Response category functioning assessment ensured that the response
+options were used as intended with higher categories representing better
+QoL status. Unidimensionality evaluation ensured that each scale
+measured a single underlying construct (e.g., activity limitation) which
+is a fundamental property of a scale. In this study, unidimensionality
+was assessed with variance explained by the measure and unexplained
+
+12
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Table 1
+Patient-reported outcome measures in the Save Sight Dry Eye Registry.
+Content (domains and items)
+
+OSDI-12
+
+OCI-12
+
+PHQ-4
+
+Symptoms (OSDI-SY)
+
+Symptoms Frequency (OCIFR)
+
+Emotional
+
+1. Eyes sensitive to light
+2. Eyes gritty
+3. Painful or sore eyes
+4. Blurred vision
+5. Poor vision
+Activity limitation (OSDI-AL)
+
+1. Dryness
+3. Grittiness
+5. Stinging
+7. Tiredness
+9. Pain
+11. Itching
+Symptoms Intensity (OCI-IN)
+
+6. Reading
+7. Driving at night
+8. Working on a computer/ATM machine
+9. Watching TV
+Environmental trigger (OSDI-EN)
+
+Response options
+
+Scoring
+
+10. Windy
+11. Low humidity (very dry)
+12. Air-conditioned
+0. None of the time, 1. Some of the time, 2. Half of the time, 3. Most of
+the time, 4. All of the time [OSDI-AL and OSDI-EN have additional N/
+A response option]
+Traditionally scored using summary scoring
+
+1. Feeling nervous, anxious or on
+edge
+2. Not being able to stop or control
+worrying
+3. Little interest or pleasure in doing
+things
+4. Feeling down, depressed, or
+hopeless
+
+2. Dryness
+4. Grittiness
+6. Stinging
+8. Tiredness
+10. Pain
+12. Itching
+OCI-FR: 0 (Never), 1, 2, 3, 4, 5,
+6 (Always)
+OCI-IN: 0 (Never had it), 1, 2, 3,
+4, 5, 6 (Severe)
+Ready-to-convert Rasch score
+conversion algorithm
+available*
+
+0. Not at all, 1. Several days, 2. More
+than half the days, 3. Nearly every
+day
+Traditionally scored using summary
+scoring
+
+Note: OCI, Ocular Comfort Index; OSDI, Ocular Surface Disease Index; PHQ, Patient Health Questionnaire; *Although ready-to-use ordinal-to-Rasch score conversion
+algorithms are available, we conducted new Rasch analyses to ensure the measure is specifically tailored to the context and population under study.
+
+variance in the first contrast on Rasch principal component analysis of
+the residuals, and fit statistics [26,37]. Measurement precision assessment including person separation index (PSI) and person reliability
+ensured the scales enabled precise and reliable measurement. Errors in
+estimating Rasch parameters (person-ability and item-difficulty) determine the measurement precision. The fit statistics indicated how well
+the data met the Rasch model expectations. The differential item functioning evaluation ensured the items behaved the same way for different
+groups of participants (e.g., male and female) [29]. The LID assessment
+ensured that the items were independent of each other and the response
+to one item did not influence the response to another item [27]. Finally,
+targeting indicated how well the item measures (e.g., difficulty for
+OSDI-AL) matched with the person measures (e.g., ability for OSDI-AL)
+[12,24,26,27,36]. The log-odds unit (logit) scale was rescaled using the
+UScale and Umean commands such that the QoL scores were located
+between 0 and 100 units and the mean of the items in each scale was 50
+units [12,13].
+
+determined a posteriori [39]. Half standard deviations of the mean person measures for the QoL scales were considered as the minimal clinically important differences (MCIDs) [12,40].
+3. Results
+3.1. General characteristics of the participants
+This study included data from 368 patients (mean ± SD, 54.7 ± 16.6
+years) enrolled in the SSDER, with a clinician diagnosis of DED and who
+had completed one or more of the three patient-reported outcome
+measures: OSDI, OCI and PHQ. The patient data were derived from six
+practices (eight clinicians; 6 ophthalmologists and 2 optometrists) in
+Australia, Spain and Nepal. A total of 266 (72.3 %) patients had
+completed all three questionnaires, 338 (91.8 %) patients had
+completed both the OSDI and PHQ, 296 (80.4 %) had completed OCI.
+Tear breakup time (TBUT) was assessed using fluorescein in 301 (81.8
+%) patients, and using non-invasive methods in 67 (18.2 %) patients.
+The key demographic and clinical characteristics of included patients
+are summarised in Table 2. According to the clinician-reported subtype
+of DED, 120 (32.6 %) patients had mixed DED (i.e., both aqueousdeficient and evaporative subtypes), 206 (56.0 %) patients had only
+evaporative DED, and 42 (11.4 %) patients had only aqueous-deficient
+DED. Forty (10.9 %) patients received a diagnosis of corneal neuropathic pain. Twenty-three patients (6.2 %) were contact lens wearers.
+
+2.2. Further statistical analysis
+Further analyses were conducted using R Statistical Software
+(Version 4.2.1). The significance of the differences in QoL scores between the groups was evaluated with t-test for two groups or one-way
+analysis of variance (ANOVA) followed by Tukey’s test for pairwise
+evaluations. Associations between the QoL domains (patient-reported
+outcome scales) and continuous demographic and clinical variables
+were tested with Pearson’s correlation (r) test (mild < |0.30|, moderate |
+0.30| to |0.70|, high > |0.70|) [12,13,38]. Relationships between DED
+signs and symptoms were determined considering the eye with worse
+signs. Cronbach’s alpha was also calculated to evaluate the person raw
+score test reliability. A post-hoc Bland-Altman agreement analysis was
+conducted to evaluate agreement between the highly correlating scales,
+
+3.2. Psychometric evaluation of the QoL scales
+Rasch analysis revealed that the OSDI had disordered thresholds
+(Appendix 1A) suggesting the response options were not utilised by
+respondents as intended. The middle response category, being a neutral
+category, was removed, resulting in well-spaced ordered categories
+
+13
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Table 2
+Demographic and clinical characteristics of the study participants.
+
+Table 2 (continued )
+
+Variable
+
+Frequency
+
+No of patients
+Sex, n (%)
+Female
+Male
+Ethnicity, n (%)
+White or Caucasian
+Asian
+Others/unspecified
+Diagnosis, n (%)a
+Evaporative DED
+Aqueous deficient DED
+Corneal neuropathic pain
+Ocular surface staining, n (%)
+None
+Minimal
+Mild
+Moderate
+Severe
+Meibomian gland dropout, n (%)
+None
+Minimal
+Mild
+Moderate
+Severe
+Visual acuity (logMAR letters) groups, %
+≥70
+>35 and < 70
+≤35
+Mean visual acuity (SD) logMAR letters
+
+368
+
+Other ocular conditions, nb
+Meibomian gland dysfunction
+History of cataract surgery
+Cataract
+Surgical inclusive/post refractive surgery
+Lagophthalmos
+Glaucoma
+Trichiasis
+Allergic eye disease
+Recurrent corneal erosion
+Superior limbic keratoconjunctivitis
+Pterygium
+Retinal disease
+Amblyopia
+Blepharospasm
+Prior DED treatments, nb
+Artificial tear substitute (e.g., Carbomer, Carboxymethylcellulose,
+Hyaluronic acid, Hydroxypropyl Guar, Hydroxypropyl
+methylcellulose, Paraffin, Polyvinyl alcohol)
+Anti-inflammatory therapy (Cyclosporine, Tetracycline,
+Corticosteroids)
+Eyelid warming and compression (Manual, Infrared device, MGDRx
+Eyebag)
+Biological tear substitute (e.g., Autologous serum)
+Diet and nutritional supplements (e.g., Omega-3 fatty acids)
+Retinol
+Lid hygiene (e.g., Eyelid cleaning wipes, neutral shampoo, tea tree
+oil)
+Alternative therapy (Manuka Honey – Optimel eye drops)
+Antioxidants
+Secretagogues (Pilocarpine)
+Hormonal therapy - testosterone cream
+Bandage contact lens
+RGP contact lens
+None
+Prior procedures, nb
+Mechanical tear conservation therapy (Punctal plugs)
+Physical treatment (Blephasteam, Intense pulsed light, Lid
+debridement, Lipiflow, Manual gland expression)
+Surgical lid correction – blepharoptosis
+Surgical essential blepharospasm treatment with Botulinum
+neurotoxin
+Surgical conjunctival resection for superior limbic
+keratoconjunctivitis
+
+Variable
+Current treatments, nb
+Artificial tears substitute (e.g., Carbomer, Carboxymethylcellulose,
+Hyaluronic acid, Hydroxypropyl Guar, Hydroxypropyl
+methylcellulose, Paraffin, Polyvinyl alcohol)
+Anti-inflammatory therapy (Cyclosporine, Tetracycline,
+Corticosteroids)
+Eyelid warming and compression (Manual, Infrared device, MGDRx
+Eyebag, Eyegiene mask, Blephasteam)
+Diet and nutritional supplements (e.g., Omega-3 fatty acids)
+Lid hygiene (e.g., Eyelid cleaning wipes, neutral shampoo, tea tree
+oil, antibiotic)
+Retinol
+Alternative therapy (Manuka Honey – Optimel eye drops)
+Biological tear substitute (e.g., Autologous serum)
+Antioxidants
+None
+
+295 (80.2)
+73 (19.8)
+245 (66.6)
+86 (23.4)
+37 (10.0)
+326 (88.6)
+162 (44)
+40 (10.9)
+150 (40.8)
+112 (30.4)
+77 (20.9)
+25 (6.8)
+4 (1.1)
+
+Frequency
+745
+299
+215
+46
+44
+29
+27
+26
+5
+2
+
+DED, dry eye disease; RGP, rigid gas permeable; SD, standard deviation.
+a
+The same eye was counted more than once if it had a mixed dry eye disease
+(e.g., aqueous and evaporative dry eye).
+b
+The same eye was counted more than once if multiple treatments (e.g., two
+types of artificial tears substitute) were used.
+
+16 (4.3)
+145 (39.4)
+154 (41.8)
+47 (12.8)
+6 (1.6)
+
+(Appendix 1B). All OSDI items demonstrated good fit statistics (infit and
+outfit statistics 0.70 to 1.30). On the Overall scale, the three Environmental trigger items loaded >0.40 suggesting multidimensionality.
+Separate Rasch analyses were performed to evaluate these Environmental trigger items and the other two subscales: activity limitation (AL)
+and symptoms (SY) (Table 3). Overall, among the issues captured by the
+OSDI, patients expressed windy situations as the most uncomfortable
+environmental condition. Similarly, having DED impacted reading activity the most. Eyes feeling gritty was the most frequent OSDI symptom
+(Fig. 1A).
+The OCI thresholds were also disordered (Appendix 1C). Categories 1
+and 2 were collapsed (merged) which resulted in ordered categories and
+thresholds (Appendix 1D). In the overall OCI scale, each symptom
+attribute pair (e.g. Pain frequency and Pain intensity items) had LID
+>0.30. The LID was always <0.3 within FR and IN subscales. The
+eigenvalue of the first contrast suggested that more than three items
+clustered and potentially could form a sub-scale (multidimensionality).
+The OCI has two conceptually different constructs (i.e., two attributes of
+ocular comfort symptoms: frequency and intensity). Rasch analysis was
+then conducted for the Frequency and Intensity subscales of ocular
+comfort (Table 3). Among the symptoms captured by the OCI, the frequency and intensity of dryness were the most impactful items affecting
+most people with DED. Overall, the frequency of symptoms was
+considered more troublesome than the intensity of symptoms (Fig. 1B).
+For the PHQ, the categories and thresholds were ordered (Appendix
+1E). DED patients were impacted by anxiety-related factors more than
+depression-related items (Fig. 1C).
+Overall, the final QoL scales (OSDI – Overall, OSDI – SY, OSDI – AL,
+OSDI – EN, OCI Overall, OCI-FR, OCI-IN, and PHQ) had satisfactory
+psychometric properties (Table 3, Fig. 1) [24,36,41]. The response
+categories and thresholds were ordered and well-spaced. The variance
+explained by the measure and the unexplained variance in the first
+contrast indicated that the scales were essentially unidimensional. The
+person separation indices for OSDI-SY, OSDI-AL and PHQ were below
+the ideal value (2.0) indicating they were particularly useful for
+screening purposes (e.g., screening DED patients with mental health
+impact) [42]. All other subscales demonstrated adequate measurement
+precision suggesting they were reliable to use for monitoring treatment
+effects. The items in each scale had good fit statistics (i.e., infit and outfit
+between 0.70 and 1.30 MnSq) [24]. Targeting was poor for OSDI-AL and
+PHQ scales suggesting that most participants had satisfactory mental
+health status and low activity limitation due to DED. There was no
+
+87.5
+11.1
+1.4
+78.8
+(11.3)
+223
+34
+26
+31
+14
+14
+7
+7
+6
+6
+4
+4
+3
+2
+370
+106
+73
+16
+16
+15
+12
+10
+3
+1
+1
+1
+1
+49
+41
+33
+2
+2
+1
+
+14
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Table 3
+Psychometric properties of the OSDI, OCI, and PHQ scales.
+Satisfactory
+value
+
+OSDI –
+Overalla
+
+OSDI – SYa
+
+OSDI - ALa
+
+OSDI - ENa
+
+OCI Overallb
+
+OCI-FRb
+
+OCI-INb
+
+PHQ
+
+Number of persons
+>300/[29]/Number of
+items
+Unidimensionality
+Variance
+>60%
+explained by the
+measure
+Unexplained
+Eigenvalue
+variance in 1st
+<2.0 (<5 %)
+contrast [37]
+Measurement Precision
+Person Separation
+>2.0 (>0.8)
+Index (Person
+reliability) [27]
+Item Separation
+>3.0 (0.90)
+Index (Item
+reliability) [27]
+Cronbach’s alpha
+>0.7
+[29]
+Item infit (MnSq)/
+<1.3/<1.3
+Item outfit
+(MnSq) [32]
+Local item
+<0.30
+dependency [29]
+
+338/12
+
+338/5
+
+322/4
+
+312/3
+
+296/12
+
+296/6
+
+296/6
+
+338/4
+
+61.1%
+
+59.9%
+
+70.3%
+
+75.8%
+
+62.6%
+
+64.5%
+
+64.8 %
+
+63.0 %
+
+​
+
+​
+
+Eigenvalue
+2.43 (7.9 %)
+
+Eigenvalue
+1.88 (15.1 %)
+
+Eigenvalue
+1.43 (10.6 %)
+
+Eigenvalue
+1.45 (11.8 %)
+
+Eigenvalue
+2.30 (7.2 %)
+
+Eigenvalue
+1.45 (8.6 %)
+
+Eigenvalue
+1.45 (8.5 %)
+
+Eigenvalue
+2.13 (19.7 %)
+
+2.49 (0.86)
+
+1.64 (0.73)
+
+1.78 (0.76)
+
+2.16 (0.82)
+
+3.64 (0.93)
+
+2.58 (0.87)
+
+2.49 (0.86)
+
+1.70 (0.74)
+
+6.33 (0.98)
+
+6.24 (0.97)
+
+2.21 (0.83)
+
+2.77 (0.88)
+
+9.87 (0.99)
+
+10.49 (0.99)
+
+8.90 (0.99)
+
+6.04 (0.97)
+
+0.92
+
+0.85
+
+0.98
+
+0.83
+
+0.93
+
+0.86
+
+0.87
+
+0.91
+
+All <1.3
+
+All <1.3
+
+All <1.3
+
+All <1.3
+
+All <1.3
+
+All <1.3
+
+All <1.3
+
+All <1.3
+
+All <0.3
+
+All <0.3
+
+All <0.3
+
+All <0.3
+
+All <0.3
+
+All <0.3
+
+All <0.3
+
+Targeting, scaled
+units (logits)
+[37]
+Mean person
+measures
+(range)
+Minimal clinical
+important
+difference
+
+5.88 (0.84)
+
+4.56 (0.65)
+
+11.34 (1.62)
+
+0.64 (0.09)
+
+Each symptom
+attribute pair
+(6 pairs)
+1.83 (0.26)
+
+0.98 (0.14)
+
+2.90 (0.41)
+
+20.30 (2.9)
+
+53.9
+(15.4–86.5)
+
+54.6
+(19.3–83.7)
+
+61.4
+(14.9–86.5)
+
+50.8
+(10.6–90.5)
+
+51.2
+(12.1–83.0)
+
+50.2
+(16.7–74.5)
+
+52.4
+(15.8–84.1)
+
+70.4
+(16.1–89.0)
+
+3.96
+
+3.76
+
+5.1
+
+5.1
+
+1.76
+
+3.50
+
+3.77
+
+5.60
+
+Parameters
+
+​
+
+​
+
+<7.0 (<1.0)
+
+AL, activity limitation; EN, environmental trigger; FR, frequency; IN, intensity; MnSq, mean square; OCI, Ocular Comfort Index; OSDI, Ocular Surface Disease Index;
+PHQ, Patient Health Questionnaire; SY, symptoms.
+a
+The middle category was removed due to disordered thresholds.
+b
+The second and third categories (responses 1 and 2) were merged due to disordered thresholds.
+
+notable differential item functioning (item bias) related to patient sex
+and country. Cronbach’s alpha ranged from 0.83 to 0.98.
+
+deficient DED, only the difference in OSDI-EN between the groups was
+statistically significant (p = 0.049).
+Patients with ocular surface staining had worse OSDI-Overall, OSDIAL and OSDI-SY scores (all p < 0.05; Fig. 3C) relative to those without
+staining. However, correlations between the grade of ocular surface
+staining, and each of the QoL scale scores and visual acuity were not
+significant (Pearson’s r: 0.02 to 0.12; all p > 0.05). The correlation between ocular surface staining and TBUT scores was significant (Pearson’s r = − 0.31, p < 0.001). There was no significant correlation
+between TBUT and any of the QoL scores (Pearson’s r − 0.09 to 0.15; all
+p > 0.05). Similarly, the correlation between TBUT and visual acuity
+was not significant (Pearson’s r = 0.24; p = 0.195). Better visual acuity
+was associated with less DED-associated activity limitation (Pearson’s r
+= 0.47; p = 0.034). There was no significant correlation between visual
+acuity and any of the other OSDI (Overall, SY and EN) or the OCI
+(Overall, FR, IN) scores (Pearson’s r: 0.11 to 0.37; all p > 0.05).
+Patients who received a diagnosis of ocular neuropathic pain had
+statistically significantly worse QoL scores (OSDI-Overall, OSDI-AL,
+OSDI-SY, OSDI-EN, OCI-Overall, OCI-FR, OCI-IN, and PHQ; all p <
+0.05) than those without a diagnosis of corneal neuropathic pain
+(Fig. 3D).
+
+3.3. Evaluation of quality-of-life impact of dry eye disease
+Overall, weak or non-statistically significant correlations were
+observed between most QoL scale scores and demographic or clinical
+variables (Fig. 2). While age was significantly correlated with visual
+acuity (Pearson’s r, − 0.44), it was not correlated with any of the QoLscale scores, TBUT, or ocular surface staining score (Pearson’s r: 0.13
+to 0.03; all p > 0.05). Similarly, while the mean scores were worse for
+females than males across all QoL domains (Fig. 3A; Appendix 2), none
+of the differences were statistically significant (all p > 0.05). None of the
+differences in QoL scores between ethnic groups were statistically significant (all p > 0.05; Appendix 2).
+Patients with mixed DED had lower (i.e., worse) mean OSDI-Overall
+and OSDI-AL scores than patients with only evaporative DED (p = 0.010
+and 0.001 respectively). While the mixed DED group also had lower
+(worse) mean scores for other QoL-scales (Fig. 3B), differences were not
+statistically significant (all p > 0.05). Similarly, while the patients with
+mixed DED had worse scale scores than the patients with only aqueous-
+
+15
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Fig. 1. Person-item map for A) OSDI-overall B) OCI-overall C) PHQ
+Note: Both items and persons are presented in the same interval-level scale. M, mean; S, one standard deviation from the mean; T, two standard deviations from the
+mean. F, frequency; I, Intensity; OCI, Ocular Comfort Index; OSDI, Ocular Surface Disease Index; PHQ, Patient Health Questionnaire.
+
+Fig. 2. Correlation matrix of quality-of-life, demographic and clinical variables
+Note: Cross mark (X) indicates that the correlation coefficient was not statistically significant (p > 0.05). AL, activity limitation; EN, Environmental trigger; OCI,
+Ocular Comfort Index; OSDI, Ocular Surface Disease Index; PHQ, Patient Health Questionnaire; SY, symptoms; The questionnaire responses were coded such that the
+higher scores represented better quality of life (e.g., fewer symptoms and less activity limitation).
+
+16
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Fig. 3. Mean (95 % CI) quality of life scores in dry eye patients by A) Sex, B) Dry eye subtype, C) Ocular surface staining, D) Presence of corneal neuropathic pain E)
+History of prior treatment, and F) History of prior procedure for dry eye disease
+Note: AL, activity limitation; Env, Environmental trigger; OCI, Ocular Comfort Index; OSDI, Ocular Surface Disease Index; PHQ, Patient Health Questionnaire; SY,
+symptoms; The questionnaire responses were coded such that the higher scores represented better quality of life (e.g., fewer symptoms and less activity limitation).
+
+17
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Individuals with a history of treatment for DED (i.e., who had
+received treatment before the study clinical visit) had worse QoL scores
+than those who had not (Fig. 3E, all p < 0.05 except PHQ). Similarly,
+patients with a history of undergoing a procedure for DED (including
+punctal plug occlusion and physical eyelid therapy) had worse QoL
+scores in all domains (Fig. 3F, all p < 0.05) relative to those who had not
+undergone such procedures. The differences in TBUT values between
+individuals with a history of DED treatment and those without were not
+statistically significant (mean difference 0.3 [95 % CI -0.9 to 1.6) seconds; p = 0.596). Similarly, the differences in TBUT values between
+individuals with a history of a procedure for DED and those without
+were also not statistically significant (mean difference 0.04 [95 % CI -1.3
+to 1.4) seconds; p = 0.955).
+Poorer mental health (PHQ) scores were associated with worse OSDI
+and OCI scores (Pearson’s r 0.43 to 0.49; all p < 0.05), except with OSDIEN scores (Pearson’s r = 0.35, p = 0.056). The PHQ scores were not
+correlated with visual acuity, ocular surface staining or TBUT (Pearson’s
+r − 0.08 to 0.08; all p > 0.05).
+There was a moderate to high correlation between the OSDI and OCI
+scales (Pearson’s r = 0.54 to 0.76; all p < 0.05), and a high correlation
+between OCI subscales (Pearson’s r > 0.89). The difference between
+OCI-IN (mean 52.9 units) and OCI-FR (mean 51.0 units) was statistically
+significant (paired t-test; p < 0.001). Bland-Altman agreement analysis
+[39] (Appendix 3) showed that the mean bias, (i.e., the mean of the
+differences between the paired observations) ± SD (1.92 ± 3.49 units)
+was close to the MCIDs for the OCI subscales [40]. There was a systematic difference between the measurements with a proportional bias.
+The limits of agreement were widely separated (the difference between
+the upper and lower limit of agreement = 14.30 units) suggesting the
+two scales were measuring independent attributes of subjective ocular
+comfort and were not in agreement.
+
+various QoL issues in DED patients; for example, the PHQ data showed
+that anxiety-related issues were more troublesome and impactful than
+depression-related issues.
+Our findings from the multinational real-world registry setting
+showed that the OSDI, the most frequently used dry eye questionnaire
+worldwide, should ideally not be used in its raw form aligning with and
+validating findings from previous research [32,39]. It is essential to
+assess its validity and optimise it before using it as an outcome measure.
+In our study and that of Dougherty [32], the OSDI was modified to
+achieve acceptable psychometric properties. However, in a study by
+McAlinden et al., the OSDI could not be repaired [39]. The validity of a
+QoL measure can change over time and across different settings. While
+studies using traditional methods suggest that the OSDI is valid and
+reliable [31], approaches that use summary scoring have limitations
+[45]. Summary scoring has been described as ‘malpractice’ in QoL
+research [46], such that the use of modern psychometric methods such
+as Rasch analysis is now considered best practice.
+The known-group validity of the QoL scales was evident from their
+ability to differentiate various clinical DED groups [43]. In this current
+real-world study, evaporative DED was the most common subtype, as
+reported elsewhere [47]. Patients with mixed DED (i.e., coexistent
+evaporative and aqueous-deficient forms) had worse QoL scores than
+those with only evaporative DED or only aqueous deficient DED. It
+should be noted that the mixed DED may represent a more advanced
+stage of DED, hence associated with worse QoL [48]. We also found that
+a prior history of a DED treatment or procedure was associated with
+worse QoL scores. While appropriate treatment may improve patients’
+QoL [2], we would expect those cases to be more likely to have chronic
+DED, and perhaps more severe DED than others. Interestingly, the TBUT
+were similar between the groups. The findings, at least in this clinical
+population, also suggest that current DED treatments may not improve
+QoL to the level experienced by people who have never had DED. Patients with a clinical diagnosis of corneal neuropathic pain had worse
+symptoms, activity limitation, mental health status and QoL than those
+without such a diagnosis. The impact of moderate or severe DED on QoL
+has been reported as similar to that of angina by Schiffman et al[49].
+The larger proportion of females than males in this study is consistent
+with the higher prevalence of DED in this population, as reported elsewhere [2,50]. Some of the reasons that have been described to underlie a
+higher burden of DED in females are that they are more likely to report
+symptoms, undergo refractive surgery, wear contact lenses, have a
+higher incidence of autoimmune disease, take more medications, and
+have hormonal differences [4]. Interestingly, we found that the differences in QoL impacts of DED between males and females were not statistically significant in the present study. This suggests that while
+females may be more likely to receive a DED diagnosis, the QoL impacts
+are comparable for both sexes once diagnosed.
+The weak or non-significant correlations observed between DED
+symptoms and clinical signs may be because of decreased corneal
+sensation in chronic DED [1], or reflect individual differences in
+discomfort thresholds and coping mechanisms [2]. Some patients with
+mild signs may report severe symptoms, whereas others with severe
+signs can report mild or no symptoms [1,50]. The relationship between
+patient-reported outcomes and clinical DED signs is reported to be
+largely weak or non-existent in the literature [1–3,37,50]. It follows that
+DED signs and symptoms are complementary clinical measures, and thus
+should both be assessed as part of a comprehensive clinical evaluation of
+DED. Corneal neuropathic pain is being increasingly recognised and may
+often be misdiagnosed as DED [51]. Questionnaires designed for corneal
+neuropathic pain may be needed to more clearly identify this patient
+
+4. Discussion
+This international DED registry study has comprehensively evaluated the QoL impact of DED using seven scales within three patientreported outcome measures. The Rasch-optimised QoL scales had
+satisfactory psychometric properties and were used to identify the factors associated with decreased QoL in DED patients. The presence of
+mixed subtype DED, corneal neuropathic pain, a prior history of DED
+treatment, and a prior history of a procedure for DED were associated
+with worse DED symptoms, activity limitation, and/or reduced QoL.
+Associations between DED signs and symptoms were weak or nonsignificant.
+Using Rasch analysis, as a modern psychometric method based on
+robust measurement principles, allowed us to define the impact of DED
+on ocular symptoms, activity limitations and QoL, and their relationship
+with typical clinical DED signs. The OSDI and OCI scales were optimised
+by collapsing the disordered categories, similar to a study by Dougherty
+et al. [32]; the optimised QoL scales had overall satisfactory psychometric properties. Significant correlations between the OSDI and OCI
+scales demonstrated the convergent validity of these measures [43].
+Vision-related activity limitation (OSDI-AL) significantly correlated
+with symptom domains (OSDI, OSDI-SY, OSDI-EN, OCI, OCI-FR, and
+OCI-SY), as reported by Tong et al. [44] Ocular surface grittiness and
+pain were two items present in the OSDI-SY, OCI-FR and OCI-IN questionnaires, although with slightly different wording. In all cases, ‘grittiness’ was rated as more troublesome than the ‘pain’ item by patients
+with DED, demonstrating the measurement invariance property of the
+scales. Rasch analysis results improved understanding of the impact of
+
+18
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+group and better understand their QoL [52]. The PHQ data highlighted
+the specific importance of evaluating patient-reported outcomes as DED
+symptoms were more influential on the mental health indices of DED
+patients than other factors such as ocular surface signs, visual acuity, or
+patient age.
+Lower visual acuity was associated with activity limitation. This is
+expected as reduced visual acuity can affect reading, driving, working
+on a computer and/or watching TV; the factors captured by the OSDI-AL
+scale. Visual acuity was not correlated with other QoL scale scores,
+TBUT or staining. Patients with an unstable tear film, leading to a short
+TBUT and ocular surface staining, may report intermittent blurred vision
+and glare [1], but can achieve visual acuity test results within normative
+ranges, especially when increased blinking and an extended viewing
+time are encouraged. Functional visual acuity, assessed by
+spatial-contrast sensitivity and reading speed, has been reported to be
+reduced in DED patients [1], and thus may be more useful for quantifying the visual impact of DED.
+Several factors should be considered when interpreting the findings
+from the present study. First, although a comprehensive approach was
+taken to investigate the QoL impact of DED, QoL domains such as economic well-being were not directly evaluated. A significant negative
+correlation between OSDI scores and work productivity has been reported [53]. DED can lead to high direct (e.g., cost of treatments) and
+indirect (e.g., loss of productivity) economic costs [2]. Second, clinical
+results for tests such as tear osmolarity, tear film interferometry, and
+topographic measures (e.g., surface regularity index and surface asymmetry index [1]) were not included in this analysis as these are often not
+routinely available in clinical practice. Third, modern psychometric
+methods such as Rasch analysis are rarely used in DED studies (unlike in
+other areas of ophthalmology [54]), which makes it challenging to
+compare findings of the current study with those of other studies.
+Fourth, QoL is a complex multidimensional construct confounded by
+several factors, such as patient expectations, coping mechanisms, health
+care service availability and quality, socio-economic conditions, and
+environment. Fifth, there might have been variations in clinical practice
+by clinicians and practices including DED diagnosis criteria which is
+another limitation. Diagnoses of DED and corneal neuropathic pain were
+made by the contributing clinicians, reflecting real-world practice.
+There are no clear diagnostic criteria by which ocular neuropathic pain
+can be assessed, and it’s often a diagnosis of exclusion [51]. The current
+study thus highlights current general trends in the clinical care of DED
+patients. Defining the specific roles of individual treatments [2] was
+beyond the scope of the present work. Future longitudinal studies using
+the SSDER [18] will be valuable for advancing understanding of the
+real-world effectiveness of DED treatments, including from the patient’s
+perspective. While the present findings improve our understanding of
+the factors associated with worse QoL, as is the case for other observational studies, this analysis cannot establish causality.
+The QoL scores between the DED subgroups should be interpreted
+with caution, considering both statistical and clinical (MCID) significances. It is important to note that statistical significance does not
+necessarily imply clinical significance, and the reverse is also true. We
+calculated distribution-based MCID values to interpret the QoL scores as
+it was not possible to determine anchor-based MCIDs due to lack of a
+gold-standard anchor [40]. The distribution-based MCID approach is
+particularly suitable in DED, as studies often report a lack of correlation
+between signs and symptoms in DED. However, the distribution-based
+MCID values based on half the standard deviation are highly
+
+dependent on the characteristics of the study population. The combination of anchor-based methods and standard error could provide more
+robust MCIDs.
+This is the first original research publication from the SSDER, and
+shows the utility of this international, dry eye registry for understanding
+healthcare outcomes in DED. Appropriate measurement of patient outcomes is the first step to being able to quantify meaningful improvements in health outcomes. The use of Rasch analysis, a modern
+psychometric method based on robust measurement principles, was a
+major strength of the study. Using this approach, we were able to obtain
+interval-level data from the raw categorical data of multiple patientreported outcome tools to conduct quantitative analyses allowing
+those most at risk of QoL impact to be identified. The presence of mixed
+subtype DED, corneal neuropathic pain, and prior history of a DED
+treatment or procedure were associated with worse symptoms, activity
+limitation, and/or QoL. The results also indicated that DED clinical signs
+and symptoms may not correlate in patients with DED even when using
+robust tools and methods. These findings highlight the importance of
+adopting an individualised approach to DED management, as predicting
+symptoms from signs (or vice versa) may not be possible with current
+approaches. A comprehensive dry eye assessment should include the
+evaluation of both clinical signs and symptoms, to capture complementary information that informs DED management.
+CRediT authorship contribution statement
+Himal Kandel: Writing – review & editing, Writing – original draft,
+Software, Methodology, Investigation, Formal analysis, Data curation,
+Conceptualization. Fiona Stapleton AO: Writing – review & editing,
+Data curation. Laura E. Downie: Writing – review & editing, Data
+curation. Ngozi C Chidi-Egboka: Writing – review & editing. David
+MIngo-Botin: Writing – review & editing, Data curation. Francisco
+Arnalich-Montiel: Writing – review & editing, Data curation. Saaeha
+Rauz: Writing – review & editing, Data curation. Alberto Recchioni:
+Writing – review & editing, Data curation. Sanjeeta Sitaula: Writing –
+review & editing, Data curation. Maria Markoulli: Writing – review &
+editing, Data curation. Vincent Daien: Writing – review & editing, Data
+curation. Fanny Babeau: Writing – review & editing, Data curation.
+Gerd Geerling: Writing – review & editing, Data curation. Jennifer P.
+Craig: Writing – review & editing, Data curation. Stephanie L. Watson
+OAM: Writing – review & editing, Supervision, Methodology, Funding
+acquisition, Data curation, Conceptualization.
+Conflict of interest
+There is no conflict to disclose.
+Acknowledgements
+Fight Corneal Blindness! Project investigators: B. P. Koirala Lions
+Centre for Ophthalmic Studies, Kathmandu, Nepal (Dr S Sitaula); Bondi
+Eye Doctors, New South Wales (Professor S Watson); Hospital Universitario Ramon y Cajal, Spain (Dr D Mingo Botín); Sydney Eye Hospital, New South Wales (Professor S Watson); UNSW Sydney, New South
+Wales (Dr M Markoulli, Professor F Stapleton)
+Dr H Kandel is suported by the Kornhauser Research Fellowship at
+The University of Sydney.
+
+19
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Appendix 1
+
+Appendix 1. Category probability curve examples indicating the likelihood of endorsing each response option: A. original OSDI B. optimised OSDI C. Original OCI D.
+Optimised OCI E. PHQ
+Note: The questionnaire responses were coded such that the higher scores represented better quality of life (e.g., fewer symptoms and less activity limitation). Each
+curve represents the probability of endorsing a response option. OCI, Ocular Comfort Index; OSDI, Ocular Surface Disease Index; PHQ, Patient Health Questionnaire.
+
+20
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Appendix 2. Evaluation of quality-of-life scores in dry eye disease sub-groups
+DED groups
+
+Count
+
+OSDI –
+Overall*
+
+OSDI – SY*
+
+Sex
+Female
+295
+53.8 (9.49)
+54.6 (10.9)
+Male
+73
+54.3 (11.0)
+54.6 (10.6)
+Ethnicity
+Asian
+86
+55.9 (8.6)
+57.0 (10.1)
+White/Caucasian
+245
+54.1 (9.7)
+54.9 (10.5)
+Dry eye subtype
+Evaporative
+​
+55.5 (8.8)a
+55.9 (9.7)
+Mixed
+199
+52.4 (9.9)a
+53.4 (11.4)
+(evaporative and
+aqueous deficient)
+Aqueous deficient
+127
+55.1 (10.0)
+55.5 (11.3)
+Ocular surface staining
+No
+146
+56.1 (9.2)*
+56.6 (9.8)*
+Yes
+215
+53.0 (9.4)*
+53.8 (10.9)*
+Diagnosis of corneal neuropathic pain at index visit
+No
+328
+55.1 (9.0)*
+55.8 (10.0)*
+Yes
+40
+44.8 (10.8)*
+46.0 (12.6)*
+Prior treatment (any)
+Yes
+319
+53.6 (9.8)*
+54.4 (10.9)*
+No
+49
+58.8 (8.4)*
+58.4(8.5)*
+Prior procedure
+No
+322
+55.0 (9.4)*
+55.5 (10.2)*
+Yes
+98
+49.4 (10.2)*
+51.3 (12.6)*
+
+OSDI - AL*
+
+OSDI - EN*
+
+OCI
+Overall#
+
+OCI-FR#
+
+OCI-IN#
+
+PHQ
+
+61.8 (18.7)
+60.1 (19.0)
+
+49.7 (23.2)
+54.8 (26.3)
+
+51.2 (7.8)
+51.2 (7.4)
+
+50.3 (7.8)
+49.9 (7.7)
+
+52.3 (8.8)
+52.5 (8.3)
+
+69.8 (19.6)
+73.1 (19.8)
+
+60.7 (18.2)
+62.7 (17.9)
+
+56.8 (23.5)
+50.8 (23.5)
+
+52.6 (9.6)
+51.3 (7.2)
+
+51.8 (9.4) 50.3 (7.3)
+
+53.5 (10.6) 52.5 (8.4)
+
+71.3 (20.6)
+70.8 (19.2)
+
+65.5 (17.3)a
+57.6 (18.1)a
+
+52.9 (24.0)
+48.2 (21.9)b
+
+51.6 (7.8)
+50.2 (7.6)
+
+50.7 (7.9)
+49.2 (7.6)
+
+52.8 (9.0)
+51.3 (8.4)
+
+70.5 (19.6)
+71.1 (20.2)
+
+58.8 (20.9)
+
+61.6 (25.4)b
+
+54.6 (6.2)
+
+53.7 (6.3)
+
+56.3 (7.1)
+
+69.4 (17.1)
+
+64.4 (17.6)*
+60.4 (18.6)*
+
+55.0 (24.8)*
+49.3 (22.3)*
+
+51.8 (8.0)
+50.8 (7.5)
+
+50.8 (7.9)
+49.9 (7.7)
+
+53.0 (9.2)
+51.9 (8.4)
+
+69.2 (21.1)
+71.7 (18.5)
+
+63.6 (17.5)*
+46.0 (20.2)*
+
+53.6 (23.2)*
+30.8 (18.5)*
+
+52.3 (6.7)*
+43.3 (9.8)*
+
+51.2 (7.0)*
+43.0 (9.4)*
+
+53.6 (7.7)*
+43.2 (10.6)*
+
+73.2 (17.3)*
+50.3 (24.2)*
+
+61.0(19.0)*
+67.2(14.4)*
+
+49.5(23.7)*
+68.7(18.5)*
+
+51.1(7.7)*
+53.5(6.2)*
+
+50.1(7.9)
+52.2(6.6)
+
+52.2(8.8)*
+55.3(7.0)*
+
+70.5(20.0)
+70.6(15.4)
+
+62.8 (17.8)*
+55.9 (21.3)*
+
+53.9 (23.7)*
+38.0 (20.3)*
+
+51.9 (7.4)*
+48.2 (8.4)*
+
+50.8 (7.6)*
+47.6(8.1)*
+
+53.1 (8.5)*
+49.1 (9.1)*
+
+71.5 (19.1)
+66.1 (21.4)
+
+Note: The questionnaire responses were coded such that the higher scores represented better quality of life (e.g., fewer symptoms and less activity limitation).
+*P < 0.05.
+a
+Comparison between mixed and evaporative DED groups (p < 0.05).
+b
+Comparison between mixed and aqueous deficient DED groups (p < 0.05).
+
+21
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+
+Appendix 3
+
+Fig. B. Bland-Altman plot for agreement between OCI-FR and OCI-IN scales.
+The difference between two measurements are plotted in y-axis and their mean is plotted on the x-axis. Green shaded area represents the 95 % CI for the upper limit
+of agreement and orange shaded area represents the 95 % CI for the lower limit of agreement. The purple shaded area represents the 95 % CI for the mean of
+differences between OCI-FR and OCI-IN scale scores. FR, frequency; IN, Intensity; OCI, Ocular Comfort Index.
+
+References
+
+[9] Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet F, et al. TFOS DEWS
+II epidemiology report. Ocul Surf 2017;15:334–65.
+[10] Levitt AE, Galor A, Chowdhury AR, Felix ER, Sarantopoulos CD, Zhuang G, et al.
+Evidence that dry eye represents a chronic overlapping pain condition. Mol Pain
+2017;13:1744806917729306.
+[11] Deschamps N, Ricaud X, Rabut G, Labbé A, Baudouin C, Denoyer A. The impact of
+dry eye disease on visual performance while driving. American journal of
+ophthalmology 2013;156:184–9. e3.
+[12] Kandel H, Nguyen V, Piermarocchi S, Ceklic L, Teo K, Arnalich-Montiel F, et al.
+Quality of life impact of eye diseases: a Save Sight Registries study. Clin Exp
+Ophthalmol 2022;50:386–97.
+[13] Kandel H, Pesudovs K, Nguyen V, Chen JY, Poon A, Mills R, et al. Patient-reported
+outcomes in keratoconus: a Save Sight keratoconus registry study. Cornea 2023;42:
+590–7.
+[14] Booth CM, Karim S, Mackillop WJ. Real-world data: towards achieving the
+achievable in cancer care. Nat Rev Clin Oncol 2019;16:312–25.
+[15] Kandel H, Nguyen V, Ferdi A, Gupta A, Abbondanza M, Sullivan L, et al.
+Comparative efficacy and safety of standard versus accelerated corneal crosslinking
+for keratoconus: 1-year outcomes from the Save Sight Keratoconus Registry study.
+Cornea 2021;40:1581–9.
+
+[1] Barabino S, Labetoulle M, Rolando M, Messmer EM. Understanding symptoms and
+quality of life in patients with dry eye syndrome. Ocul Surf 2016;14:365–76.
+[2] Gomes JAP, Santo RM. The impact of dry eye disease treatment on patient
+satisfaction and quality of life: a review. Ocul Surf 2019;17:9–19.
+[3] Okumura Y, Inomata T, Iwata N, Sung J, Fujimoto K, Fujio K, et al. A review of dry
+eye questionnaires: measuring patient-reported outcomes and health-related
+quality of life. Diagnostics 2020;10.
+[4] Clayton JA. Dry eye. N Engl J Med. 2018;378:2212–23.
+[5] Schiffman R, Walt J, Jacobsen G, Doyle J, Lebovics G, Sumner W. Utility
+assessment among patients with dry eye disease. Ophthalmol Times 2003;110:
+1412–9.
+[6] Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet F, et al. TFOS DEWS
+II epidemiology report. Ocul Surf 2017;15:334–65.
+[7] Kandel H, Khadka J, Shrestha M, Sharma S, Neupane Kandel S, Dhungana P, et al.
+Uncorrected and corrected refractive error experiences of Nepalese adults: a
+qualitative study. Ophthalmic Epidemiol 2018;25:147–61.
+[8] Kandel H. Quality-of-life outcomes of long-term contact lens wear: a systematic
+review. Contact Lens Anterior Eye : J Br Contact Lens Assoc 2022;45:101521.
+
+22
+
+H. Kandel et al.
+
+The Ocular Surface 37 (2025) 11–23
+[34] Kroenke K, Spitzer RL, Williams JB, Löwe B. An ultra-brief screening scale for
+anxiety and depression: the PHQ–4. Psychosomatics 2009;50:613–21.
+[35] Lowe B, Wahl I, Rose M, Spitzer C, Glaesmer H, Wingenfeld K, et al. A 4-item
+measure of depression and anxiety: validation and standardization of the Patient
+Health Questionnaire-4 (PHQ-4) in the general population. J Affect Disord 2010;
+122:86–95.
+[36] Kandel H. Development of item banks to measure refractive error-specific qualityof-life parameters. Flinders University [PhD thesis]; 2018. https://theses.flinders.
+edu.au/view/f91685e8-325d-4aef-b201-21b43c62d2ad/1.
+[37] McAlinden C, Gao R, Wang Q, Zhu S, Yang J, Yu A, et al. Rasch analysis of three dry
+eye questionnaires and correlates with objective clinical tests. Ocul Surf 2017;15:
+202–10.
+[38] Akoglu H. User’s guide to correlation coefficients. Turk J Emerg Med 2018;18:
+91–3.
+[39] Bland JM, Altman D. Statistical methods for assessing agreement between two
+methods of clinical measurement. Lancet 1986;327:307–10.
+[40] Norman GR, Sloan JA, Wyrwich KW. Interpretation of changes in health-related
+quality of life: the remarkable universality of half a standard deviation. Med Care
+2003:582–92.
+[41] Kandel H, Pesudovs K, Watson S. Measurement of quality-of-life in keratoconus.
+Cornea 2020;39:386–93.
+[42] Lerdal A, Fagermoen MS, Bonsaksen T, Gay CL, Kottorp A. Rasch analysis of the
+sense of coherence scale in a sample of people with morbid obesity–a crosssectional study. BMC psychology 2014;2:1–10.
+[43] Kandel H, Khadka J, Lundström M, Goggin M, Pesudovs K. Questionnaires for
+measuring refractive surgery outcomes. J Refract Surg 2017;33:416–24.
+[44] Tong L, Waduthantri S, Wong T, Saw S, Wang J, Rosman M, et al. Impact of
+symptomatic dry eye on vision-related daily activities: the Singapore Malay Eye
+Study. Eye. 2010;24:1486–91.
+[45] Christensen KB, Comins JD, Krogsgaard MR, Brodersen J, Jensen J, Hansen CF,
+et al. Psychometric validation of PROM instruments. Scand J Med Sci Sports 2021;
+31:1225–38.
+[46] Grimby G, Tennant A, Tesio L. The use of raw scores from ordinal scales: time to
+end malpractice? J Rehabil Med 2012;44:97–8.
+[47] Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD. Distribution of aqueousdeficient and evaporative dry eye in a clinic-based patient cohort: a retrospective
+study. Cornea 2012;31:472–8.
+[48] Craig JP, Nelson JD, Azar DT, Belmonte C, Bron AJ, Chauhan SK, et al. TFOS DEWS
+II report executive summary. Ocul Surf 2017;15:802–12.
+[49] Schiffman RM, Walt JG, Jacobsen G, Doyle JJ, Lebovics G, Sumner W. Utility
+assessment among patients with dry eye disease. Ophthalmology 2003;110:
+1412–9.
+[50] Bron AJ, Tomlinson A, Foulks GN, Pepose JS, Baudouin C, Geerling G, et al.
+Rethinking dry eye disease: a perspective on clinical implications. Ocul Surf 2014;
+12:S1–31.
+[51] Watson SL, Le DT-M. Corneal neuropathic pain: a review to inform clinical
+practice. Eye 2024;38(12):2350–8.
+[52] Le DT-M, Kandel H, Watson SL. Evaluation of ocular neuropathic pain. Ocul Surf
+2023;30:213–35.
+[53] Nichols KK, Bacharach J, Holland E, Kislan T, Shettle L, Lunacsek O, et al. Impact
+of dry eye disease on work productivity, and patients’ satisfaction with over-thecounter dry eye treatments. Investig Ophthalmol Vis Sci 2016;57:2975–82.
+[54] Kandel H, Watson SL. Quality-of-life researchers in ocular allergy may benefit from
+the newer methods. J Allergy Clin Immunol Pract 2021;9:595–6.
+
+[16] Kandel H, Abbondanza M, Gupta A, Mills R, Watson AS, Petsoglou C, et al.
+Comparison of standard versus accelerated corneal collagen cross-linking for
+keratoconus: 5-year outcomes from the Save Sight Keratoconus Registry. Eye 2024;
+38:95–102.
+[17] Kandel H, Gillies MC, Watson SL. Opportunities and challenges for clinical
+registries. Clin Exp Ophthalmol 2023;51(6):651–2.
+[18] Watson SL, Chidi-Egboka NC, Khoo P, Cabrera-Aguas M, Stapleton F, Geerling G,
+et al. Efficient capture of dry eye data from the real world: the Save Sight Dry Eye
+Registry. AJO International 2024;1:100065.
+[19] Khoo P, Downie LE, Stapleton F, Rauz S, Daien V, Arnalich F, et al. Clinical
+registries in dry eye disease: a systematic review. Cornea 2022;10:1097.
+[20] Kandel H, Stapleton F, Downie LE, Botin DM, Arnalich F, Rauz S, et al. Impact of
+dry eye disease on quality of life: a Save Sight Dry eye Registry study. Investig
+Ophthalmol Vis Sci 2023;64:3979.
+[21] Kandel H, Downie LE, Watson SL. The Save Sight Keratoconus Registry–Optometry
+Module: an opportunity to use real-world data to advance eye care. Clin Exp Optom
+2022;105:96–9.
+[22] Schiffman RM, Christianson MD, Jacobsen G, Hirsch JD, Reis BL. Reliability and
+validity of the ocular surface disease index. Archives of ophthalmology 2000;118:
+615–21.
+[23] Johnson ME, Murphy PJ. Measurement of ocular surface irritation on a linear
+interval scale with the ocular comfort index. Investig Ophthalmol Vis Sci 2007;48:
+4451–8.
+[24] Khadka J, McAlinden C, Pesudovs K. Quality assessment of ophthalmic
+questionnaires: review and recommendations. Optom Vis Sci 2013;90:720–44.
+[25] Löwe B, Wahl I, Rose M, Spitzer C, Glaesmer H, Wingenfeld K, et al. A 4-item
+measure of depression and anxiety: validation and standardization of the Patient
+Health Questionnaire-4 (PHQ-4) in the general population. J Affect Disord 2010;
+122:86–95.
+[26] Kandel H, Pesudovs K, Ferdi A, Mills R, Chen J, Watson A, et al. Psychometric
+properties of the keratoconus outcomes research questionnaire (KORQ): a Save
+Sight keratoconus registry study. Cornea 2020;39:303–10.
+[27] Kandel H, Khadka J, Watson SL, Fenwick EK, Pesudovs K. Item banks for
+measurement of refractive error-specific quality of life. Ophthalmic Physiol Opt
+2021;41:591–602.
+[28] Kandel H, Chen JY, Sahebjada S, Chong EW, Wiffen S, Watson S. Cross-linking
+improves the quality of life of people with keratoconus: a cross-sectional and
+longitudinal study from the Save Sight Keratoconus Registry. Cornea 2023;42:
+1377–83.
+[29] Kangwanrattanakul K, Krageloh CU. Psychometric evaluation of the WHOQOLBREF and its shorter versions for general Thai population: confirmatory factor
+analysis and Rasch analysis. Qual Life Res : an international journal of quality of
+life aspects of treatment, care and rehabilitation 2024;33:335–48.
+[30] Kangwanrattanakul K, Kulthanachairojana N. Modern psychometric evaluation of
+Thai WHOQOL-BREF and its shorter versions in patients undergoing warfarin in
+Thailand: Rasch analysis. Sci Rep 2024;14:20639.
+[31] Schiffman RM, Christianson MD, Jacobsen G, Hirsch JD, Reis BL. Reliability and
+validity of the ocular surface disease index. Archives of ophthalmology (Chicago,
+Ill : 1960) 2000;118:615–21.
+[32] Dougherty BE, Nichols JJ, Nichols KK. Rasch analysis of the ocular surface disease
+index (OSDI). Investig Ophthalmol Vis Sci 2011;52:8630–5.
+[33] Johnson ME, Murphy PJ. Measurement of ocular surface irritation on a linear
+interval scale with the ocular comfort index. Investig Ophthalmol Vis Sci 2007;48:
+4451–8.
+
+23
+
+

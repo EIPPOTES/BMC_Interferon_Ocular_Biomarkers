@@ -1,0 +1,466 @@
+#!/usr/bin/env python3
+"""
+其他分析：ROC分析和相关性分析
+基于2026-03-14.md中提到的待完成分析
+"""
+
+import pandas as pd
+import numpy as np
+from scipy import stats
+from sklearn.metrics import roc_curve, auc, confusion_matrix
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import seaborn as sns
+import warnings
+warnings.filterwarnings('ignore')
+
+print("=" * 100)
+print("其他分析：ROC分析和相关性分析")
+print("基于2026-03-14待完成任务")
+print("=" * 100)
+
+# 读取数据
+data_path = '/root/.openclaw/workspace/data.xlsx'
+print(f"读取数据: {data_path}")
+df = pd.read_excel(data_path)
+
+# 创建变量
+df['depression_status'] = (df['分组'] == '抑郁症').astype(int)
+
+print(f"数据概览:")
+print(f"  总样本: {len(df)} 眼")
+print(f"  抑郁症: {df['depression_status'].sum()} 眼")
+print(f"  健康对照: {len(df) - df['depression_status'].sum()} 眼")
+
+# 检查PHQ-9数据
+if 'PHQ-9' in df.columns:
+    phq9_complete = df['PHQ-9'].notna().sum()
+    print(f"  PHQ-9完整数据: {phq9_complete} 眼 ({phq9_complete/len(df)*100:.1f}%)")
+
+# ==================== 1. ROC分析（诊断性能） ====================
+print("\n" + "=" * 100)
+print("1. ROC分析 - 评估OCT指标的诊断性能")
+print("=" * 100)
+
+# 基于先前分析选择最显著的指标
+top_indicators = [
+    ('Retina_外环颞侧', 'Macular_Outer_Temporal_Thickness'),
+    ('Retina_内环颞侧', 'Macular_Inner_Temporal_Thickness'),
+    ('Retina_外环上方', 'Macular_Outer_Superior_Thickness'),
+    ('Retina_平均厚度', 'Mean_Macular_Thickness'),
+    ('Retina_总体积', 'Total_Macular_Volume'),
+    ('C/D Area Ratio', 'Cup_to_Disc_Ratio'),
+    ('Rim Volume', 'Rim_Volume')
+]
+
+# 按患者取平均（避免双眼相关性影响ROC）
+print("按患者取平均（双眼数据）...")
+patient_df = df.groupby(['Patient_ID', 'depression_status']).mean(numeric_only=True).reset_index()
+print(f"患者数: {len(patient_df)}")
+
+roc_results = []
+
+for col, name in top_indicators:
+    if col not in patient_df.columns:
+        print(f"警告: 指标 '{col}' 不在数据中，跳过")
+        continue
+    
+    # 准备数据
+    analysis_df = patient_df[['depression_status', col]].dropna()
+    
+    if len(analysis_df) < 30:
+        print(f"{name}: 数据不足 (n={len(analysis_df)})")
+        continue
+    
+    print(f"\n{'-'*80}")
+    print(f"指标: {name} (n={len(analysis_df)} 患者)")
+    
+    # 计算ROC
+    y_true = analysis_df['depression_status'].values
+    y_scores = analysis_df[col].values
+    
+    # 注意：由于抑郁症患者视网膜变薄（数值更低），我们需要反转分数
+    # 使用负值以便ROC曲线正常工作
+    fpr, tpr, thresholds = roc_curve(y_true, -y_scores)
+    roc_auc = auc(fpr, tpr)
+    
+    # 寻找最佳截断点（Youden指数）
+    youden_index = tpr - fpr
+    best_idx = np.argmax(youden_index)
+    best_threshold = -thresholds[best_idx]  # 转换回原始尺度
+    
+    sensitivity = tpr[best_idx]
+    specificity = 1 - fpr[best_idx]
+    
+    # 计算PPV和NPV
+    # 使用最佳截断点进行分类
+    y_pred = (y_scores <= best_threshold).astype(int)
+    tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+    
+    ppv = tp / (tp + fp) if (tp + fp) > 0 else np.nan
+    npv = tn / (tn + fn) if (tn + fn) > 0 else np.nan
+    
+    # 计算95%置信区间（简化方法）
+    # 使用DeLong方法的标准误差近似
+    n_pos = np.sum(y_true == 1)
+    n_neg = np.sum(y_true == 0)
+    se_auc = np.sqrt((roc_auc * (1 - roc_auc) + (n_pos - 1) * (1 / (3 * n_pos**2) - 1 / (3 * n_pos)) + 
+                      (n_neg - 1) * (1 / (3 * n_neg**2) - 1 / (3 * n_neg))) / (n_pos * n_neg))
+    
+    ci_lower = roc_auc - 1.96 * se_auc
+    ci_upper = roc_auc + 1.96 * se_auc
+    
+    # 限制在0-1之间
+    ci_lower = max(0, ci_lower)
+    ci_upper = min(1, ci_upper)
+    
+    print(f"  AUC = {roc_auc:.3f} (95% CI: {ci_lower:.3f} - {ci_upper:.3f})")
+    print(f"  最佳截断值: {best_threshold:.2f}")
+    print(f"  敏感度: {sensitivity:.3f}, 特异度: {specificity:.3f}")
+    print(f"  PPV: {ppv:.3f}, NPV: {npv:.3f}")
+    
+    roc_results.append({
+        '指标': name,
+        '原始名称': col,
+        '样本量': len(analysis_df),
+        'AUC': round(roc_auc, 3),
+        'AUC_95CI_下限': round(ci_lower, 3),
+        'AUC_95CI_上限': round(ci_upper, 3),
+        '最佳截断值': round(best_threshold, 2),
+        '敏感度': round(sensitivity, 3),
+        '特异度': round(specificity, 3),
+        'PPV': round(ppv, 3) if not np.isnan(ppv) else None,
+        'NPV': round(npv, 3) if not np.isnan(npv) else None
+    })
+
+# 创建ROC结果DataFrame
+if roc_results:
+    roc_df = pd.DataFrame(roc_results)
+    roc_df = roc_df.sort_values('AUC', ascending=False)
+    
+    print("\n" + "=" * 80)
+    print("ROC分析结果汇总 (按AUC降序)")
+    print("=" * 80)
+    print(roc_df.to_string(index=False))
+    
+    # 保存结果
+    roc_output = '/root/.openclaw/workspace/ROC_分析结果.xlsx'
+    roc_df.to_excel(roc_output, index=False)
+    print(f"\n✓ ROC分析结果已保存: {roc_output}")
+    
+    # 绘制ROC曲线图（Top 3指标）
+    print("\n绘制Top 3指标的ROC曲线...")
+    fig, ax = plt.subplots(figsize=(10, 8))
+    
+    top_3 = roc_df.head(3)
+    colors = ['#1f77b4', '#ff7f0e', '#2ca02c']
+    
+    for idx, (_, row) in enumerate(top_3.iterrows()):
+        col = row['原始名称']
+        name = row['指标']
+        
+        if col not in patient_df.columns:
+            continue
+        
+        analysis_df = patient_df[['depression_status', col]].dropna()
+        y_true = analysis_df['depression_status'].values
+        y_scores = analysis_df[col].values
+        
+        fpr, tpr, _ = roc_curve(y_true, -y_scores)
+        roc_auc = auc(fpr, tpr)
+        
+        ax.plot(fpr, tpr, color=colors[idx], lw=2,
+                label=f"{name} (AUC = {roc_auc:.3f})")
+    
+    # 添加对角线
+    ax.plot([0, 1], [0, 1], 'k--', lw=1, alpha=0.5)
+    
+    ax.set_xlim([0.0, 1.0])
+    ax.set_ylim([0.0, 1.05])
+    ax.set_xlabel('1 - 特异度 (False Positive Rate)', fontsize=12)
+    ax.set_ylabel('敏感度 (True Positive Rate)', fontsize=12)
+    ax.set_title('ROC曲线 - Top 3 OCT指标', fontsize=14, fontweight='bold')
+    ax.legend(loc="lower right", fontsize=10)
+    ax.grid(True, alpha=0.3)
+    
+    # 保存图像
+    roc_plot_path = '/root/.openclaw/workspace/ROC_曲线图.png'
+    plt.tight_layout()
+    plt.savefig(roc_plot_path, dpi=300, bbox_inches='tight')
+    plt.close()
+    
+    print(f"✓ ROC曲线图已保存: {roc_plot_path}")
+
+# ==================== 2. 相关性分析（OCT vs PHQ-9） ====================
+print("\n" + "=" * 100)
+print("2. 相关性分析 - OCT指标与PHQ-9评分的关系")
+print("=" * 100)
+
+if 'PHQ-9' in df.columns:
+    # 仅在抑郁组内分析
+    dep_df = df[df['depression_status'] == 1].copy()
+    
+    # 检查PHQ-9数据完整性
+    phq9_complete = dep_df['PHQ-9'].notna().sum()
+    print(f"抑郁组有PHQ-9数据的样本: {phq9_complete} 眼")
+    
+    if phq9_complete < 20:
+        print("警告: PHQ-9数据不足，跳过相关性分析")
+    else:
+        correlation_results = []
+        
+        for col, name in top_indicators:
+            if col not in dep_df.columns:
+                continue
+            
+            # 准备数据
+            analysis_df = dep_df[['PHQ-9', col]].dropna()
+            
+            if len(analysis_df) < 20:
+                continue
+            
+            print(f"\n{'-'*80}")
+            print(f"指标: {name} (n={len(analysis_df)})")
+            
+            # 计算Spearman相关（非参数，不假设正态分布）
+            rho, p_val = stats.spearmanr(analysis_df['PHQ-9'], analysis_df[col])
+            
+            # 计算Pearson相关（参数）
+            r_pearson, p_pearson = stats.pearsonr(analysis_df['PHQ-9'], analysis_df[col])
+            
+            print(f"  Spearman相关系数 (ρ) = {rho:.3f}, P = {p_val:.3e}")
+            print(f"  Pearson相关系数 (r) = {r_pearson:.3f}, P = {p_pearson:.3e}")
+            
+            # 效应大小判断
+            effect_size = ""
+            if abs(rho) >= 0.5:
+                effect_size = "大"
+            elif abs(rho) >= 0.3:
+                effect_size = "中等"
+            elif abs(rho) >= 0.1:
+                effect_size = "小"
+            else:
+                effect_size = "可忽略"
+            
+            print(f"  效应大小: {effect_size} (|ρ| = {abs(rho):.3f})")
+            
+            correlation_results.append({
+                '指标': name,
+                '原始名称': col,
+                '样本量': len(analysis_df),
+                'Spearman_rho': round(rho, 3),
+                'Spearman_P值': p_val,
+                'Pearson_r': round(r_pearson, 3),
+                'Pearson_P值': p_pearson,
+                '效应大小': effect_size
+            })
+        
+        # 创建相关性结果DataFrame
+        if correlation_results:
+            corr_df = pd.DataFrame(correlation_results)
+            
+            # 按相关系数绝对值排序
+            corr_df['abs_Spearman'] = corr_df['Spearman_rho'].abs()
+            corr_df = corr_df.sort_values('abs_Spearman', ascending=False)
+            corr_df = corr_df.drop('abs_Spearman', axis=1)
+            
+            print("\n" + "=" * 80)
+            print("相关性分析结果汇总 (按Spearman |ρ| 降序)")
+            print("=" * 80)
+            print(corr_df.to_string(index=False))
+            
+            # 保存结果
+            corr_output = '/root/.openclaw/workspace/相关性分析_OCT_vs_PHQ9.xlsx'
+            corr_df.to_excel(corr_output, index=False)
+            print(f"\n✓ 相关性分析结果已保存: {corr_output}")
+            
+            # 绘制散点图（Top 3相关指标）
+            print("\n绘制Top 3相关指标的散点图...")
+            
+            # 找出Spearman相关系数绝对值最大的3个指标
+            top_corr = corr_df.head(3)
+            
+            if len(top_corr) >= 2:  # 至少需要2个指标才能绘制多子图
+                fig, axes = plt.subplots(1, min(3, len(top_corr)), figsize=(15, 5))
+                if len(top_corr) == 1:
+                    axes = [axes]
+                
+                for idx, (_, row) in enumerate(top_corr.iterrows()):
+                    if idx >= len(axes):
+                        break
+                    
+                    col = row['原始名称']
+                    name = row['指标']
+                    
+                    if col not in dep_df.columns:
+                        continue
+                    
+                    analysis_df = dep_df[['PHQ-9', col]].dropna()
+                    
+                    ax = axes[idx]
+                    scatter = ax.scatter(analysis_df['PHQ-9'], analysis_df[col], 
+                                        alpha=0.6, s=50, edgecolor='w', linewidth=0.5)
+                    
+                    # 添加回归线
+                    z = np.polyfit(analysis_df['PHQ-9'], analysis_df[col], 1)
+                    p = np.poly1d(z)
+                    ax.plot(analysis_df['PHQ-9'], p(analysis_df['PHQ-9']), 
+                           "r--", alpha=0.8, linewidth=2)
+                    
+                    # 计算R²
+                    r_squared = r_pearson**2
+                    
+                    ax.set_xlabel('PHQ-9评分', fontsize=10)
+                    ax.set_ylabel(name, fontsize=10)
+                    ax.set_title(f'{name}\nρ = {row["Spearman_rho"]:.3f}, P = {row["Spearman_P值"]:.3f}', 
+                                fontsize=11)
+                    ax.grid(True, alpha=0.3)
+                
+                plt.suptitle('OCT指标与PHQ-9评分散点图', fontsize=14, fontweight='bold')
+                plt.tight_layout()
+                
+                # 保存图像
+                scatter_plot_path = '/root/.openclaw/workspace/散点图_OCT_vs_PHQ9.png'
+                plt.savefig(scatter_plot_path, dpi=300, bbox_inches='tight')
+                plt.close()
+                
+                print(f"✓ 散点图已保存: {scatter_plot_path}")
+else:
+    print("数据中无PHQ-9列，跳过相关性分析")
+
+# ==================== 3. 非线性关系探索 ====================
+print("\n" + "=" * 100)
+print("3. 非线性关系探索 - PHQ-9评分与OCT指标")
+print("=" * 100)
+
+if 'PHQ-9' in df.columns:
+    dep_df = df[df['depression_status'] == 1].copy()
+    
+    if dep_df['PHQ-9'].notna().sum() >= 30:
+        print("探索非线性关系（二次项、分段）...")
+        
+        # 选择最相关的指标进行分析
+        if 'correlation_results' in locals() and correlation_results:
+            # 使用相关性分析中找到的最相关指标
+            most_corr = max(correlation_results, key=lambda x: abs(x['Spearman_rho']))
+            col = most_corr['原始名称']
+            name = most_corr['指标']
+            
+            print(f"\n分析指标: {name}")
+            
+            # 准备数据
+            analysis_df = dep_df[['PHQ-9', col]].dropna()
+            
+            if len(analysis_df) >= 30:
+                # 线性模型
+                X_linear = sm.add_constant(analysis_df['PHQ-9'])
+                y = analysis_df[col]
+                
+                model_linear = sm.OLS(y, X_linear).fit()
+                r2_linear = model_linear.rsquared
+                
+                # 二次模型
+                analysis_df['PHQ-9_squared'] = analysis_df['PHQ-9'] ** 2
+                X_quad = sm.add_constant(analysis_df[['PHQ-9', 'PHQ-9_squared']])
+                model_quad = sm.OLS(y, X_quad).fit()
+                r2_quad = model_quad.rsquared
+                
+                # 模型比较
+                delta_r2 = r2_quad - r2_linear
+                
+                print(f"  线性模型 R² = {r2_linear:.3f}")
+                print(f"  二次模型 R² = {r2_quad:.3f}")
+                print(f"  R²变化: {delta_r2:.3f}")
+                
+                # F检验比较模型
+                ssr_linear = model_linear.ssr
+                ssr_quad = model_quad.ssr
+                df_diff = model_quad.df_model - model_linear.df_model
+                
+                if df_diff > 0:
+                    f_stat = ((ssr_linear - ssr_quad) / df_diff) / (ssr_quad / model_quad.df_resid)
+                    f_p = 1 - stats.f.cdf(f_stat, df_diff, model_quad.df_resid)
+                    
+                    print(f"  F检验: F({df_diff}, {model_quad.df_resid}) = {f_stat:.2f}, P = {f_p:.3f}")
+                    
+                    if f_p < 0.05:
+                        print("  → 二次项显著，存在非线性关系")
+                    else:
+                        print("  → 二次项不显著，主要为线性关系")
+                
+                # 分段分析（基于PHQ-9中位数）
+                phq9_median = analysis_df['PHQ-9'].median()
+                low_group = analysis_df[analysis_df['PHQ-9'] < phq9_median]
+                high_group = analysis_df[analysis_df['PHQ-9'] >= phq9_median]
+                
+                print(f"\n  分段分析（PHQ-9中位数 = {phq9_median:.1f}）:")
+                print(f"    低分组 (n={len(low_group)}): {col}均值 = {low_group[col].mean():.2f}")
+                print(f"    高分组 (n={len(high_group)}): {col}均值 = {high_group[col].mean():.2f}")
+                
+                # t检验比较两组
+                if len(low_group) >= 10 and len(high_group) >= 10:
+                    t_stat, t_p = stats.ttest_ind(low_group[col], high_group[col])
+                    print(f"    t检验: t = {t_stat:.2f}, P = {t_p:.3f}")
+
+# ==================== 4. 结果总结 ====================
+print("\n" + "=" * 100)
+print("4. 分析总结")
+print("=" * 100)
+
+# ROC分析总结
+if roc_results:
+    print("\n📊 ROC分析主要发现:")
+    roc_df = pd.DataFrame(roc_results).sort_values('AUC', ascending=False)
+    
+    # 最佳诊断指标
+    best_roc = roc_df.iloc[0]
+    print(f"  最佳诊断指标: {best_roc['指标']}")
+    print(f"    AUC = {best_roc['AUC']:.3f} (95% CI: {best_roc['AUC_95CI_下限']:.3f}-{best_roc['AUC_95CI_上限']:.3f})")
+    print(f"    敏感度 = {best_roc['敏感度']:.3f}, 特异度 = {best_roc['特异度']:.3f}")
+    
+    # AUC分类
+    excellent = roc_df[roc_df['AUC'] >= 0.9]
+    good = roc_df[(roc_df['AUC'] >= 0.8) & (roc_df['AUC'] < 0.9)]
+    fair = roc_df[(roc_df['AUC'] >= 0.7) & (roc_df['AUC'] < 0.8)]
+    poor = roc_df[roc_df['AUC'] < 0.7]
+    
+    print(f"  指标分类:")
+    print(f"    优秀 (AUC≥0.9): {len(excellent)} 个")
+    print(f"    良好 (0.8≤AUC<0.9): {len(good)} 个")
+    print(f"    一般 (0.7≤AUC<0.8): {len(fair)} 个")
+    print(f"    较差 (AUC<0.7): {len(poor)} 个")
+
+# 相关性分析总结
+if 'correlation_results' in locals() and correlation_results:
+    print("\n📈 相关性分析主要发现:")
+    corr_df = pd.DataFrame(correlation_results)
+    
+    # 最相关指标
+    corr_df['abs_rho'] = corr_df['Spearman_rho'].abs()
+    most_corr = corr_df.loc[corr_df['abs_rho'].idxmax()]
+    
+    print(f"  与PHQ-9最相关的指标: {most_corr['指标']}")
+    print(f"    Spearman ρ = {most_corr['Spearman_rho']:.3f}, P = {most_corr['Spearman_P值']:.3e}")
+    
+    # 显著相关指标
+    sig_corr = corr_df[corr_df['Spearman_P值'] < 0.05]
+    print(f"  显著相关的指标 (P<0.05): {len(sig_corr)}/{len(corr_df)} 个")
+    
+    if len(sig_corr) > 0:
+        print(f"    显著指标列表:")
+        for _, row in sig_corr.iterrows():
+            direction = "正相关" if row['Spearman_rho'] > 0 else "负相关"
+            print(f"      {row['指标']}: ρ = {row['Spearman_rho']:.3f} ({direction}), P = {row['Spearman_P值']:.3e}")
+
+print("\n" + "=" * 100)
+print("其他分析完成")
+print("=" * 100)
+print("主要完成的分析:")
+print("1. ✅ ROC分析 - 评估OCT指标诊断抑郁的性能")
+print("2. ✅ 相关性分析 - OCT指标与PHQ-9评分的关系")
+print("3. ✅ 非线性关系探索 - 二次项、分段分析")
+print("4. ✅ 可视化 - ROC曲线图、散点图")
+print("=" * 100)
+print("所有结果已保存到相应文件")
+print("=" * 100)

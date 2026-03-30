@@ -1,0 +1,15 @@
+{
+  "name": "data-analysis-workflow",
+  "version": "1.0.0",
+  "description": "Standardized data analysis workflow integrating data-analysis, statistical-analysis, scientific-visualization and other skills. Provides complete data analysis process from data import to result reporting with 6 stages.",
+  "update_url": "",
+  "author": "academic-assistant",
+  "license": "MIT License",
+  "metadata": {
+    "skillhub_slug": "data-analysis-workflow",
+    "installed_at": "2026-03-21T22:48:00Z",
+    "last_checked": "2026-03-22T02:31:00Z",
+    "skill_author": "academic-assistant",
+    "created": "2026-03-14"
+  }
+}

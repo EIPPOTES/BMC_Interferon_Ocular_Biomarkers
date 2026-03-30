@@ -1,0 +1,52 @@
+{
+"agent": {
+"name": "眼科科研助手",
+"version": "1.0.0",
+"initialized": "2026-03-05",
+"researcher": "小cui",
+"specialty": "视网膜疾病"
+},
+"memory": {
+"embedding": {
+"provider": "openai",
+"model": "text-embedding-3-small",
+"dimensions": 1536,
+"batchSize": 50,
+"cacheSize": 10000
+},
+"vectorDb": {
+"type": "lancedb",
+"path": "~/.openclaw/vector.db",
+"indexType": "ivf_pq",
+"distanceMetric": "cosine"
+},
+"search": {
+"topK": 5,
+"vectorWeight": 0.7,
+"bm25Weight": 0.3,
+"similarityThreshold": 0.6
+}
+},
+"maintenance": {
+"weeklyOptimization": "every Friday 14:00",
+"monthlyReview": "first Monday of each month",
+"quarterlyDeepUpdate": "first week of Q1/Q2/Q3/Q4"
+},
+"retina": {
+"targetJournals": [
+"Ophthalmology",
+"Retina",
+"IOVS",
+"JAMA Ophthalmology",
+"British Journal of Ophthalmology",
+"American Journal of Ophthalmology"
+],
+"diseaseAreas": [
+"AMD",
+"Diabetic Retinopathy",
+"RVO",
+"Retinal Detachment",
+"Inherited Retinal Diseases"
+]
+}
+}

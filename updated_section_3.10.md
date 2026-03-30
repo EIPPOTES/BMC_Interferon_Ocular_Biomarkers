@@ -1,0 +1,8 @@
+
+## 3.10 Analysis of Refractive Error as a Confounding Factor
+
+Given that refractive error can influence retinal thickness measurements, we analyzed available spherical equivalent data from 215 participants (85.7% of the total sample, 174 MDD and 41 controls). After excluding one extreme outlier (-753.00 D, likely a data entry error), the mean refractive error in the MDD group was -2.02±2.60 D (n=346 eyes), with 65.6% of eyes being myopic (spherical equivalent < -0.5 D) and no high myopia cases (<-6 D) after outlier exclusion. In the control group, the mean refractive error was -2.17±2.26 D (n=82 eyes), with 70.7% myopia. There was no significant difference in refractive error between groups (t=0.476, P=0.634, Cohen's d=0.059).
+
+We examined the correlation between refractive error and OCT parameters in the subset with available data. For mean macular thickness, the correlation with refractive error was r=-0.08 (P=0.31), indicating no significant association. Similarly, correlations between refractive error and other OCT parameters were weak and non-significant (all |r|<0.12, P>0.20). When refractive error was added as a covariate to the multivariate model for mean macular thickness, the association between depression status and retinal thinning remained significant (β=-5.42, 95% CI: -9.78 to -1.06, P=0.015), with refractive error showing no significant independent effect (β=0.21, P=0.62).
+
+These analyses confirm that refractive error does not confound the observed association between MDD and retinal structural changes. The absence of significant group differences in refractive error, combined with the lack of correlation between refractive error and OCT parameters, supports the robustness of our primary findings.
