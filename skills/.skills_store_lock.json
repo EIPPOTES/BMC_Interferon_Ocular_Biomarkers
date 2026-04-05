@@ -504,6 +504,24 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=voice-reply",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "pdf-ocr": {
+      "name": "Pdf Ocr",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=pdf-ocr",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "r-stats": {
+      "name": "R Stats — 82 Statistical Methods",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=r-stats",
+      "source": "skillhub",
+      "version": "0.7.0"
+    },
+    "r": {
+      "name": "r",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=r",
+      "source": "skillhub",
+      "version": ""
     }
   }
 }
