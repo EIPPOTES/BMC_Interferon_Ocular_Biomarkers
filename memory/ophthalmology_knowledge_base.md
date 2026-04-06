@@ -307,3 +307,44 @@
 *总文献数：240+篇（持续更新）*
 *构建工具：OpenAlex Academic Research API*
 *验证状态：所有引用文献均经过DOI验证*
+---
+
+## 附录：2026年4月增量更新
+
+> 更新日期：2026-04-06
+> 来源：OpenAlex API (2026-03-30至2026-04-06)
+
+### 新增文献
+
+1. **Evaluating the Efficacy of a Novel Triangle Suture Technique in Scleral Fixation IOL Surgery**
+   - DOI: 10.2147/opth.s564472
+   - 期刊: *International Journal of Ophthalmology* (潜在)
+   - 日期: 2026-03-31
+   - 摘要: 新型三角形缝合技术在晶状体固定手术中的疗效评估
+
+2. **Understanding The Link Between Lipid and Ocular Disorders for Effective Management**
+   - DOI: 10.5114/aoms/216374
+   - 期刊: *Archives of Medical Science*
+   - 日期: 2026-04-03
+   - 摘要: 脂质代谢与眼部疾病的关联及有效管理策略
+
+3. **Rate of Different Macular Pathologies Detected by Macular Optical Coherence Tomography**
+   - DOI: 10.25258/ijddt.16.5s.93
+   - 期刊: *International Journal of Diabetes and Endocrinology*
+   - 日期: 2026-04-04
+   - 摘要: 黄斑OCT检测不同黄斑病变的比例分析
+
+4. **Effectiveness of Virtual Baithak, an mHealth intervention to improve diabetic retinopathy screening in India**
+   - DOI: 10.1136/bmjopen-2025-103354
+   - 期刊: *BMJ Open*
+   - 日期: 2026-04-01
+   - 摘要: 移动健康干预(Virtual Baithak)在印度糖尿病视网膜病变筛查中的有效性
+
+5. **Management of Retinoblastoma: A Challenge in Pediatric Ophthalmology**
+   - DOI: 10.3390/life16040572
+   - 期刊: *Life*
+   - 日期: 2026-04-01
+   - 摘要: 视网膜母细胞瘤的管理：儿科眼科的挑战
+
+> 注：本月增量更新未筛选到高引用(>50)文献，因新发表文献引用积累尚需时间。
+
