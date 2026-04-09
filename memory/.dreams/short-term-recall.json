@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T09:26:34.346Z",
+  "updatedAt": "2026-04-08T11:08:04.337Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -69,15 +69,17 @@
       "endLine": 522,
       "source": "memory",
       "snippet": "7. [76次] Impacts of age and sex on retinal layer thicknesses (2018) 8. [76次] Comparison of Cirrus OCT and Stratus OCT (2010) 9. [71次] Schizophrenia and the retina: Towards a 2020 perspective (2020) ### 用户文献替换分析 (14:07-14:09) **可被用户文献替代**: 14篇 - 流行病学文献 [2-4], [11], [18-19], [21-23] - 脑结构/青少年文献 **需保留原始引用**: 8篇 (OCT/视网膜核心) - [5] London 2013 - 视网膜作为CNS窗口 - [8] Najjar 2025 - 神经炎症视网膜Meta - [9-10], [15-16] - MDD视网膜研究 - [17] Murdoch 1998 - 眼科统计方法 - [20] Song 2021 - 视网膜性别差异 ### 8篇核心OCT文献检索方法 (14:09-14:30) | 编号 | 文献 | PubMed检索词 | PMID | |------|------|--------------|------| | 5 | London A 2013 | \"retina as window to brain\" | 23797225 | | 8 | Najjar RP 2025 | \"retina neuroinflammation psychiatry\"",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
-      "totalScore": 1.8088007548870766,
+      "totalScore": 3.7043754190153013,
       "maxScore": 0.9561488296434083,
       "firstRecalledAt": "2026-04-08T09:22:39.499Z",
-      "lastRecalledAt": "2026-04-08T09:26:34.346Z",
+      "lastRecalledAt": "2026-04-08T11:08:04.337Z",
       "queryHashes": [
         "751fca9d639b",
-        "18ade9f4fad4"
+        "18ade9f4fad4",
+        "4ea769c7316e",
+        "06553d19fa68"
       ],
       "recallDays": [
         "2026-04-08"
@@ -160,14 +162,15 @@
       "endLine": 559,
       "source": "memory",
       "snippet": "| 17 | Murdoch IE 1998 | \"people eyes statistics\" | 9713992 | | 20 | Song G 2021 | \"sex differences retinal OCT\" | 34571052 | **PubMed快速检索策略**: 1. 抑郁症+视网膜: \"optical coherence tomography\" AND depression 2. Meta分析: \"retinal thickness\" AND \"major depressive disorder\" AND meta-analysis 3. 首发未用药: \"first-episode\" AND \"drug-naïve\" AND \"OCT\" 4. 性别差异: \"sex differences\" AND \"retinal thickness\" AND OCT 5. 眼科统计: \"bilateral eye\" AND \"mixed effects\" ### 用户文献更新论文 (14:44-14:52) **核心更新**: - 新增引用: Sohn EH 2016 (PNAS, 481次引用) - 标题: Retinal neurodegeneration may precede microvascular changes in diabetes - 用途: 支持\"视网膜可作为CNS早期生物标志物\"论点 **版本对比**: | 项目 | v17 | v18 | |------|-----|-----| | 参考文献 | 23篇 | **23篇** |",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.9528399160417513,
-      "maxScore": 0.9528399160417513,
+      "totalScore": 1.9066383797617408,
+      "maxScore": 0.9537984637199896,
       "firstRecalledAt": "2026-04-08T09:26:34.346Z",
-      "lastRecalledAt": "2026-04-08T09:26:34.346Z",
+      "lastRecalledAt": "2026-04-08T11:08:04.337Z",
       "queryHashes": [
-        "18ade9f4fad4"
+        "18ade9f4fad4",
+        "06553d19fa68"
       ],
       "recallDays": [
         "2026-04-08"
