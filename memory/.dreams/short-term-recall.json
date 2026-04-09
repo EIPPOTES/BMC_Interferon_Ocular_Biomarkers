@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T11:08:04.337Z",
+  "updatedAt": "2026-04-09T07:55:16.121Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -102,17 +102,19 @@
       "endLine": 1351,
       "source": "memory",
       "snippet": "##### **学术写作类** (推荐安装) | 技能 | 版本 | 用途 | 推荐度 | |------|------|------|--------| | **academic-writing-refiner** | 1.0.0 | 精炼学术论文，顶级会议标准 | ⭐⭐⭐⭐⭐ | | **academic-citation-manager** | 1.0.0 | 添加真实参考文献，规范引用 | ⭐⭐⭐⭐⭐ | | **academic-writing-assistant** | 1.0.0 | 段落撰写、语言润色、语法检查 | ⭐⭐⭐⭐ | ##### **文献研究类** (推荐安装) | 技能 | 版本 | 用途 | 推荐度 | |------|------|------|--------| | **academic-research** | 1.0.0 | OpenAlex API文献搜索 | ⭐⭐⭐⭐⭐ | | **academic-deep-research** | 1.0.0 | 双循环深度调研，APA引用 | ⭐⭐⭐⭐⭐ | | **paper-fetcher** | 1.0.0 | Sci-Hub自动下载PDF | ⭐⭐⭐⭐ | | **paper-summarize-academic** | 1.0.1 | 学术论文智能摘要 | ⭐⭐⭐⭐ | #### **安装建议** **核心技能安装命令**: ```bash skillhub install academic-writing-refiner academic-citation-manager aca",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.8309409744980587,
-      "maxScore": 0.8309409744980587,
+      "totalScore": 1.6999421596312563,
+      "maxScore": 0.8690011851331975,
       "firstRecalledAt": "2026-04-08T09:22:39.499Z",
-      "lastRecalledAt": "2026-04-08T09:22:39.499Z",
+      "lastRecalledAt": "2026-04-09T07:55:16.121Z",
       "queryHashes": [
-        "751fca9d639b"
+        "751fca9d639b",
+        "6c1ddf3b609e"
       ],
       "recallDays": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-09"
       ],
       "conceptTags": [
         "academic-writing-refiner",
@@ -184,6 +186,96 @@
         "people",
         "eyes",
         "statistics"
+      ]
+    },
+    "memory:memory/2026-03-20.md:2700:2735": {
+      "key": "memory:memory/2026-03-20.md:2700:2735",
+      "path": "memory/2026-03-20.md",
+      "startLine": 2700,
+      "endLine": 2735,
+      "source": "memory",
+      "snippet": "| **纳入研究数 (k)** | 11 | 11 | 一致 | | **Q统计量** | 41.14 | 7.12 | -34.02 | *注：I²差异可能源于不同的随机效应模型参数设置 ### 🚀 **用户指令**: \"整个复现结果输出到桌面\" ### ✅ **桌面输出执行完成** #### **输出位置** ``` C:\\Users\\CUI\\Desktop\\2026-03-20_医学文献复现结果\\ ``` #### **生成文件清单** | 文件 | 类型 | 大小 | 用途 | |------|------|------|------| | **olp_meta_analysis.pdf** | 原始文献 | 1.5 MB | 开放标签安慰剂meta分析原文 | | **2026-03-20_真实数据复现报告.md** | 复现报告 | 8.8 KB | 完整复现过程、方法验证和结果对比 | | **2026-03-20_reproduction_analysis.py** | Python代码 | 9.5 KB | 可重复使用的统计分析脚本 | | **README.md** | 使用指南 | 5.0 KB | 文件夹说明和对OCT-MDD研究的启发 | #### **文件夹验证结果** ```bash # 桌面文件夹验证 (15:48) total 1.5M -rw-r--r-- 1 root root 9.5K 2026-03-20_reproduction_analysis.py -rw-r--r-- 1 root root 8.8K 2026-0",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8951778837856271,
+      "maxScore": 0.8951778837856271,
+      "firstRecalledAt": "2026-04-09T07:55:16.121Z",
+      "lastRecalledAt": "2026-04-09T07:55:16.121Z",
+      "queryHashes": [
+        "6c1ddf3b609e"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "41.14",
+        "7.12",
+        "34.02",
+        "2026-03-20-医学文献复现结果",
+        "olp-meta-analysis.pdf",
+        "1.5",
+        "2026-03-20-真实数据复现报告.md",
+        "8.8"
+      ]
+    },
+    "memory:memory/2026-03-22.md:1370:1404": {
+      "key": "memory:memory/2026-03-22.md:1370:1404",
+      "path": "memory/2026-03-22.md",
+      "startLine": 1370,
+      "endLine": 1404,
+      "source": "memory",
+      "snippet": "| 5 | academic-research | 1.0.0 | ✅ 已安装 | OpenAlex文献搜索 | **注意**: 技能实际已存在于workspace/skills/目录，系统识别为已安装状态。 #### **能力提升总结** **现在可提供服务**: - ✅ 论文精炼 (NeurIPS/ICML/ACL标准) - ✅ 参考文献自动管理 (Vancouver/APA格式) - ✅ 深度文献调研 (双循环方法) - ✅ Sci-Hub论文自动下载 - ✅ OpenAlex学术搜索 (250M+作品) #### **总技能清单** (12+科研技能) ``` ✅ academic-writing-refiner 论文精炼 ✅ academic-citation-manager 引文管理 ✅ academic-deep-research 深度调研 ✅ academic-research 文献搜索 ✅ paper-fetcher 论文下载 ✅ paper-parse 论文解析 ✅ research-paper-kb 论文知识库 ✅ data-analysis-workflow 数据分析 ✅ statistics-2 统计分析 ✅ chart-generator 图表生成 ✅ academic-writing 学术写作 ✅ ...",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8709871090004784,
+      "maxScore": 0.8709871090004784,
+      "firstRecalledAt": "2026-04-09T07:55:16.121Z",
+      "lastRecalledAt": "2026-04-09T07:55:16.121Z",
+      "queryHashes": [
+        "6c1ddf3b609e"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "academic-research",
+        "1.0.0",
+        "技能实际已存在于workspace/skills/目录",
+        "neurips/icml/acl标准",
+        "vancouver/apa格式",
+        "sci-hub论文自动下载",
+        "academic-writing-refiner",
+        "academic-citation-manager"
+      ]
+    },
+    "memory:memory/2026-03-22.md:1344:1377": {
+      "key": "memory:memory/2026-03-22.md:1344:1377",
+      "path": "memory/2026-03-22.md",
+      "startLine": 1344,
+      "endLine": 1377,
+      "source": "memory",
+      "snippet": "- ✅ 文献综述 → 双循环深度调研 - ✅ PDF获取 → Sci-Hub自动下载 #### **当前技能状态** **已安装技能** (工作区目录): - ✅ data-analysis-workflow - 标准化数据分析流程 - ✅ statistics-2 - 37+统计检验方法 - ✅ academic-research - OpenAlex文献搜索 - ✅ 其他20+科研相关技能 **建议安装** (待用户确认): - ⏳ academic-writing-refiner (论文精炼) - ⏳ academic-citation-manager (引文管理) - ⏳ paper-fetcher (Sci-Hub下载) ### **13:23-13:30 - 技能安装执行完成** **用户指令**: 安装全部5个技能 **执行结果**: ✅ 全部安装成功 #### **安装详情** | # | 技能名称 | 版本 | 状态 | 用途 | |---|---------|------|------|------| | 1 | academic-writing-refiner | 1.0.0 | ✅ 已安装 | 顶级会议论文精炼 | | 2 | academic-citation-manager | 1.0.0 | ✅ 已安装 | 真实参考文献管理 | | 3 | academic-deep-research | 最新 | ✅ 已安装 | 双循环深度调研 | | 4 | paper-fetcher | 最新 | ✅ 已安装 | Sci-Hub自动下载 | | 5",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.8551255875647635,
+      "maxScore": 0.8551255875647635,
+      "firstRecalledAt": "2026-04-09T07:55:16.121Z",
+      "lastRecalledAt": "2026-04-09T07:55:16.121Z",
+      "queryHashes": [
+        "6c1ddf3b609e"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "sci-hub自动下载",
+        "data-analysis-workflow",
+        "statistics-2",
+        "academic-research",
+        "academic-writing-refiner",
+        "academic-citation-manager",
+        "paper-fetcher",
+        "sci-hub下载"
       ]
     }
   }
