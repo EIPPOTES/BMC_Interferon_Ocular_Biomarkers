@@ -1,0 +1,13 @@
+{
+  "name": "pdf-translate",
+  "version": "4.0.0",
+  "description": "Translates PDF documents to Chinese with professional typography. Extracts text, translates section-by-section into well-structured Markdown, then generates PDF via weasyprint with full CJK support.",
+  "update_url": "",
+  "author": "skillhub",
+  "license": "MIT",
+  "metadata": {
+    "skillhub_slug": "pdf-translate",
+    "installed_at": "2026-03-12T11:06:00Z",
+    "last_checked": "2026-03-22T02:31:00Z"
+  }
+}

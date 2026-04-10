@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="440" viewBox="0 0 340 440">
+<rect width="100%" height="100%" fill="#fafafa"/>
+<text x="170.0" y="35" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="bold" fill="#333">Test</text>
+<line x1="120" y1="360.0" x2="280" y2="360.0" stroke="#ddd" stroke-width="1"/>
+<text x="112" y="364.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#666">0</text>
+<line x1="120" y1="300.0" x2="280" y2="300.0" stroke="#ddd" stroke-width="1"/>
+<text x="112" y="304.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#666">14</text>
+<line x1="120" y1="240.0" x2="280" y2="240.0" stroke="#ddd" stroke-width="1"/>
+<text x="112" y="244.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#666">28</text>
+<line x1="120" y1="180.0" x2="280" y2="180.0" stroke="#ddd" stroke-width="1"/>
+<text x="112" y="184.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#666">42</text>
+<line x1="120" y1="120.0" x2="280" y2="120.0" stroke="#ddd" stroke-width="1"/>
+<text x="112" y="124.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#666">56</text>
+<line x1="120" y1="60.0" x2="280" y2="60.0" stroke="#ddd" stroke-width="1"/>
+<text x="112" y="64.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#666">70</text>
+<line x1="120" y1="60" x2="120" y2="360" stroke="#999" stroke-width="1.5"/>
+<line x1="120" y1="360" x2="280" y2="360" stroke="#999" stroke-width="1.5"/>
+<rect x="140" y="231.42857142857144" width="50" height="128.57142857142856" fill="#1e88e5" rx="3"/>
+<text x="165.0" y="225.42857142857144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#333">30</text>
+<text x="165.0" y="380" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#555">A</text>
+<rect x="210" y="60.0" width="50" height="300.0" fill="#42a5f5" rx="3"/>
+<text x="235.0" y="54.0" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#333">70</text>
+<text x="235.0" y="380" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#555">B</text>
+</svg>
