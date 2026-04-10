@@ -148,3 +148,57 @@
 
 ---
 *总收录：31篇 | 更新日期：2026-04-05 | 全部DOI已验证*
+
+---
+
+## 2024-2026 眼科新增文献 (2026-04-10增量更新)
+
+1. **[483 citations] Optical Coherence Tomography of Ocular Diseases (2024)**
+   - Journal: CRC Press (Textbook)
+   - DOI: https://doi.org/10.1201/9781003525455
+   - Tags: OCT, Imaging
+
+2. **[394 citations] Age-Related Macular Degeneration (2024)**
+   - Journal: JAMA
+   - DOI: https://doi.org/10.1001/jama.2023.26074
+   - Tags: AMD, Review
+
+3. **[306 citations] The WHO Global report 2023 on hypertension (2024)**
+   - Journal: Hypertension
+   - DOI: https://doi.org/10.1038/s41440-024-01622-w
+   - Tags: Hypertension, Epidemiology
+
+4. **[305 citations] TransNeXt: Robust Foveal Visual Perception for Vision Transformers (2024)**
+   - Journal: CVPR 2024
+   - DOI: https://doi.org/10.1109/cvpr52733.2024.01683
+   - Tags: Deep Learning, Fovea
+
+5. **[270 citations] A deep learning system for predicting time to progression of diabetic retinopathy (2024)**
+   - Journal: Nature Medicine
+   - DOI: https://doi.org/10.1038/s41591-023-02702-z
+   - Tags: AI, DR, Prediction
+
+6. **[226 citations] Risk of Nonarteritic Anterior Ischemic Optic Neuropathy in Patients Prescribed Sildenafil (2024)**
+   - Journal: JAMA Ophthalmology
+   - DOI: https://doi.org/10.1001/jamaophthalmol.2024.2
+   - Tags: NAION, Sildenafil
+
+7. **[198 citations] Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration (2024)**
+   - Journal: The Lancet
+   - DOI: https://doi.org/10.1016/s0140-6736(24)00063-1
+   - Tags: nAMD, Anti-VEGF
+
+8. **[173 citations] Gene Editing for CEP290-Associated Retinal Degeneration (2024)**
+   - Journal: New England Journal of Medicine
+   - DOI: https://doi.org/10.1056/nejmoa2309915
+   - Tags: Gene Therapy, CEP290
+
+9. **[135 citations] OCTA-500: A retinal dataset for optical coherence tomography angiography study (2024)**
+   - Journal: Medical Image Analysis
+   - DOI: https://doi.org/10.1016/j.media.2024.103092
+   - Tags: OCTA, Dataset
+
+10. **[118 citations] Improved Support Vector Machine based on CNN-SVD for vision-threatening diabetic retinopathy (2024)**
+    - Journal: PLOS ONE
+    - DOI: https://doi.org/10.1371/journal.pone.0295951
+    - Tags: ML, DR, SVM
