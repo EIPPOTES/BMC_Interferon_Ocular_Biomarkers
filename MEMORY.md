@@ -117,3 +117,8 @@
 ---
 
 *最后更新: 2026-03-24*
+
+## Promoted From Short-Term Memory (2026-04-14)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-03-28.md:490:522 -->
+- 7. [76次] Impacts of age and sex on retinal layer thicknesses (2018) 8. [76次] Comparison of Cirrus OCT and Stratus OCT (2010) 9. [71次] Schizophrenia and the retina: Towards a 2020 perspective (2020) ### 用户文献替换分析 (14:07-14:09) **可被用户文献替代**: 14篇 - 流行病学文献 [2-4], [11], [18-19], [21-23] - 脑结构/青少年文献 **需保留原始引用**: 8篇 (OCT/视网膜核心) - [5] London 2013 - 视网膜作为CNS窗口 - [8] Najjar 2025 - 神经炎症视网膜Meta - [9-10], [15-16] - MDD视网膜研究 - [17] Murdoch 1998 - 眼科统计方法 - [20] Song 2021 - 视网膜性别差异 ### 8篇核心OCT文献检索方法 (14:09-14:30) | 编号 | 文献 | PubMed检索词 | PMID | |------|------|--------------|------| | 5 | London A 2013 | "retina as window to brain" | 23797225 | | 8 | Najjar RP 2025 | "retina neuroinflammation psychiatry" | - | | 9 | Ascaso FJ 2015 | "OCT depression retinal" | 26253317 | | 10 | Yılmaz U 2016 | "RNFL macular depression" | 26602877 | | 15 | Söylemez BA 2019 | "retinal changes depression" | 30945928 | | 16 | Bulut M 2018 | "retinal layer depression" | 29122573 | | 17 | Murdoch IE 1998 | "people eyes statistics" | 9713992 | | 20 | Song G 2021 | "sex differences retinal OCT" | 34571052 | **PubMed快速检索策略**: 1. 抑郁症+视网膜: "optical coherence tomography" AND depression 2. Meta分析: "retinal thickness" AND "major depressive disorder" AND meta-analysis [score=0.811 recalls=4 avg=0.926 source=memory/2026-03-28.md:490-522]
