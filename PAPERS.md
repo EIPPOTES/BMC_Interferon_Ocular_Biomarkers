@@ -6,6 +6,9 @@
 
 ## 高影响力文献（引用>50）
 
+### 2026年4月增量更新（轻量版）
+- 备注：最近7天(2026-04-06~13)新发表文献暂无引用>50的高影响力文章（符合学术出版规律），已验证4篇相关文献DOI有效性，待积累引用后更新。
+
 ### AMD / 年龄相关性黄斑变性
 1. **AREDS研究** | Age-Related Eye Disease Study Research Group (2001)
    - 题目：High-Dose Supplementation With Vitamins C and E, Beta Carotene, and Zinc for AMD
@@ -202,3 +205,34 @@
     - Journal: PLOS ONE
     - DOI: https://doi.org/10.1371/journal.pone.0295951
     - Tags: ML, DR, SVM
+
+## 2026年4月新增追踪文献（待积累引用）
+
+### 新发表眼科相关文献（2026-04-06~13，DOI验证通过）
+
+1. **Two-dimensional materials for integrated sensing**
+   - Journal: Nature Materials
+   - DOI: https://doi.org/10.1038/s41563-026-02551-4
+   - Tags: 传感器, 材料
+   - 状态: 2026-04-06发表，引用1次
+
+2. **Mitochondria transplantation preserves retinal ganglion cells and promotes CNS axonal regeneration**
+   - Journal: Free Radical Biology and Medicine
+   - DOI: https://doi.org/10.1016/j.freeradbiomed.2026.03.069
+   - Tags: RGC, 线粒体移植, 神经再生
+   - 状态: 2026-04-06发表，直接相关
+
+3. **Effect of peripapillary atrophy on parameters of the optic nerve head, the peripapillary region and the macula in eyes with myopia**
+   - Journal: International Ophthalmology
+   - DOI: https://doi.org/10.1007/s10792-026-04072-0
+   - Tags: 近视, 萎缩, ONH
+   - 状态: 2026-04-06发表，直接相关
+
+4. **Racial and microvascular determinants of progression to treatment-warranted diabetic eye disease**
+   - Journal: Eye (Nature)
+   - DOI: https://doi.org/10.1038/s41433-026-04417-0
+   - Tags: 糖尿病视网膜病变, 种族差异
+   - 状态: 2026-04-06发表，直接相关
+
+---
+*更新时间: 2026-04-13 | 模式: 轻量增量更新*
