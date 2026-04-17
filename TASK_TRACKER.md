@@ -681,3 +681,66 @@ System: [2026-04-09 16:00:31 GMT...
 
 ## 📅 每月维护 ...
 
+
+
+---
+
+## 🔄 近期项目状态 (自动检测) - 2026-04-16
+
+| 项目 | 检测状态 | 活动数 |
+|------|----------|--------|
+| OCT-MDD论文 | 已完成 | 1556 |
+| 年轻组论文 | 已完成 | 58 |
+| 知识库构建 | 已完成 | 1608 |
+| 系统优化 | 已完成 | 339 |
+
+### 详细活动
+
+**OCT-MDD论文** (已完成):
+- System: [2026-04-09 15:42:15 GMT+8] Reasoning ON - include <think>.
+System: [2026-04-09 16:00:31 GMT...
+- # OpenClaw 定期维护计划
+
+## 🔄 每周维护 (Fridays 14:00)
+- 索引性能检查
+- 检查本周Daily.md
+- 扫描Target Journals
+
+## 📅 每月维护 ...
+
+**年轻组论文** (已完成):
+- System: [2026-04-09 15:42:15 GMT+8] Reasoning ON - include <think>.
+System: [2026-04-09 16:00:31 GMT...
+- # OpenClaw 定期维护计划
+
+## 🔄 每周维护 (Fridays 14:00)
+- 索引性能检查
+- 检查本周Daily.md
+- 扫描Target Journals
+
+## 📅 每月维护 ...
+
+**知识库构建** (已完成):
+- System: [2026-04-09 15:42:15 GMT+8] Reasoning ON - include <think>.
+System: [2026-04-09 16:00:31 GMT...
+- # OpenClaw 定期维护计划
+
+## 🔄 每周维护 (Fridays 14:00)
+- 索引性能检查
+- 检查本周Daily.md
+- 扫描Target Journals
+
+## 📅 每月维护 ...
+
+**系统优化** (已完成):
+- System: [2026-04-09 15:42:15 GMT+8] Reasoning ON - include <think>.
+System: [2026-04-09 16:00:31 GMT...
+- # OpenClaw 定期维护计划
+
+## 🔄 每周维护 (Fridays 14:00)
+- 索引性能检查
+- 检查本周Daily.md
+- 扫描Target Journals
+
+## 📅 每月维护 ...
+
