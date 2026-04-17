@@ -744,3 +744,52 @@ System: [2026-04-09 16:00:31 GMT...
 
 ## 📅 每月维护 ...
 
+
+
+---
+
+## 🔄 近期项目状态 (自动检测) - 2026-04-18
+
+| 项目 | 检测状态 | 活动数 |
+|------|----------|--------|
+| OCT-MDD论文 | 已完成 | 20 |
+| 年轻组论文 | 已完成 | 7 |
+| 知识库构建 | 已完成 | 30 |
+| 系统优化 | 已完成 | 14 |
+
+### 详细活动
+
+**OCT-MDD论文** (已完成):
+- [Thu 2026-04-16 18:24 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+- [Sat 2026-04-18 01:58 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+
+**年轻组论文** (已完成):
+- [Thu 2026-04-16 18:24 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+- [2026-04-16 18:21:55] 开始项目状态分析...
+分析 34 个会话...
+处理 6384 条消息...
+✅ 已更新TASK_TRACKER.md
+  📌 OCT-MDD论文: 已完...
+
+**知识库构建** (已完成):
+- [Thu 2026-04-16 18:24 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+- [Sat 2026-04-18 01:58 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+
+**系统优化** (已完成):
+- [Thu 2026-04-16 18:24 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+- [Sat 2026-04-18 01:58 GMT+8] Write a dream diary entry from these memory fragments:
+
+- Reflections: ...
+
