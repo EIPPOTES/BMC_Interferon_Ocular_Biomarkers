@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T19:01:39.218Z",
+  "updatedAt": "2026-04-19T04:02:57.358Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -301,14 +301,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "10引用的oct-抑郁症新文献",
@@ -334,14 +335,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "gateway",
@@ -367,14 +369,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "4/6-4/13",
@@ -400,14 +403,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "anti-vegf",
@@ -433,14 +437,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "与mdd-oct研究直接相关",
@@ -466,14 +471,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "gateway",
@@ -499,13 +505,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:00:13.850Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
         "2026-04-13",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "网络",
@@ -27494,14 +27501,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T20:04:05.218Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
         "2026-04-14",
         "2026-04-13",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "1.00",
@@ -27527,14 +27535,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T20:04:05.218Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
         "2026-04-14",
         "2026-04-13",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "0.87",
@@ -27560,14 +27569,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T20:04:05.218Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
         "2026-04-14",
         "2026-04-13",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "0.80",
@@ -27593,14 +27603,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T20:04:05.218Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
         "2026-04-14",
         "2026-04-13",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "academic-writing-refiner",
@@ -32479,13 +32490,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T19:00:00.728Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
         "2026-04-14",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "logs/literature增量-2026-04-14.md",
@@ -32511,13 +32523,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T19:00:00.728Z",
-      "lastRecalledAt": "2026-04-17T19:00:38.154Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
         "2026-04-14",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "考试",
@@ -32543,12 +32556,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T19:00:00.728Z",
-      "lastRecalledAt": "2026-04-14T19:00:00.728Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-19"
       ],
       "conceptTags": [
         "考试",
@@ -47023,13 +47037,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "1.00",
@@ -47055,13 +47070,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "0.88",
@@ -47087,13 +47103,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "0.81",
@@ -47119,13 +47136,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "academic-writing-refiner",
@@ -47151,13 +47169,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "logs/literature增量-2026-04-15.md",
@@ -47183,13 +47202,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "眼科学硕士中期考核复习资料-整理版.docx",
@@ -47215,13 +47235,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T10:24:05.702Z",
-      "lastRecalledAt": "2026-04-16T10:24:05.702Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-19"
       ],
       "conceptTags": [
         "考试",
@@ -59971,13 +59992,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T17:58:12.285Z",
-      "lastRecalledAt": "2026-04-17T17:58:12.285Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "1.00",
@@ -60003,13 +60025,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T17:58:12.285Z",
-      "lastRecalledAt": "2026-04-17T17:58:12.285Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "0.90",
@@ -60035,13 +60058,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T17:58:12.285Z",
-      "lastRecalledAt": "2026-04-17T17:58:12.285Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "0.80",
@@ -60067,13 +60091,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T17:58:12.285Z",
-      "lastRecalledAt": "2026-04-17T17:58:12.285Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-19"
       ],
       "conceptTags": [
         "academic-writing-refiner",
@@ -64348,6 +64373,4857 @@
       "conceptTags": [
         "heartbeat-ok",
         "assistant"
+      ]
+    },
+    "memory:memory/2026-04-19.md:6:6": {
+      "key": "memory:memory/2026-04-19.md:6:6",
+      "path": "memory/2026-04-19.md",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "原因: 网络连接问题导致无法访问外部学术数据库：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "原因",
+        "连接",
+        "问题",
+        "导致",
+        "无法",
+        "访问",
+        "外部"
+      ]
+    },
+    "memory:memory/2026-04-19.md:7:9": {
+      "key": "memory:memory/2026-04-19.md:7:9",
+      "path": "memory/2026-04-19.md",
+      "startLine": 7,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "原因: OpenAlex API: 连接超时/被拒绝; Web Search: 获取失败; Web Fetch: 解析为内部IP被阻止",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "连接超时/被拒绝",
+        "原因",
+        "openalex",
+        "api",
+        "连接",
+        "拒绝",
+        "web",
+        "获取"
+      ]
+    },
+    "memory:memory/2026-04-19.md:12:15": {
+      "key": "memory:memory/2026-04-19.md:12:15",
+      "path": "memory/2026-04-19.md",
+      "startLine": 12,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "尝试的操作: ❌ 直接curl OpenAlex API → 无响应; ❌ 使用academic-research skill脚本 → 连接重置; ❌ Web搜索 → fetch失败; ❌ Web抓取 → 内部IP阻断",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "使用academic-research",
+        "尝试",
+        "操作",
+        "直接",
+        "curl",
+        "openalex",
+        "api",
+        "响应"
+      ]
+    },
+    "memory:memory/2026-04-19.md:18:18": {
+      "key": "memory:memory/2026-04-19.md:18:18",
+      "path": "memory/2026-04-19.md",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "结论: 当前环境网络策略限制了外部学术资源访问。建议：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "结论",
+        "当前",
+        "环境",
+        "策略",
+        "限制",
+        "外部",
+        "学术"
+      ]
+    },
+    "memory:memory/2026-04-19.md:19:20": {
+      "key": "memory:memory/2026-04-19.md:19:20",
+      "path": "memory/2026-04-19.md",
+      "startLine": 19,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "结论: 检查防火墙/代理设置; 或使用已缓存数据手动更新",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "检查防火墙/代理设置",
+        "结论",
+        "检查",
+        "防火",
+        "代理",
+        "设置",
+        "使用",
+        "数据"
+      ]
+    },
+    "memory:memory/2026-04-19.md:23:24": {
+      "key": "memory:memory/2026-04-19.md:23:24",
+      "path": "memory/2026-04-19.md",
+      "startLine": 23,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "待补充: 需检索日期范围: 2026-04-12 ~ 2026-04-19; 目标: 20篇眼科文献，按引用排序，筛选>50引用的论文",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "补充",
+        "检索",
+        "日期",
+        "范围",
+        "目标",
+        "眼科",
+        "文献",
+        "引用"
+      ]
+    },
+    "memory:memory/2026-04-19.md:27:27": {
+      "key": "memory:memory/2026-04-19.md:27:27",
+      "path": "memory/2026-04-19.md",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "待补充: *执行时间: 2026-04-19 11:55 UTC+8*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "补充",
+        "执行",
+        "时间",
+        "utc"
+      ]
+    },
+    "memory:memory/2026-04-18.md:6:8": {
+      "key": "memory:memory/2026-04-18.md:6:8",
+      "path": "memory/2026-04-18.md",
+      "startLine": 6,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "问题: **原因**: 网络工具不可用（web_search/web_fetch 均报错）; **影响**: 无法访问 OpenAlex API 获取最新文献; **时间**: 2026-04-18 09:50",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "77ca9720ec15"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "web-search/web-fetch",
+        "问题",
+        "原因",
+        "工具",
+        "不可",
+        "web-search",
+        "web-fetch"
+      ]
+    },
+    "memory:memory/2026-04-18.md:11:13": {
+      "key": "memory:memory/2026-04-18.md:11:13",
+      "path": "memory/2026-04-18.md",
+      "startLine": 11,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "尝试的操作: web_search → 报错 fetch failed; web_fetch (OpenAlex API) → Blocked: resolves to private/internal/special-use IP address; scholar-search.py 脚本 → 复杂解释器调用被拒绝",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "77ca9720ec15"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "web-search",
+        "web-fetch",
+        "private/internal/special-use",
+        "scholar-search.py",
+        "尝试",
+        "操作",
+        "fetch",
+        "failed"
+      ]
+    },
+    "memory:memory/2026-04-18.md:16:18": {
+      "key": "memory:memory/2026-04-18.md:16:18",
+      "path": "memory/2026-04-18.md",
+      "startLine": 16,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "后续建议: 检查网络/代理配置; 待网络恢复后重新执行检索; 可使用cron重试机制",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "77ca9720ec15"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "检查网络/代理配置",
+        "建议",
+        "检查",
+        "代理",
+        "配置",
+        "恢复",
+        "重新"
+      ]
+    },
+    "memory:memory/2026-04-18.md:21:23": {
+      "key": "memory:memory/2026-04-18.md:21:23",
+      "path": "memory/2026-04-18.md",
+      "startLine": 21,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "知识库当前状态: 最后更新: 2026-04-15; 文献库文件: PAPERS.md (11136 bytes, 约50+篇); 现有更新记录: 4篇 (03-28, 03-29, 04-14, 04-15)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "77ca9720ec15"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "papers.md",
+        "03-28",
+        "03-29",
+        "04-14",
+        "04-15",
+        "知识",
+        "当前",
+        "状态"
+      ]
+    },
+    "memory:memory/2026-04-18.md:26:26": {
+      "key": "memory:memory/2026-04-18.md:26:26",
+      "path": "memory/2026-04-18.md",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "知识库当前状态: *Generated: 2026-04-18 09:50 CST*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "77ca9720ec15"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "知识",
+        "当前",
+        "状态",
+        "generated",
+        "cst"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: [cron:7876fb5f-ba17-473b-bf6b-0fd3f459a857 眼科专业知识检索与知识库构建] # 眼科知识库维护（轻量版） 执行眼科文献增量更新： 1. 搜索OpenAlex最近7天眼科文献（限制20篇） 2. 筛选引用>50的高影响力文献 3. 验证DOI有效性 4. 追加到现有知识库（不去重检查，减少计算） 5. 输出简要报告（<300词） ## 简化原则 - 不执行完整主题轮换 - 不验证是否已收录 - 只追加新文献，不重构知识库 - 使用简单文本格式输出 ## 数据来源 OpenAlex API: https:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "user",
+        "cron",
+        "7876fb5f",
+        "ba17",
+        "473b",
+        "bf6b",
+        "0fd3f459a857",
+        "眼科"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 眼科文献增量更新报告 (2026-04-18) ### 检索概况 | 项目 | 结果 | |------|------| | API数据源 | OpenAlex (concepts.id:C118487528 - Ophthalmology) | | 检索时间范围 | 最近7天 (2026-04-11 ~ 2026-04-18) | | 检出文献 | 0篇 | | 高影响力文献(引用>50) | 0篇 | ### 原因分析 1. **学术出版周期**: 新发表文献(2025-2026)尚未积累足够引用量,高影响力文献通常",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "concepts.id",
+        "2025-2026",
+        "assistant",
+        "眼科",
+        "文献",
+        "增量",
+        "更新",
+        "报告"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: [cron:bf2276ce-d8dd-47aa-9239-8c633d138421 GitHub自动同步] ## GitHub自动同步任务 执行工作区自动同步到GitHub： 1. 检查工作区是否有未提交更改 2. 如有更改，创建备份 3. 提交所有更改（memory/, knowledge_base/, skills/等） 4. 推送到GitHub仓库 5. 记录同步日志 同步内容: - 记忆文件 (memory/) - 知识库 (knowledge_base/) - 技能文件 (skills/) - 维护计划 (HEARTBEAT.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "备份",
+        "knowledge-base",
+        "skills/等",
+        "heartbeat.md",
+        "user",
+        "cron:bf2276ce",
+        "d8dd",
+        "47aa"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: 开始执行GitHub自动同步任务。 **第一步：检查未提交更改**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "开始",
+        "执行",
+        "github",
+        "自动",
+        "同步",
+        "任务",
+        "一步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **GitHub自动同步完成** 工作区状态检查结果： - **当前分支**: develop - **远程同步状态**: ✅ 已同步 (Your branch is up to date with 'origin/develop') - **未提交更改**: 无 **同步日志记录:** | 时间 | 操作 | 状态 | |------|------|------| | 2026-04-18 18:04 | 状态检查 | ✅ 无需同步 | 📝 工作区已是最新，无需执行提交和推送操作。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "origin/develop",
+        "assistant",
+        "github",
+        "自动",
+        "同步",
+        "完成",
+        "工作",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "User: [cron:911ecf6a-0f43-4375-a4db-c2a1f2abe961 简化系统监控] ## 系统健康检查 (简化版) 执行基础系统监控： 1. 检查OpenClaw Gateway运行状态 2. 检查Mihomo代理状态 3. 测试网络连接 (PubMed) 4. 检查磁盘空间使用 5. 检查Memory目录大小 6. 生成健康报告 如有异常，生成告警通知。 注意: 本任务使用简化方法，避免权限问题。 Current time: Saturday, April 18th, 2026 - 6:00 AM (Asia/Shangh",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "asia/shangh",
+        "user",
+        "cron",
+        "911ecf6a",
+        "0f43",
+        "a4db"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: ## 系统健康检查报告 ✅ | 检查项 | 状态 | 详情 | |--------|------|------| | OpenClaw Gateway | ✅ 正常 | 运行中 (PID 3680) | | Mihomo 代理 | ✅ 正常 | 运行中 (PID 288) | | 网络连接 (PubMed) | ✅ 正常 | HTTP 200 | | 磁盘空间 | ✅ 正常 | 11% (104G/1007G) | | Memory 目录 | ✅ 正常 | 4.9M | **状态**: 全部健康 ✅ **生成时间**: 2026-0",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "104g/1007g",
+        "4.9m",
+        "2026-0",
+        "assistant",
+        "系统",
+        "健康"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: [cron:911ecf6a-0f43-4375-a4db-c2a1f2abe961 简化系统监控] ## 系统健康检查 (简化版) 执行基础系统监控： 1. 检查OpenClaw Gateway运行状态 2. 检查Mihomo代理状态 3. 测试网络连接 (PubMed) 4. 检查磁盘空间使用 5. 检查Memory目录大小 6. 生成健康报告 如有异常，生成告警通知。 注意: 本任务使用简化方法，避免权限问题。 Current time: Saturday, April 18th, 2026 - 12:00 PM (Asia/Shang",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "asia/shang",
+        "user",
+        "cron",
+        "911ecf6a",
+        "0f43",
+        "a4db"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: I'll read the healthcheck skill first, then run the simplified monitoring.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "i'll",
+        "read",
+        "the",
+        "healthcheck",
+        "skill",
+        "first",
+        "run"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: Let me run the simplified system monitoring checks:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "let",
+        "run",
+        "the",
+        "simplified",
+        "system",
+        "monitoring",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 系统健康检查报告 (简化版) **时间:** 2026-04-18 12:00 | **环境:** WSL2/Linux --- ### ✅ 检查结果 | 检查项 | 状态 | 详情 | |--------|------|------| | **1. OpenClaw Gateway** | ✅ 正常 | 运行中 (PID 3680), 监听 127.0.0.1:18789 | | **2. Mihomo代理** | ✅ 正常 | 运行中 (PID 288), 配置正常 | | **3. 网络连接 (PubMed)**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "wsl2/linux",
+        "127.0.0.1",
+        "assistant",
+        "系统",
+        "健康",
+        "检查"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: 执行文献增量更新任务...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "执行",
+        "文献",
+        "增量",
+        "更新",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Assistant: **✅ 文献增量更新完成** - **检索时间**: 2026-04-18 18:16 UTC (近7天) - **API**: OpenAlex 直接调用 (64ms响应) - **匹配文献**: 8篇 - **引用≥10**: 0篇 📝 记录已保存至 `/root/.openclaw/workspace/logs/literature增量_2026-04-18.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "完成",
+        "检索",
+        "时间",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-18 16:25:08 GMT+8] Exec completed (quick-bi, code 1) :: ^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/json/decoder.py\", line 337, in decode obj, end = self.raw_decode(s, idx=_w(s, 0).end()) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/… System (",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "quick-bi",
+        "self.raw-decode",
+        "user",
+        "system",
+        "untrusted",
+        "gmt",
+        "exec",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: OpenAlex API连接超时。尝试备用方案：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "openalex",
+        "api",
+        "连接",
+        "尝试",
+        "备用",
+        "方案"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 文献增量更新 - 执行报告 **时间**: 2026-04-18 16:24 ### 执行结果: ❌ 失败 **原因**: 网络限制 - OpenAlex API DNS解析到内网IP (198.18.0.121)，外部HTTP请求被阻断 **诊断过程**: 1. OpenAlex API - 连接超时 2. ping api.openalex.org - DNS解析到 198.18.0.121 (内网IP) 3. CrossRef API - 未完成 4. httpbin.org - 无响应 **结论**: 当前环境存",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "198.18.0.121",
+        "api.openalex.org",
+        "httpbin.org",
+        "assistant",
+        "文献",
+        "增量",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-18 16:27:30 GMT+8] Exec completed (fresh-sl, code 0) :: PING api.openalex.org (198.18.0.121) 56(84) bytes of data. 64 bytes from 198.18.0.121: icmp_seq=1 ttl=64 time=0.255 ms --- api.openalex.org ping statistics --- 1 packets transmitt… An async",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "fresh-sl",
+        "api.openalex.org",
+        "198.18.0.121",
+        "icmp-seq",
+        "0.255",
+        "user",
+        "system",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: 已处理完毕。该 ping 结果确认了问题：DNS 解析到内网 IP `198.18.0.121`，外部 API 无法访问。 任务状态：**已完成（报告已生成）**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "198.18.0.121",
+        "assistant",
+        "处理",
+        "完毕",
+        "ping",
+        "结果",
+        "确认",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-18 12:18:43 GMT+8] Exec completed (oceanic-, code 0) :: /usr/bin/curl /usr/bin/jq An async command you ran earlier has completed. The result is shown in the system messages above. Handle the result internally. Do not relay it to the user unless",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "usr/bin/curl",
+        "usr/bin/jq",
+        "user",
+        "system",
+        "untrusted",
+        "gmt",
+        "exec",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: 网络无法访问OpenAlex API (curl超时)。记录状态:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "assistant",
+        "无法",
+        "访问",
+        "openalex",
+        "api",
+        "curl",
+        "记录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Assistant: ## 2026-04-18 12:18 文献增量更新 - 执行完成 **状态:** ❌ 失败 (网络问题) **详情:** - OpenAlex API 多次连接超时 (curl -m 20秒无响应) - 诊断: WSL网络限制或API服务器问题 - 日志已记录到 `logs/literature增量_2026-04-18.md` **今日统计:** - 01:45 - 成功 (4篇匹配，0篇引用≥10) - 05:02 - 失败 (API超时) - 12:18 - 失败 (API超时) **建议:** 检查宿主机网络或使用代理/V",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "logs/literature增量-2026-04-18.md",
+        "检查宿主机网络或使用代理/v",
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: [cron:bf2276ce-d8dd-47aa-9239-8c633d138421 GitHub自动同步] ## GitHub自动同步任务 执行工作区自动同步到GitHub： 1. 检查工作区是否有未提交更改 2. 如有更改，创建备份 3. 提交所有更改（memory/, knowledge_base/, skills/等） 4. 推送到GitHub仓库 5. 记录同步日志 同步内容: - 记忆文件 (memory/) - 知识库 (knowledge_base/) - 技能文件 (skills/) - 维护计划 (HEARTBEAT.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "备份",
+        "knowledge-base",
+        "skills/等",
+        "heartbeat.md",
+        "user",
+        "cron:bf2276ce",
+        "d8dd",
+        "47aa"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Assistant: ## GitHub自动同步完成 ✅ **状态**: 成功 **变更摘要**: - 提交: `15923eb` - 文件变更: 12个文件，+5701/-1123 行 **已同步文件**: | 类型 | 文件 | |------|------| | 工作区 | DREAMS.md, HEARTBEAT.md, TASK_TRACKER.md | | 记忆 | memory/2026-04-18.md, session-corpus/2026-04-18.txt, .dreams/*.json/jsonl | **备份**: 已创建 `",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "备份",
+        "dreams.md",
+        "heartbeat.md",
+        "task-tracker.md",
+        "memory/2026-04-18.md",
+        "session-corpus/2026-04-18.txt",
+        "json/jsonl",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: [cron:7876fb5f-ba17-473b-bf6b-0fd3f459a857 眼科专业知识检索与知识库构建] # 眼科知识库维护（轻量版） 执行眼科文献增量更新： 1. 搜索OpenAlex最近7天眼科文献（限制20篇） 2. 筛选引用>50的高影响力文献 3. 验证DOI有效性 4. 追加到现有知识库（不去重检查，减少计算） 5. 输出简要报告（<300词） ## 简化原则 - 不执行完整主题轮换 - 不验证是否已收录 - 只追加新文献，不重构知识库 - 使用简单文本格式输出 ## 数据来源 OpenAlex API: https:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "user",
+        "cron",
+        "7876fb5f",
+        "ba17",
+        "473b",
+        "bf6b",
+        "0fd3f459a857",
+        "眼科"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: Let me use web_fetch to directly query the OpenAlex API:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "assistant",
+        "let",
+        "use",
+        "directly",
+        "query",
+        "the",
+        "openalex"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "Assistant: 网络工具暂时不可用，让我检查本地知识库并记录这个情况：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "assistant",
+        "工具",
+        "暂时",
+        "不可",
+        "检查",
+        "本地",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: --- ## 眼科知识库增量更新报告（2026-04-18） ### 执行状态：❌ 未完成 **原因**: 网络工具不可用，无法访问 OpenAlex API **尝试的操作**: 1. `web_search` → fetch failed 2. `web_fetch` (OpenAlex API) → IP地址被阻止 3. scholar-search.py 脚本 → 复杂解释器调用被拒绝 **知识库当前状态**: - 最后更新: 2026-04-15 - 现有文献: PAPERS.md (~50+篇) - 更新记录: 4篇 (",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "web-search",
+        "web-fetch",
+        "scholar-search.py",
+        "papers.md",
+        "assistant",
+        "眼科",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: ## Cron 执行完成 ✅ **检索结果**: - 近7天(2026-04-11至2026-04-18)找到8篇相关文献 - **引用数≥10**: 0篇 (新发表文章，暂无引用) **日志已保存**: `/root/.openclaw/workspace/logs/literature增量_2026-04-18.md` **执行时间**: ~3秒 (< 1分钟目标)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "2026-04-11至2026-04-18",
+        "assistant",
+        "cron",
+        "执行",
+        "完成",
+        "检索",
+        "结果",
+        "找到"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "User: [cron:911ecf6a-0f43-4375-a4db-c2a1f2abe961 简化系统监控] ## 系统健康检查 (简化版) 执行基础系统监控： 1. 检查OpenClaw Gateway运行状态 2. 检查Mihomo代理状态 3. 测试网络连接 (PubMed) 4. 检查磁盘空间使用 5. 检查Memory目录大小 6. 生成健康报告 如有异常，生成告警通知。 注意: 本任务使用简化方法，避免权限问题。 Current time: Saturday, April 18th, 2026 - 6:00 PM (Asia/Shangh",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "asia/shangh",
+        "user",
+        "cron",
+        "911ecf6a",
+        "0f43",
+        "a4db"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 系统健康报告 (简化版) **检查时间:** 2026-04-18 18:00 (CST) --- ### ✅ 核心服务状态 | 项目 | 状态 | 详情 | |------|------|------| | OpenClaw Gateway | **正常** | PID 3680, 监听 127.0.0.1:18789 | | Mihomo代理 | **正常** | PID 288, 运行中 | | 网络连接 (PubMed) | **正常** | HTTP 200 | --- ### ✅ 资源使用 | 项目 | 状态",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "127.0.0.1",
+        "assistant",
+        "系统",
+        "健康",
+        "报告",
+        "简化"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "Assistant: 没有找到引用数≥10的文献（新发表7天内的文章通常引用数为0）。让我记录实际找到的文献到日志：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "没有",
+        "找到",
+        "引用",
+        "文献",
+        "发表",
+        "天内",
+        "文章"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "Assistant: ## 文献增量更新执行完成 ### 执行结果 | 项目 | 结果 | |------|------| | **执行时间** | 2026-04-18 20:06 (UTC+8) | | **数据来源** | OpenAlex API | | **搜索范围** | 2026-04-11 ~ 2026-04-18 | | **找到文献** | 8 篇 | | **引用数≥10** | 0 篇 | ### 原因说明 近期7天内发表的文献均为新",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "执行",
+        "完成",
+        "结果",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "User: [cron:bf2276ce-d8dd-47aa-9239-8c633d138421 GitHub自动同步] ## GitHub自动同步任务 执行工作区自动同步到GitHub： 1. 检查工作区是否有未提交更改 2. 如有更改，创建备份 3. 提交所有更改（memory/, knowledge_base/, skills/等） 4. 推送到GitHub仓库 5. 记录同步日志 同步内容: - 记忆文件 (memory/) - 知识库 (knowledge_base/) - 技能文件 (skills/) - 维护计划 (HEARTBEAT.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "备份",
+        "knowledge-base",
+        "skills/等",
+        "heartbeat.md",
+        "user",
+        "cron:bf2276ce",
+        "d8dd",
+        "47aa"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "Assistant: 检测到未提交更改。正在执行自动同步...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检测",
+        "提交",
+        "更改",
+        "正在",
+        "执行",
+        "自动",
+        "同步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ GitHub自动同步完成 ### 同步状态 | 项目 | 状态 | |------|------| | **检测到更改** | ✅ 2个文件 (TASK_TRACKER.md, memory/2026-04-18.md) | | **备份创建** | ✅ backup_20260418_120453.tar.gz | | **提交** | ✅ 6f0ee65 | | **推送** | ✅ origin/develop | | **备份清理** | ✅ 保留最近3份 | ### 提交信息 ``` Auto sync: 202",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "task-tracker.md",
+        "memory/2026-04-18.md",
+        "backup-20260418-120453.tar.gz",
+        "origin/develop",
+        "assistant",
+        "github"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "Assistant: 没有找到近7天OCT-抑郁症相关新文献(引用数≥10)，记录执行日志：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "没有找到近7天oct-抑郁症相关新文献",
+        "assistant",
+        "没有",
+        "找到",
+        "oct",
+        "抑郁",
+        "相关",
+        "文献"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "Assistant: ## 执行完成 **日期**: 2026-04-18 18:46 **数据源**: OpenAlex API **结果**: 无近7天OCT-抑郁症相关新文献(引用数≥10) 日志已保存至 `/root/.openclaw/workspace/logs/literature增量_2026-04-18.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "无近7天oct-抑郁症相关新文献",
+        "assistant",
+        "执行",
+        "完成",
+        "日期",
+        "数据",
+        "openalex",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:76:76": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:76:76",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 76,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:77:77": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:77:77",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 77,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:78:78": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:78:78",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 78,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:79:79": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:79:79",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 79,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:80:80": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:80:80",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 80,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "Assistant: 无输出，换个查询：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "输出",
+        "换个",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:81:81": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:81:81",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 81,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "Assistant: **文献增量更新完成** 📚 - **查询日期**: 2026-04-18 - **API**: OpenAlex (✅ 可用) - **时间范围**: 7天内 (2026-04-11 ~ 04-18) - **匹配文献**: 6篇 - **引用≥10篇**: **0篇** **结论**: 近7天OCT-抑郁症交叉领域无高影响力新文献产出。唯一相关的是头痛与视网膜血管事件Meta分析，与MDD直接关联较弱。 日志已保存至 `/root/.openclaw/workspace/logs/literature增量_2026-04-18",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "04-18",
+        "近7天oct-抑郁症交叉领域无高影响力新文献产出",
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "完成",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:82:82": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:82:82",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 82,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:83:83": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:83:83",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 83,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "Assistant: **文献增量更新完成** - 查询时间: 2026-04-18 17:36 - 查询范围: 7天内 (2026-04-11 起) - OpenAlex 返回: 8 篇 - 引用数≥10 筛选: 0 篇 结果: 无符合条件的高引用新文献（8篇均为2026年新发表，暂无引用） 日志已保存到: `/root/.openclaw/workspace/logs/literature增量_2026-04-18.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "完成",
+        "查询",
+        "时间",
+        "范围"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:84:84": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:84:84",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 84,
+      "endLine": 84,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:85:85": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:85:85",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 85,
+      "endLine": 85,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 文献增量更新完成 (OpenAlex版) **执行时间**: 2026-04-18 18:36 (UTC+8) ### 检索结果 | 项目 | 结果 | |------|------| | 检索范围 | 2026-04-11 ~ 2026-04-18 (7天) | | API | OpenAlex | | 关键词 | optical coherence tomography + depression | | 命中文献 | 9篇 | | 引用数≥10 | **0篇** | ### 符合条件文献 无。 ### 原因分析 -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "完成",
+        "openalex",
+        "执行",
+        "时间"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:86:86": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:86:86",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 86,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:87:87": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:87:87",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 87,
+      "endLine": 87,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:88:88": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:88:88",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 88,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:89:89": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:89:89",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 89,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:90:90": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:90:90",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 90,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "Assistant: **文献增量更新完成** ✅ - **查询**: 近7天OCT-抑郁症相关文献 (OpenAlex) - **结果**: 8篇找到，引用数≥10: 0篇 - **原因**: 7天内发表的新文献暂无引用（正常） - **日志**: `logs/literature增量_2026-04-18.md` 📊 可考虑降低阈值(如≥5)或扩大关键词以捕获更多文献。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "近7天oct-抑郁症相关文献",
+        "logs/literature增量-2026-04-18.md",
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "完成",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:91:91": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:91:91",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 91,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:92:92": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:92:92",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **文献增量更新完成** (2026-04-18 18:26 UTC) **结果**: - 检索范围: 2026-04-11 ~ 2026-04-18 (7天) - OpenAlex匹配: 8篇 - 引用数≥10: **0篇** **结论**: 近7天无符合阈值的高影响力OCT-抑郁症相关新文献。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "近7天无符合阈值的高影响力oct-抑郁症相关新文献",
+        "assistant",
+        "文献",
+        "增量",
+        "更新",
+        "完成",
+        "utc",
+        "结果"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:93:93": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:93:93",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 93,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:94:94": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:94:94",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 94,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "Assistant: API返回空，重新用更精确的检索式：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "api",
+        "返回",
+        "重新",
+        "精确",
+        "检索"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:95:95": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:95:95",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 95,
+      "endLine": 95,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:96:96": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:96:96",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 96,
+      "endLine": 96,
+      "source": "memory",
+      "snippet": "Assistant: 执行文献增量更新任务：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "执行",
+        "文献",
+        "增量",
+        "更新",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:97:97": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:97:97",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 97,
+      "endLine": 97,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:98:98": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:98:98",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 98,
+      "endLine": 98,
+      "source": "memory",
+      "snippet": "Assistant: 让我解析结果并筛选引用数≥10的文献：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "解析",
+        "结果",
+        "筛选",
+        "引用",
+        "文献"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:99:99": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:99:99",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 99,
+      "endLine": 99,
+      "source": "memory",
+      "snippet": "Assistant: 搜索词不够精确，让我尝试更广泛的查询：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "搜索",
+        "不够",
+        "精确",
+        "尝试",
+        "广泛",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:100:100": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:100:100",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 100,
+      "endLine": 100,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:101:101": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:101:101",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 101,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:102:102": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:102:102",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 102,
+      "endLine": 102,
+      "source": "memory",
+      "snippet": "Assistant: ## 执行完成 ✅ **时间**: 2026-04-18 19:56 (UTC+8) **耗时**: ~15秒 ### 结果 - **查询范围**: 2026-04-11至今，关键词 \"retinal OCT\" + depression - **检出**: 8篇新文献 - **引用数≥10**: 0篇（符合预期，近期发表） ### 检出文献摘要 | 标题 | 发表日期 | |------|----------| | Migraine as a risk factor for retinal vascular events | 202",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "2026-04-11至今",
+        "assistant",
+        "执行",
+        "完成",
+        "时间",
+        "utc",
+        "结果",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:103:103": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:103:103",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 103,
+      "endLine": 103,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:104:104": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:104:104",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 104,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "User: [cron:26e371e0-c106-4a8c-bfe4-e8033b4c9346 每日项目状态追踪] 请执行项目状态追踪脚本: python3 /root/.openclaw/workspace/scripts/auto_project_tracker.py 并简要报告检测到的项目状态变化。 Current time: Saturday, April 18th, 2026 - 8:00 AM (Asia/Shanghai) / 2026-04-18 00:00 UTC Return your summary as plain text;",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "asia/shanghai",
+        "user",
+        "cron",
+        "26e371e0",
+        "c106",
+        "4a8c",
+        "bfe4",
+        "e8033b4c9346"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:105:105": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:105:105",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 105,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "Assistant: ## 每日项目状态追踪报告 (2026-04-18) **分析概要:** - 分析会话: 29个 - 处理消息: 349条 **项目状态:** | 项目 | 状态 | |------|------| | OCT-MDD论文 | ✅ 已完成 | | 年轻组论文 | ✅ 已完成 | | 知识库构建 | ✅ 已完成 | | 系统优化 | ✅ 已完成 | **状态变化:** 无 所有4个项目均保持\"已完成\"状态，本检测周期内未发现需要关注的状态变更。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "oct-mdd论文",
+        "assistant",
+        "每日",
+        "项目",
+        "状态",
+        "追踪",
+        "报告",
+        "分析"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:106:106": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:106:106",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 106,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:107:107": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:107:107",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 107,
+      "endLine": 107,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:108:108": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:108:108",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 108,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:109:109": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:109:109",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 109,
+      "endLine": 109,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:110:110": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:110:110",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 110,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:111:111": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:111:111",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 111,
+      "endLine": 111,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:112:112": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:112:112",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 112,
+      "endLine": 112,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:113:113": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:113:113",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 113,
+      "endLine": 113,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:114:114": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:114:114",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 114,
+      "endLine": 114,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:115:115": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:115:115",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 115,
+      "endLine": 115,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:116:116": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:116:116",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 116,
+      "endLine": 116,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:117:117": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:117:117",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 117,
+      "endLine": 117,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:118:118": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:118:118",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 118,
+      "endLine": 118,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:119:119": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:119:119",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 119,
+      "endLine": 119,
+      "source": "memory",
+      "snippet": "Assistant: OpenAlex API 无法访问（网络超时）。记录失败状态：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "assistant",
+        "openalex",
+        "api",
+        "无法",
+        "访问",
+        "记录",
+        "失败"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:120:120": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:120:120",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 120,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-18 05:04:33 GMT+8] Exec failed (sharp-la, signal SIGTERM) :: HTTP_CODE: 000 An async command you ran earlier has completed. The result is shown in the system messages above. Handle the result internally. Do not relay it to the user unless explic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "sharp-la",
+        "http-code",
+        "user",
+        "system",
+        "untrusted",
+        "gmt",
+        "exec",
+        "failed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:121:121": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:121:121",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 121,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Assistant: **📊 文献自动更新 - 执行报告** | 项目 | 结果 | |------|------| | **时间** | 2026-04-18 05:02 | | **状态** | ❌ 失败 (网络超时) | | **原因** | OpenAlex API 连接失败 (HTTP 000) | | **记录** | 已保存至 `logs/literature增量_2026-04-18.md` | **诊断:** WSL2网络无法访问 api.openalex.org **建议:** 1. 检查宿主机网络 2. 下次cron可能恢复 3.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "logs/literature增量-2026-04-18.md",
+        "api.openalex.org",
+        "assistant",
+        "文献",
+        "自动",
+        "更新",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:122:122": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:122:122",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 122,
+      "endLine": 122,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:123:123": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:123:123",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 123,
+      "endLine": 123,
+      "source": "memory",
+      "snippet": "Assistant: 执行文献增量检索任务。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "执行",
+        "文献",
+        "增量",
+        "检索",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:124:124": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:124:124",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 124,
+      "endLine": 124,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:125:125": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:125:125",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 125,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Assistant: 执行文献增量更新任务...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "执行",
+        "文献",
+        "增量",
+        "更新",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:126:126": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:126:126",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 126,
+      "endLine": 126,
+      "source": "memory",
+      "snippet": "Assistant: API返回空，让我尝试更广泛的查询：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "api",
+        "返回",
+        "尝试",
+        "广泛",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:127:127": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:127:127",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 127,
+      "endLine": 127,
+      "source": "memory",
+      "snippet": "Assistant: 语法错误，修正排序参数：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "语法",
+        "错误",
+        "修正",
+        "排序",
+        "参数"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:128:128": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:128:128",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 128,
+      "endLine": 128,
+      "source": "memory",
+      "snippet": "Assistant: 无抑郁症相关文献。换更精确关键词：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "抑郁",
+        "相关",
+        "文献",
+        "精确",
+        "关键"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:129:129": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:129:129",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 129,
+      "endLine": 129,
+      "source": "memory",
+      "snippet": "Assistant: 找到1篇相关文献，记录到日志：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "找到",
+        "相关",
+        "文献",
+        "记录",
+        "日志"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:130:130": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:130:130",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 130,
+      "endLine": 130,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:131:131": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:131:131",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 131,
+      "endLine": 131,
+      "source": "memory",
+      "snippet": "Assistant: 让我简化查询：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "简化",
+        "查询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:132:132": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:132:132",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 132,
+      "endLine": 132,
+      "source": "memory",
+      "snippet": "Assistant: ## 执行完成 **查询结果**: - 📅 时间范围: 2026-04-11 ~ 2026-04-18 (7天内) - 🔍 关键词: \"retinal OCT\" AND depression - 📄 找到相关文献: 8篇 - ⭐ 符合引用数≥10: 0篇 **原因**: 近7天新发表的文献暂无引用积累，符合条件的文献数为0。 **日志已保存**: `/root/.openclaw/workspace/logs/literature增量_2026-04-18.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "执行",
+        "完成",
+        "查询",
+        "结果",
+        "时间",
+        "范围",
+        "天内"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:133:133": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:133:133",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 133,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-19 11:51:20 GMT+8] Reasoning ON - include <think>. Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Sun 2026-04-19 11:51 GMT+8] 设置为开机自动启动会、后台自动运行，不需要打开ubuntu",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "system",
+        "gmt",
+        "reasoning",
+        "include",
+        "think",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 我来帮你设置OpenClaw开机自动启动和后台运行。 对于WSL2环境，有两种常用方案： **方案1: Windows计划任务** (最推荐，WSL启动时自动运行) **方案2: Cron @reboot** (Linux原生方式)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "我来",
+        "设置",
+        "openclaw",
+        "开机",
+        "自动",
+        "启动",
+        "后台"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 当前OpenClaw和代理都在运行中。让我帮你设置开机自启：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "当前",
+        "openclaw",
+        "代理",
+        "都在",
+        "运行",
+        "设置",
+        "开机"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 我创建一个启动脚本，然后你可以在Windows端设置计划任务让它开机自动运行：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "创建",
+        "一个",
+        "启动",
+        "脚本",
+        "然后",
+        "可以",
+        "windows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 已创建启动脚本。现在有几种方式实现开机自启： --- ## 方式1: Windows任务计划程序 (推荐) 1. **打开任务计划程序** (`Win+R` → `taskschd.msc`) 2. **创建基本任务**: - 名称: `OpenClaw AutoStart` - 触发器: 计算机启动时 - 操作: 启动程序 - 程序: `%USERPROFILE%\\.openclaw\\scripts\\start_openclaw.bat` 3. **完成** --- ## 方式2: 放入启动文件夹 1. 复制 `C:\\Users\\",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "taskschd.msc",
+        "start-openclaw.bat",
+        "assistant",
+        "创建",
+        "启动",
+        "脚本",
+        "现在",
+        "方式"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Sun 2026-04-19 11:54 GMT+8] Windows任务计划程序 (推荐)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 你的Windows用户名是 `CUI`。我来把启动脚本复制过去：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "你的",
+        "windows",
+        "用户",
+        "cui",
+        "我来",
+        "启动",
+        "脚本"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 找到用户名是 `CUI`。我来帮你把脚本复制到Windows启动目录并创建计划任务：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "找到",
+        "用户",
+        "cui",
+        "我来",
+        "脚本",
+        "复制",
+        "windows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 已复制到启动文件夹。再帮你创建一个更可靠的计划任务配置（带管理员权限）：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "复制",
+        "启动",
+        "文件",
+        "创建",
+        "一个",
+        "可靠",
+        "计划"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 已完成配置 **方式A - 启动文件夹** (默认已启用) - 脚本已放入: `%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\` - 下次Windows重启后自动运行 **方式B - 任务计划程序** (可选，更可靠) 如需使用，以管理员身份运行PowerShell并执行： ``` %USERPROFILE%\\.openclaw\\scripts\\create_task.ps1 ``` --- **启动流程**: ``` Windows启动 → WSL自动启动",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "create-task.ps1",
+        "assistant",
+        "完成",
+        "配置",
+        "方式",
+        "启动",
+        "文件",
+        "默认"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: [cron:7876fb5f-ba17-473b-bf6b-0fd3f459a857 眼科专业知识检索与知识库构建] # 眼科知识库维护（轻量版） 执行眼科文献增量更新： 1. 搜索OpenAlex最近7天眼科文献（限制20篇） 2. 筛选引用>50的高影响力文献 3. 验证DOI有效性 4. 追加到现有知识库（不去重检查，减少计算） 5. 输出简要报告（<300词） ## 简化原则 - 不执行完整主题轮换 - 不验证是否已收录 - 只追加新文献，不重构知识库 - 使用简单文本格式输出 ## 数据来源 OpenAlex API: https:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "user",
+        "cron",
+        "7876fb5f",
+        "ba17",
+        "473b",
+        "bf6b",
+        "0fd3f459a857",
+        "眼科"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: ## 眼科知识库增量更新报告 (2026-04-19) ### 执行状态: ❌ 失败 **原因**: 网络连接问题，外部学术数据库无法访问 **尝试的操作**: | 方法 | 结果 | |------|------| | OpenAlex API (curl) | 无响应/超时 | | academic-research skill脚本 | 连接被重置 | | Web搜索 | fetch失败 | | Web抓取 | 内部IP阻断 | **结论**: 当前环境网络策略限制了外部学术资源（OpenAlex/Google Scholar）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "无响应/超时",
+        "academic-research",
+        "openalex/google",
+        "assistant",
+        "眼科",
+        "知识",
+        "增量"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-19 11:56:14 GMT+8] Exec completed (tidal-se, code 1) :: ^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/json/decoder.py\", line 337, in decode obj, end = self.raw_decode(s, idx=_w(s, 0).end()) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/… System (",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "tidal-se",
+        "self.raw-decode",
+        "user",
+        "system",
+        "untrusted",
+        "gmt",
+        "exec",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: [cron:dc7672d6-6194-4dcd-b7e9-69f247da0eac 文献自动下载与分析] # 文献增量更新 (OpenAlex版) 每10分钟执行一次，使用OpenAlex API直接检索。 ## 执行步骤 1. 直接调用 OpenAlex API: https://api.openalex.org/works 2. 搜索近7天OCT-抑郁症相关新文献 3. 筛选引用数≥10的文献 4. 记录元数据到日志 ## OpenAlex查询参数 - filter: from_publication_date:{7天前},concep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api.openalex.org/works",
+        "搜索近7天oct-抑郁症相关新文献",
+        "from-publication-date",
+        "user",
+        "cron:dc7672d6",
+        "4dcd",
+        "b7e9",
+        "69f247da0eac"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: ## 执行完成 ✅ | 项目 | 结果 | |------|------| | 检索范围 | 2026-04-12 ~ 2026-04-18 (7天) | | 匹配文献 | 8条 | | 引用≥10 | 0条 | | 日志 | `logs/literature增量_2026-04-19.md` | **结论**: 近7天无符合条件（引用数≥10）的新文献，检索到的8条文献均暂无引用。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "logs/literature增量-2026-04-19.md",
+        "assistant",
+        "执行",
+        "完成",
+        "项目",
+        "结果",
+        "检索",
+        "范围"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: [cron:7118170b-e284-4c87-8827-77d2715f0d55 每周用户偏好分析] 请执行用户偏好分析脚本: python3 /root/.openclaw/workspace/scripts/auto_learn_preferences.py 并报告结果。 Current time: Sunday, April 19th, 2026 - 11:55 AM (Asia/Shanghai) / 2026-04-19 03:55 UTC Return your summary as plain text; it will b",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "asia/shanghai",
+        "user",
+        "cron",
+        "7118170b",
+        "e284",
+        "4c87",
+        "77d2715f0d55",
+        "每周"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 脚本执行完成，让我查看生成的偏好分析报告：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "脚本",
+        "执行",
+        "完成",
+        "查看",
+        "生成",
+        "偏好",
+        "分析"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 每周用户偏好分析报告 **分析完成时间:** 2026-04-19 11:55:21 ### 分析概况 - **最近会话数:** 96 个 - **分析消息数:** 7,051 条 ### 偏好摘要 | 维度 | 结果 | |------|------| | **沟通风格** | 详细 | | **语言** | 中文 (zh-CN) | | **研究兴趣** | AMD, 视网膜, 黄斑, OCT, 投稿, 精神, 糖尿病, 数据, 眼科, MDD | | **常用工具** | R语言, 统计分析, Python, 定时",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "zh-cn",
+        "assistant",
+        "每周",
+        "用户",
+        "偏好",
+        "分析",
+        "报告",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: [cron:bf2276ce-d8dd-47aa-9239-8c633d138421 GitHub自动同步] ## GitHub自动同步任务 执行工作区自动同步到GitHub： 1. 检查工作区是否有未提交更改 2. 如有更改，创建备份 3. 提交所有更改（memory/, knowledge_base/, skills/等） 4. 推送到GitHub仓库 5. 记录同步日志 同步内容: - 记忆文件 (memory/) - 知识库 (knowledge_base/) - 技能文件 (skills/) - 维护计划 (HEARTBEAT.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "备份",
+        "knowledge-base",
+        "skills/等",
+        "heartbeat.md",
+        "user",
+        "cron:bf2276ce",
+        "d8dd",
+        "47aa"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ GitHub自动同步完成 | 项目 | 状态 | |------|------| | **未提交更改** | 1个文件 (memory/2026-04-19-auto-summary.md) | | **备份** | 已创建 (backup_20260419_115143.tar.gz) | | **提交** | ✓ 成功 | | **推送** | ✓ 推送到 origin/develop | | **提交哈希** | c1d13e1 | | **同步日志** | 已更新 .github_sync_log.md | **提",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "backup-20260419-115143.tar.gz",
+        "origin/develop",
+        "github-sync-log.md",
+        "assistant",
+        "github",
+        "自动"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "User: [cron:1d34748a-6e89-4f74-9e16-197d9ebb4cd7 每日会话自动摘要] 请执行每日会话摘要脚本: python3 /root/.openclaw/workspace/scripts/daily_summary.py 并报告结果。 Current time: Sunday, April 19th, 2026 - 12:01 AM (Asia/Shanghai) / 2026-04-18 16:01 UTC Return your summary as plain text; it will be deliver",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "asia/shanghai",
+        "user",
+        "cron",
+        "1d34748a",
+        "6e89",
+        "4f74",
+        "9e16",
+        "197d9ebb4cd7"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **每日会话摘要已完成** | 项目 | 结果 | |------|------| | 执行时间 | 2026-04-19 00:01:23 | | 会话数 | 2 | | 总消息 | 10 | | 输出文件 | `memory/2026-04-19-auto-summary.md` | **关键任务记录:** 1. **文献自动下载与分析** (cron:dc7672d6) - OpenAlex版增量更新，已完成 ✅ 2. **每日会话自动摘要** (cron:1d34748a) - 已执行 ✅ --- 📁 摘要已保存至 `",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "assistant",
+        "每日",
+        "会话",
+        "摘要",
+        "完成",
+        "项目",
+        "结果",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:134:134": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:134:134",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 134,
+      "endLine": 134,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-18 06:01:24 GMT+8] ## 系统健康检查报告 ✅ System: System: | 检查项 | 状态 | 详情 | System: |--------|------|------| System: | OpenClaw Gateway | ✅ 正常 | 运行中 (PID 3680) | System: | Mihomo 代理 | ✅ 正常 | 运行中 (PID 288) | System: | 网络连接 (PubMed) | ✅ 正常 | HTTP 200 | System: | 磁盘空间",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "user",
+        "system",
+        "gmt",
+        "系统",
+        "健康",
+        "检查"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:135:135": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:135:135",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 135,
+      "endLine": 135,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:136:136": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:136:136",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 136,
+      "endLine": 136,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-18 06:04:48 GMT+8] ## GitHub自动同步完成 ✅ System: System: **状态**: 成功 System: System: **变更摘要**: System: - 提交: `15923eb` System: - 文件变更: 12个文件，+5701/-1123 行 System: System: **已同步文件**: System: | 类型 | 文件 | System: |------|------| System: | 工作区 | DREAMS.md, HEARTBEAT",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "dreams.md",
+        "user",
+        "system",
+        "gmt",
+        "github",
+        "自动",
+        "同步",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:137:137": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:137:137",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 137,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:138:138": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:138:138",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 138,
+      "endLine": 138,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:139:139": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:139:139",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 139,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:140:140": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:140:140",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 140,
+      "endLine": 140,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:141:141": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:141:141",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 141,
+      "endLine": 141,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:142:142": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:142:142",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 142,
+      "endLine": 142,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-18 08:00:11 GMT+8] ## 每日项目状态追踪报告 (2026-04-18) System: System: **分析概要:** System: - 分析会话: 29个 System: - 处理消息: 349条 System: System: **项目状态:** System: | 项目 | 状态 | System: |------|------| System: | OCT-MDD论文 | ✅ 已完成 | System: | 年轻组论文 | ✅ 已完成 | System: | 知识库构建 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "oct-mdd论文",
+        "user",
+        "system",
+        "gmt",
+        "每日",
+        "项目",
+        "状态",
+        "追踪"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:143:143": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:143:143",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 143,
+      "endLine": 143,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:144:144": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:144:144",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 144,
+      "endLine": 144,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /root/.openclaw/workspace/HEARTBEAT.md (exact case). Do n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:145:145": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:145:145",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 145,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 这些是之前已处理的错误。网络问题导致无法访问外部学术数据库，报告已生成并存档。 如需重试，请在网络恢复后告诉我，或告知是否有其他方式获取文献数据（如本地VPN、代理等）。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-19T04:01:16.990Z",
+      "lastRecalledAt": "2026-04-19T04:01:16.990Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "网络",
+        "assistant",
+        "这些",
+        "之前",
+        "处理",
+        "错误",
+        "问题",
+        "导致"
       ]
     }
   }
