@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T07:40:43.764Z",
+  "updatedAt": "2026-04-25T14:34:54.029Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -64415,18 +64415,19 @@
       "source": "memory",
       "snippet": "原因: 网络连接问题导致无法访问外部学术数据库：",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "网络",
@@ -64447,18 +64448,19 @@
       "source": "memory",
       "snippet": "原因: OpenAlex API: 连接超时/被拒绝; Web Search: 获取失败; Web Fetch: 解析为内部IP被阻止",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "连接超时/被拒绝",
@@ -64479,18 +64481,19 @@
       "source": "memory",
       "snippet": "尝试的操作: ❌ 直接curl OpenAlex API → 无响应; ❌ 使用academic-research skill脚本 → 连接重置; ❌ Web搜索 → fetch失败; ❌ Web抓取 → 内部IP阻断",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "使用academic-research",
@@ -64511,18 +64514,19 @@
       "source": "memory",
       "snippet": "结论: 当前环境网络策略限制了外部学术资源访问。建议：",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "网络",
@@ -64543,18 +64547,19 @@
       "source": "memory",
       "snippet": "结论: 检查防火墙/代理设置; 或使用已缓存数据手动更新",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "检查防火墙/代理设置",
@@ -64575,18 +64580,19 @@
       "source": "memory",
       "snippet": "待补充: 需检索日期范围: 2026-04-12 ~ 2026-04-19; 目标: 20篇眼科文献，按引用排序，筛选>50引用的论文",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "补充",
@@ -64607,17 +64613,18 @@
       "source": "memory",
       "snippet": "待补充: *执行时间: 2026-04-19 11:55 UTC+8*",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-19T19:00:00.477Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-25"
       ],
       "conceptTags": [
         "补充",
@@ -64634,19 +64641,20 @@
       "source": "memory",
       "snippet": "问题: **原因**: 网络工具不可用（web_search/web_fetch 均报错）; **影响**: 无法访问 OpenAlex API 获取最新文献; **时间**: 2026-04-18 09:50",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
       "recallDays": [
         "2026-04-18",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "网络",
@@ -64667,19 +64675,20 @@
       "source": "memory",
       "snippet": "尝试的操作: web_search → 报错 fetch failed; web_fetch (OpenAlex API) → Blocked: resolves to private/internal/special-use IP address; scholar-search.py 脚本 → 复杂解释器调用被拒绝",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
       "recallDays": [
         "2026-04-18",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "web-search",
@@ -64700,19 +64709,20 @@
       "source": "memory",
       "snippet": "后续建议: 检查网络/代理配置; 待网络恢复后重新执行检索; 可使用cron重试机制",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
       "recallDays": [
         "2026-04-18",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "网络",
@@ -64733,19 +64743,20 @@
       "source": "memory",
       "snippet": "知识库当前状态: 最后更新: 2026-04-15; 文献库文件: PAPERS.md (11136 bytes, 约50+篇); 现有更新记录: 4篇 (03-28, 03-29, 04-14, 04-15)",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
       "recallDays": [
         "2026-04-18",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "papers.md",
@@ -64766,19 +64777,20 @@
       "source": "memory",
       "snippet": "知识库当前状态: *Generated: 2026-04-18 09:50 CST*",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T04:01:16.990Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
       "recallDays": [
         "2026-04-18",
         "2026-04-19",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "知识",
@@ -69277,17 +69289,18 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 1157 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-11.txt:2-2, memory/.dreams/session-corpus/2026-04-11.txt:4-4, memory/.dreams/session-corpus/2026-04-11.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T19:00:00.477Z",
-      "lastRecalledAt": "2026-04-19T19:00:00.477Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "21faa0df9302"
       ],
       "recallDays": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-25"
       ],
       "conceptTags": [
         "1.00",
@@ -73320,17 +73333,18 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 1223 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-11.txt:2-2, memory/.dreams/session-corpus/2026-04-11.txt:4-4, memory/.dreams/session-corpus/2026-04-11.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "1.00",
@@ -73351,17 +73365,18 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 1073 memories.; confidence: 0.90; evidence: memory/.dreams/session-corpus/2026-04-11.txt:1-1, memory/.dreams/session-corpus/2026-04-11.txt:3-3, memory/.dreams/session-corpus/2026-04-11.txt:5-5; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "0.90",
@@ -73382,17 +73397,18 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "logs/literature增量-2026-04-14.md",
@@ -73413,17 +73429,18 @@
       "source": "memory",
       "snippet": "系统状态: ✅ OpenClaw Gateway 运行中 (PID 457); ✅ Mihomo 代理 运行中; ⚠️ 网络: 需代理访问外网",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "gateway",
@@ -73444,17 +73461,18 @@
       "source": "memory",
       "snippet": "用户交互摘要: **眼科热点咨询**: 用户询问最近眼科研究热点，我基于本地知识库提供了AI/OCT、抗VEGF、干眼症指南、青光眼MIGS、神经眼科等方向; **自动赚钱咨询**: 用户问我是否可以自动赚钱，我明确说明能力范围（学术研究支持）而非商业盈利",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "我基于本地知识库提供了ai/oct",
@@ -73475,17 +73493,18 @@
       "source": "memory",
       "snippet": "定时任务状态: 文献增量更新: ⚠️ 因DNS污染暂停; GitHub自动同步: ✅ 正常运行; 系统健康检查: ✅ 正常运行",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "任务",
@@ -73506,17 +73525,18 @@
       "source": "memory",
       "snippet": "定时任务状态: *Memory flush updated: 2026-04-20 09:46*",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T19:00:12.572Z",
-      "lastRecalledAt": "2026-04-20T19:00:12.572Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-25"
       ],
       "conceptTags": [
         "任务",
@@ -78842,18 +78862,19 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 1314 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-11.txt:2-2, memory/.dreams/session-corpus/2026-04-11.txt:4-4, memory/.dreams/session-corpus/2026-04-11.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T07:39:30.851Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "1.00",
@@ -78874,18 +78895,19 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 1157 memories.; confidence: 0.90; evidence: memory/.dreams/session-corpus/2026-04-11.txt:1-1, memory/.dreams/session-corpus/2026-04-11.txt:3-3, memory/.dreams/session-corpus/2026-04-11.txt:5-5; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T07:39:30.851Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "0.90",
@@ -78906,18 +78928,19 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T07:39:30.851Z",
-      "lastRecalledAt": "2026-04-22T07:39:30.851Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
       "queryHashes": [
         "f52400c81d76"
       ],
       "recallDays": [
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "logs/literature增量-2026-04-14.md",
@@ -84959,6 +84982,99 @@
       "conceptTags": [
         "heartbeat-ok",
         "assistant"
+      ]
+    },
+    "memory:memory/2026-04-22.md:268:271": {
+      "key": "memory:memory/2026-04-22.md:268:271",
+      "path": "memory/2026-04-22.md",
+      "startLine": 268,
+      "endLine": 271,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 661 memories.; confidence: 1.00; evidence: memory/2026-04-14.md:323-326, memory/.dreams/session-corpus/2026-04-15.txt:2-2, memory/.dreams/session-corpus/2026-04-15.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-25T14:34:54.029Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
+      "queryHashes": [
+        "7b7a9134bc2c"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-14.md",
+        "323-326",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-22.md:272:275": {
+      "key": "memory:memory/2026-04-22.md:272:275",
+      "path": "memory/2026-04-22.md",
+      "startLine": 272,
+      "endLine": 275,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 592 memories.; confidence: 0.91; evidence: memory/2026-04-14.md:327-330, memory/.dreams/session-corpus/2026-04-15.txt:1-1, memory/.dreams/session-corpus/2026-04-15.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-25T14:34:54.029Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
+      "queryHashes": [
+        "7b7a9134bc2c"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "0.91",
+        "memory/2026-04-14.md",
+        "327-330",
+        "1-1",
+        "4-4",
+        "reflections",
+        "theme",
+        "user"
+      ]
+    },
+    "memory:memory/2026-04-22.md:278:280": {
+      "key": "memory:memory/2026-04-22.md:278:280",
+      "path": "memory/2026-04-22.md",
+      "startLine": 278,
+      "endLine": 280,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-25T14:34:54.029Z",
+      "lastRecalledAt": "2026-04-25T14:34:54.029Z",
+      "queryHashes": [
+        "7b7a9134bc2c"
+      ],
+      "recallDays": [
+        "2026-04-25"
+      ],
+      "conceptTags": [
+        "logs/literature增量-2026-04-14.md",
+        "0.58",
+        "memory/2026-04-14.md",
+        "348-351",
+        "possible",
+        "lasting",
+        "truths",
+        "文献"
       ]
     }
   }
