@@ -112,3 +112,4 @@ Thumbs.db
 # Backup directories
 .backup/
 .claw-code-parity/
+koan-literature/src-tauri/target/
