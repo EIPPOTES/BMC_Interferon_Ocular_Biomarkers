@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-26T19:00:00.670Z",
+  "updatedAt": "2026-04-29T19:00:00.552Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -63956,13 +63956,13 @@
       ],
       "conceptTags": [
         "网络",
-        "原因",
-        "连接",
-        "问题",
-        "导致",
-        "无法",
-        "访问",
-        "外部"
+        "目标",
+        "眼科",
+        "文献",
+        "引用",
+        "排序",
+        "筛选",
+        "论文"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -63991,14 +63991,14 @@
         "2026-04-27"
       ],
       "conceptTags": [
+        "网络",
+        "0.62",
+        "memory/2026-04-19.md",
+        "6-6",
         "连接超时/被拒绝",
-        "原因",
-        "openalex",
-        "api",
-        "连接",
-        "拒绝",
-        "web",
-        "获取"
+        "light",
+        "sleep",
+        "openclaw:dreaming:light:start"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -64027,14 +64027,14 @@
         "2026-04-27"
       ],
       "conceptTags": [
+        "连接超时/被拒绝",
+        "0.62",
+        "memory/2026-04-19.md",
+        "7-9",
         "使用academic-research",
-        "尝试",
-        "操作",
-        "直接",
-        "curl",
-        "openalex",
-        "api",
-        "响应"
+        "recalls",
+        "status",
+        "staged"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -64064,13 +64064,13 @@
       ],
       "conceptTags": [
         "网络",
-        "结论",
-        "当前",
-        "环境",
-        "策略",
-        "限制",
-        "外部",
-        "学术"
+        "使用academic-research",
+        "0.62",
+        "memory/2026-04-19.md",
+        "12-15",
+        "recalls",
+        "status",
+        "staged"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -64099,14 +64099,14 @@
         "2026-04-27"
       ],
       "conceptTags": [
+        "网络",
+        "0.62",
+        "memory/2026-04-19.md",
+        "18-18",
         "检查防火墙/代理设置",
-        "结论",
-        "检查",
-        "防火",
-        "代理",
-        "设置",
-        "使用",
-        "数据"
+        "recalls",
+        "status",
+        "staged"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -64135,14 +64135,14 @@
         "2026-04-27"
       ],
       "conceptTags": [
-        "补充",
-        "检索",
-        "日期",
-        "范围",
-        "目标",
-        "眼科",
-        "文献",
-        "引用"
+        "检查防火墙/代理设置",
+        "0.62",
+        "memory/2026-04-19.md",
+        "19-20",
+        "recalls",
+        "status",
+        "staged",
+        "candidate"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -78425,10 +78425,10 @@
         "0.58",
         "memory/2026-04-14.md",
         "348-351",
-        "possible",
-        "lasting",
-        "truths",
-        "文献"
+        "0.62",
+        "memory/2026-04-20.md",
+        "388-390",
+        "candidate"
       ],
       "promotedAt": "2026-04-26T19:00:00.670Z"
     },
@@ -84428,19 +84428,21 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 661 memories.; confidence: 1.00; evidence: memory/2026-04-14.md:323-326, memory/.dreams/session-corpus/2026-04-15.txt:2-2, memory/.dreams/session-corpus/2026-04-15.txt:3-3; note: reflection",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T14:34:54.029Z",
-      "lastRecalledAt": "2026-04-26T19:00:00.670Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-25",
         "2026-04-26",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-04-30",
+        "2026-04-29"
       ],
       "conceptTags": [
         "1.00",
@@ -84461,19 +84463,21 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 592 memories.; confidence: 0.91; evidence: memory/2026-04-14.md:327-330, memory/.dreams/session-corpus/2026-04-15.txt:1-1, memory/.dreams/session-corpus/2026-04-15.txt:4-4; note: reflection",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T14:34:54.029Z",
-      "lastRecalledAt": "2026-04-26T19:00:00.670Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-25",
         "2026-04-26",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-04-30",
+        "2026-04-29"
       ],
       "conceptTags": [
         "0.91",
@@ -84489,24 +84493,26 @@
     "memory:memory/2026-04-22.md:278:280": {
       "key": "memory:memory/2026-04-22.md:278:280",
       "path": "memory/2026-04-22.md",
-      "startLine": 278,
-      "endLine": 280,
+      "startLine": 13,
+      "endLine": 15,
       "source": "memory",
-      "snippet": "Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条",
+      "snippet": "- Candidate: Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条 - confidence: 0.62 - evidence: memory/2026-04-21.md:308-310",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T14:34:54.029Z",
-      "lastRecalledAt": "2026-04-26T19:00:00.670Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-25",
         "2026-04-26",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-04-30",
+        "2026-04-29"
       ],
       "conceptTags": [
         "logs/literature增量-2026-04-14.md",
@@ -84517,7 +84523,8 @@
         "lasting",
         "truths",
         "文献"
-      ]
+      ],
+      "promotedAt": "2026-04-29T19:00:00.552Z"
     },
     "memory:memory/.dreams/session-corpus/2026-04-25.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-25.txt:1:1",
@@ -88899,6 +88906,897 @@
         "heartbeat-ok",
         "系统",
         "正常"
+      ]
+    },
+    "memory:memory/2026-04-30.md:6:9": {
+      "key": "memory:memory/2026-04-30.md:6:9",
+      "path": "memory/2026-04-30.md",
+      "startLine": 6,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "医学文献自主复现 (周四/技术方法): **时间**: 2026-04-30 01:00 (cron触发); **主题**: OCT 技术方法方向; **覆盖文献**: 4篇; **OCTCube-M** — 3D多模态OCT基础模型 (Nature Biomedical Engineering, 2026年4月) — GitHub: ZucksLiu/OCTCubeM",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "e757f9360616"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "周四/技术方法",
+        "octcube-m",
+        "zucksliu/octcubem",
+        "医学",
+        "文献",
+        "自主",
+        "复现",
+        "周四"
+      ]
+    },
+    "memory:memory/2026-04-30.md:10:13": {
+      "key": "memory:memory/2026-04-30.md:10:13",
+      "path": "memory/2026-04-30.md",
+      "startLine": 10,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "医学文献自主复现 (周四/技术方法): **CUNEX** — 开源角膜AS-OCT分割框架 (Cornea, 2026年4月) — GitHub: lkandakji/CUNEX; **OCTolyzer** — 开源OCT/SLO自动分析工具包 (arXiv 2407.14128) — GitHub: jaburke166/OCTolyzer; **Swiss RetinAI** — 多中心AI-OCT实施挑战与建议 (PMC13095367); **报告**: `/root/.openclaw/workspace/literature_reprod",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "e757f9360616"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "周四/技术方法",
+        "开源角膜as-oct分割框架",
+        "lkandakji/cunex",
+        "开源oct/slo自动分析工具包",
+        "2407.14128",
+        "jaburke166/octolyzer",
+        "多中心ai-oct实施挑战与建议",
+        "医学"
+      ]
+    },
+    "memory:memory/2026-04-30.md:14:14": {
+      "key": "memory:memory/2026-04-30.md:14:14",
+      "path": "memory/2026-04-30.md",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "医学文献自主复现 (周四/技术方法): **关键发现**: 三篇有GitHub代码仓库，对崔医生OCT-MDD研究有直接方法学参考价值",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "e757f9360616"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "周四/技术方法",
+        "对崔医生oct-mdd研究有直接方法学参考价值",
+        "医学",
+        "文献",
+        "自主",
+        "复现",
+        "周四",
+        "技术"
+      ]
+    },
+    "memory:memory/2026-04-30.md:17:18": {
+      "key": "memory:memory/2026-04-30.md:17:18",
+      "path": "memory/2026-04-30.md",
+      "startLine": 17,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "备忘: 可后续探索: OCTCube迁移学习用于MDD-OCT分类; OCTolyzer可提取100+脉络膜/视网膜新指标",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "e757f9360616"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "octcube迁移学习用于mdd-oct分类",
+        "脉络膜/视网膜新指标",
+        "探索",
+        "octcube",
+        "迁移",
+        "学习",
+        "用于",
+        "mdd"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` - 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "e29ad1ab29b1"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "logs/literature增量-2026-04-14.md",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "文献",
+        "增量"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 你好，崔医生！👁️ 系统运行正常。有什么需要我帮忙的吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "你好",
+        "医生",
+        "系统",
+        "运行",
+        "正常",
+        "什么",
+        "需要",
+        "帮忙"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: 现在你是哪个模型",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "现在",
+        "你是",
+        "哪个",
+        "模型"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 当前使用的是 **DeepSeek V4 Pro** (`deepseek/deepseek-v4-pro`)。 - 默认模型：DeepSeek V4 Flash - 备用模型：千帆 DeepSeek V3.2、DeepSeek V4 Pro 需要切换模型吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "deepseek/deepseek-v4-pro",
+        "v3.2",
+        "当前",
+        "使用",
+        "的是",
+        "deepseek",
+        "pro",
+        "默认"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: 你的上下文长度是多少",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "你的",
+        "上下文",
+        "长度",
+        "多少"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 根据当前会话状态： - **当前上下文长度**: 131K tokens - **可用模型**: - DeepSeek V4 Flash: 128K 上下文 - DeepSeek V4 Pro: 128K 上下文（当前使用） - 千帆 DeepSeek V3.2: 128K 上下文 三者都是 128K tokens 上下文上限。当前已使用 30K/131K（23%），空间还很充裕。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "v3.2",
+        "30k/131k",
+        "根据",
+        "当前",
+        "会话",
+        "状态",
+        "上下文",
+        "长度"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: 只有这么点吗？从服务器上读取",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "只有",
+        "这么",
+        "服务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 让我直接检查 OpenClaw 的模型配置。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "直接",
+        "检查",
+        "openclaw",
+        "模型",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 从服务器配置来看，目前所有可用模型及上下文长度如下： | 模型 | 上下文长度 | 输出上限 | 价格(输入/输出) | |------|-----------|---------|-----------------| | **DeepSeek V4 Flash** (当前) | 131K | 8K | $0.10/$0.10 | | **DeepSeek V4 Pro** | 131K | 8K | $0.50/$1.00 | | DeepSeek Chat (Legacy) | 131K | 8K | $0.28/$0.42 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "输入/输出",
+        "0.10",
+        "0.50",
+        "1.00",
+        "0.28",
+        "0.42",
+        "服务",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: DeepSeekV4 pro的上下文有1M呀",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "deepseekv4",
+        "pro",
+        "上下文"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 你说得对，DeepSeek V4 Pro 官方宣传确实是 1M tokens 上下文。让我核实一下 API 实际的上下文限制。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "说得",
+        "deepseek",
+        "pro",
+        "官方",
+        "宣传",
+        "确实",
+        "tokens",
+        "上下文"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: 你完全正确！根据 DeepSeek 官方文档和多个来源： **DeepSeek V4 Pro 的真实上下文是 1M tokens（1,048,576 tokens）**，不是配置里写的 131K。 问题出在 OpenClaw 的配置里把 `contextWindow` 写成了 `131072`，这是错误的。让我修正配置：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "完全",
+        "正确",
+        "根据",
+        "deepseek",
+        "官方",
+        "多个",
+        "来源",
+        "pro"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 现在直接修正配置。问题出在 `models.providers.deepseek` 里的 `deepseek-v4-pro` 和 `deepseek-v4-flash` 的 `contextWindow` 和 `maxTokens` 不对。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "models.providers.deepseek",
+        "deepseek-v4-pro",
+        "deepseek-v4-flash",
+        "现在",
+        "直接",
+        "修正",
+        "配置",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 模型配置是受保护的，不能直接用 patch 修改。需要通过完整配置 apply，或直接编辑配置文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "模型",
+        "配置",
+        "保护",
+        "不能",
+        "直接",
+        "patch",
+        "修改",
+        "需要"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 配置已更新。需要重启 Gateway 使配置生效：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "gateway",
+        "配置",
+        "更新",
+        "需要",
+        "生效"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 已修正！现在的配置： | 模型 | 修改前 | 修改后 | |------|--------|--------| | **DeepSeek V4 Flash** | 131K / 输出8K | **1M / 输出131K** | | **DeepSeek V4 Pro** | 131K / 输出8K | **1M / 输出131K** | 确实是 DeepSeek V4 系列支持 1M tokens 上下文，之前配置文件写错了。现在已修正并热重启生效。不过你当前这个会话是重启前建立的，可能还是旧配置，新的对话才会用上新的上下文窗口。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "修正",
+        "现在",
+        "配置",
+        "模型",
+        "修改",
+        "deepseek",
+        "flash",
+        "131k"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 你好，崔医生 👁️ Gateway 已成功重启，DeepSeek V4 Flash/Pro 的上下文窗口现在正确配置为 **1M tokens** 了。有什么需要我帮忙的吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "gateway",
+        "flash/pro",
+        "你好",
+        "医生",
+        "成功",
+        "deepseek",
+        "flash",
+        "pro"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: 切换到deepseek pro",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "切换",
+        "deepseek",
+        "pro"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 已经是 **DeepSeek V4 Pro** 了。 现在上下文显示为 **39K / 1.0M (4%)**，1M 上下文窗口已生效。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "1.0m",
+        "已经",
+        "deepseek",
+        "pro",
+        "现在",
+        "上下文",
+        "显示",
+        "39k"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: 在现有模型中，哪个模型的数学推理能力更强",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "现有",
+        "模型",
+        "哪个",
+        "数学",
+        "推理",
+        "能力"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: 根据当前已配置的模型： | 模型 | 推理模式 | 上下文 | 特点 | |------|----------|--------|------| | **DeepSeek V4 Pro** | 支持 Thinking | 1M | 1.6T参数/49B活性，混合注意力，93.5% LiveCodeBench | | **DeepSeek V4 Flash** | 支持 Thinking | 1M | 284B参数/13B活性，轻量版 | | 千帆 DeepSeek V3.2 | 支持推理 | 98K | 免费 | | 千帆 ERNI",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "1.6t参数/49b活性",
+        "93.5",
+        "284b参数/13b活性",
+        "v3.2",
+        "根据",
+        "当前",
+        "配置",
+        "模型"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: 我的千帆模型是coding plan，主要是glm-5",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "主要是glm-5",
+        "我的",
+        "千帆",
+        "模型",
+        "coding",
+        "plan",
+        "主要是",
+        "glm"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 是的，我看到你的千帆配置里，`baiduqianfancodingplan` 这个 provider 下只有一个模型： - **千帆 Code Latest**（`qianfan-code-latest`）— 98K 上下文，免费 但没有配置 GLM-5。GLM-5（智谱 GLM-5）确实在千帆平台上有，如果你想用的话需要添加到配置里。 另外提一下，你还有一个普通的千帆 provider（`qianfan`），配置了： - **DeepSeek V3.2**（98K） - **ERNIE 5.0 Thinking**（119K） 需",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "qianfan-code-latest",
+        "glm-5",
+        "v3.2",
+        "5.0",
+        "我看到",
+        "你的",
+        "千帆",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: 你先查找一下千帆coding plan是什么",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "查找",
+        "一下",
+        "千帆",
+        "coding",
+        "plan",
+        "什么"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 找到了！让我获取更详细的官方文档：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:00:00.552Z",
+      "lastRecalledAt": "2026-04-29T19:00:00.552Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "找到",
+        "获取",
+        "详细",
+        "官方"
       ]
     }
   }

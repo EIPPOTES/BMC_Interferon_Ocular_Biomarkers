@@ -139,3 +139,8 @@
 - - recalls: 0 - status: staged - Candidate: 结论: 检查防火墙/代理设置; 或使用已缓存数据手动更新 - confidence: 0.62 - evidence: memory/2026-04-19.md:19-20 - recalls: 0 - status: staged - Candidate: 待补充: 需检索日期范围: 2026-04-12 ~ 2026-04-19; 目标: 20篇眼科文献，按引用排序，筛选>50引用的论文 [score=0.850 recalls=0 avg=0.620 source=memory/2026-04-19.md:49-56]
 <!-- openclaw-memory-promotion:memory:memory/2026-04-21.md:308:310 -->
 - - Candidate: Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条 - confidence: 0.62 - evidence: memory/2026-04-20.md:388-390 [score=0.835 recalls=0 avg=0.620 source=memory/2026-04-21.md:13-15]
+
+## Promoted From Short-Term Memory (2026-04-30)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-22.md:278:280 -->
+- - Candidate: Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条 - confidence: 0.62 - evidence: memory/2026-04-21.md:308-310 [score=0.828 recalls=0 avg=0.620 source=memory/2026-04-22.md:13-15]
