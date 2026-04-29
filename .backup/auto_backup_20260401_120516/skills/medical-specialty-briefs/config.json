@@ -1,0 +1,13 @@
+{
+  "name": "medical-specialty-briefs",
+  "version": "1.0.0",
+  "description": "Generate daily or on-demand medical research briefs for any medical specialty. Searches latest research from top-tier journals, delivers concise summaries with 1-sentence takeaways, images when available, and direct links.",
+  "update_url": "",
+  "author": "skillhub",
+  "license": "MIT",
+  "metadata": {
+    "skillhub_slug": "medical-specialty-briefs",
+    "installed_at": "2026-03-21T22:47:00Z",
+    "last_checked": "2026-03-22T02:31:00Z"
+  }
+}

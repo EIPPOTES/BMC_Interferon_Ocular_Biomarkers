@@ -1,0 +1,237 @@
+{
+  "knowledge_base": {
+    "name": "眼科临床专业知识库",
+    "version": "1.0.0",
+    "created_date": "2026-03-19",
+    "next_update": "2026-06-19",
+    "total_entries": 25,
+    "total_references": 22
+  },
+  "categories": [
+    {
+      "id": "retina",
+      "name": "视网膜疾病",
+      "diseases": [
+        {
+          "name": "年龄相关性黄斑变性 (AMD)",
+          "file": "clinical_knowledge_base.md",
+          "section": "1.1",
+          "keywords": ["AMD", "黄斑变性", "CNV", "抗VEGF", "玻璃膜疣"],
+          "key_references": [
+            {"title": "Molecular pathogenesis of retinal and choroidal vascular diseases", "citations": 517},
+            {"title": "Anti-VEGF-Resistant Retinal Diseases", "citations": 161}
+          ]
+        },
+        {
+          "name": "糖尿病视网膜病变 (DR)",
+          "file": "clinical_knowledge_base.md",
+          "section": "1.2",
+          "keywords": ["DR", "糖尿病视网膜病变", "DME", "黄斑水肿", "PRP"],
+          "key_references": [
+            {"title": "Deep learning vs human graders for DR severity", "citations": 217},
+            {"title": "EyeArt automated DR screening", "citations": 194}
+          ]
+        },
+        {
+          "name": "视网膜静脉阻塞 (RVO)",
+          "file": "clinical_knowledge_base.md",
+          "section": "1.3",
+          "keywords": ["RVO", "CRVO", "BRVO", "视网膜静脉阻塞", "黄斑水肿"],
+          "key_references": []
+        },
+        {
+          "name": "视网膜脱离 (RD)",
+          "file": "clinical_knowledge_base.md",
+          "section": "1.4",
+          "keywords": ["RD", "网脱", "孔源性", "牵拉性", "玻璃体切除"],
+          "key_references": [
+            {"title": "Advantages and Limitations of Small Gauge Vitrectomy", "citations": 154}
+          ]
+        },
+        {
+          "name": "黄斑疾病",
+          "file": "clinical_knowledge_base.md",
+          "section": "1.5",
+          "keywords": ["黄斑裂孔", "黄斑前膜", "VMT", "玻璃体黄斑牵拉"],
+          "key_references": []
+        }
+      ]
+    },
+    {
+      "id": "glaucoma",
+      "name": "青光眼",
+      "diseases": [
+        {
+          "name": "原发性开角型青光眼 (POAG)",
+          "file": "clinical_knowledge_base.md",
+          "section": "2.1",
+          "keywords": ["POAG", "开角型青光眼", "眼压", "RNFL", "视野缺损"],
+          "key_references": [
+            {"title": "Primary Open-Angle Glaucoma PPP (2020)", "citations": 395},
+            {"title": "European Glaucoma Society Guidelines 5th Ed", "citations": 561},
+            {"title": "SLT vs eye drops first-line (LiGHT)", "citations": 530}
+          ]
+        },
+        {
+          "name": "原发性闭角型青光眼 (PACG)",
+          "file": "clinical_knowledge_base.md",
+          "section": "2.2",
+          "keywords": ["PACG", "闭角型青光眼", "PACS", "PAC", "LPI"],
+          "key_references": [
+            {"title": "Primary Angle-Closure Disease PPP (2020)", "citations": 116},
+            {"title": "Primary angle-closure glaucoma: an update", "citations": 211}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cataract",
+      "name": "白内障",
+      "diseases": [
+        {
+          "name": "白内障手术",
+          "file": "clinical_knowledge_base.md",
+          "section": "3",
+          "keywords": ["白内障", "超声乳化", "Phaco", "IOL", "人工晶体"],
+          "key_references": [
+            {"title": "Multifocal vs monofocal IOLs", "citations": 483}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cornea",
+      "name": "角膜疾病",
+      "diseases": [
+        {
+          "name": "圆锥角膜",
+          "file": "clinical_knowledge_base.md",
+          "section": "4.1",
+          "keywords": ["圆锥角膜", "Keratoconus", "角膜地形图", "CXL", "交联术"],
+          "key_references": [
+            {"title": "Genetic and environmental factors for keratoconus", "citations": 414}
+          ]
+        },
+        {
+          "name": "干眼症",
+          "file": "clinical_knowledge_base.md",
+          "section": "4.2",
+          "keywords": ["干眼", "Dry Eye", "MGD", "睑板腺功能障碍", "环孢素"],
+          "key_references": [
+            {"title": "Defining Dry Eye from a Clinical Perspective", "citations": 262}
+          ]
+        },
+        {
+          "name": "Fuchs角膜内皮营养不良",
+          "file": "clinical_knowledge_base.md",
+          "section": "4.3",
+          "keywords": ["Fuchs", "角膜内皮", "DMEK", "DSAEK"],
+          "key_references": []
+        }
+      ]
+    },
+    {
+      "id": "pediatric",
+      "name": "小儿眼科",
+      "diseases": [
+        {
+          "name": "弱视",
+          "file": "clinical_knowledge_base.md",
+          "section": "5.1",
+          "keywords": ["弱视", "Amblyopia", "遮盖疗法", "屈光矫正"],
+          "key_references": [
+            {"title": "Pediatric Eye Evaluations PPP (2017)", "citations": 137},
+            {"title": "Guidelines for automated preschool vision screening", "citations": 279}
+          ]
+        },
+        {
+          "name": "斜视",
+          "file": "clinical_knowledge_base.md",
+          "section": "5.2",
+          "keywords": ["斜视", "内斜视", "外斜视", "Esotropia", "Exotropia"],
+          "key_references": [
+            {"title": "Esotropia and Exotropia PPP (2017)", "citations": 53}
+          ]
+        },
+        {
+          "name": "早产儿视网膜病变",
+          "file": "clinical_knowledge_base.md",
+          "section": "5.3",
+          "keywords": ["ROP", "早产儿", "视网膜病变", "抗VEGF"],
+          "key_references": [
+            {"title": "Bevacizumab for stage 3+ ROP", "citations": 1423}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uveitis",
+      "name": "葡萄膜炎",
+      "diseases": [
+        {
+          "name": "葡萄膜炎",
+          "file": "clinical_knowledge_base.md",
+          "section": "6",
+          "keywords": ["葡萄膜炎", "Uveitis", "前葡萄膜炎", "白塞病", "阿达木单抗"],
+          "key_references": [
+            {"title": "Adalimumab in noninfectious uveitis", "citations": 635},
+            {"title": "Intraocular tuberculosis", "citations": 663}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imaging",
+      "name": "OCT成像技术",
+      "diseases": [
+        {
+          "name": "OCT技术",
+          "file": "clinical_knowledge_base.md",
+          "section": "7",
+          "keywords": ["OCT", "光学相干断层扫描", "OCTA", "血管成像", "RNFL"],
+          "key_references": [
+            {"title": "Optical coherence tomography angiography", "citations": 1639},
+            {"title": "A review of OCTA", "citations": 1100}
+          ]
+        }
+      ]
+    }
+  ],
+  "guidelines": [
+    {
+      "organization": "AAO",
+      "name": "American Academy of Ophthalmology",
+      "patterns": [
+        "Primary Open-Angle Glaucoma PPP (2020)",
+        "Primary Angle-Closure Disease PPP (2020)",
+        "Diabetic Retinopathy PPP (2019)",
+        "Age-Related Macular Degeneration PPP (2019)",
+        "Retinal Vein Occlusions PPP (2019)",
+        "Pediatric Eye Evaluations PPP (2017)",
+        "Esotropia and Exotropia PPP (2017)"
+      ]
+    },
+    {
+      "organization": "EGS",
+      "name": "European Glaucoma Society",
+      "patterns": [
+        "Terminology and Guidelines for Glaucoma, 5th Edition (2021)"
+      ]
+    },
+    {
+      "organization": "TFOS",
+      "name": "Tear Film and Ocular Surface Society",
+      "patterns": [
+        "DEWS II Report (2017)"
+      ]
+    }
+  ],
+  "search_keywords": {
+    "retina": ["AMD", "DR", "RVO", "RD", "CNV", "anti-VEGF", "DME", "PRP", "OCT", "OCTA"],
+    "glaucoma": ["POAG", "PACG", "IOP", "RNFL", "SLT", "MIGS", "trabeculectomy"],
+    "cataract": ["phacoemulsification", "IOL", "PCO", "endophthalmitis"],
+    "cornea": ["keratoconus", "dry eye", "MGD", "CXL", "DMEK", "DSAEK"],
+    "pediatric": ["amblyopia", "strabismus", "ROP", "esotropia", "exotropia"],
+    "uveitis": ["uveitis", "HLA-B27", "Behçet", "JIA", "adalimumab"]
+  }
+}

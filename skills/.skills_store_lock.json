@@ -504,6 +504,96 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=voice-reply",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "pdf-ocr": {
+      "name": "Pdf Ocr",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=pdf-ocr",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "r-stats": {
+      "name": "R Stats — 82 Statistical Methods",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=r-stats",
+      "source": "skillhub",
+      "version": "0.7.0"
+    },
+    "r": {
+      "name": "r",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=r",
+      "source": "skillhub",
+      "version": ""
+    },
+    "literature-review": {
+      "name": "Literature Review",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=literature-review",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "paper-writing-workflow": {
+      "name": "Paper Writing Workflow",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=paper-writing-workflow",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "latex-studio": {
+      "name": "Latex Studio",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=latex-studio",
+      "source": "skillhub",
+      "version": "1.0.5"
+    },
+    "paper-summarize-academic": {
+      "name": "Academic Paper Summarizer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=paper-summarize-academic",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "clinical-data-cleaner": {
+      "name": "Clinical Data Cleaner",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=clinical-data-cleaner",
+      "source": "skillhub",
+      "version": "0.1.1"
+    },
+    "zotero-cli": {
+      "name": "Zotero Cli",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=zotero-cli",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "in-depth-research": {
+      "name": "Deep Research",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=in-depth-research",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "mathgraphs": {
+      "name": "Math & Statistics Graphing Engine",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mathgraphs",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "literature-reviewer-skill": {
+      "name": "Literature Reviewer Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=literature-reviewer-skill",
+      "source": "skillhub",
+      "version": "3.0.0"
+    },
+    "literature-search": {
+      "name": "literature-search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=literature-search",
+      "source": "skillhub",
+      "version": "1.0.3"
+    },
+    "literature-manager": {
+      "name": "Literature Manager",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=literature-manager",
+      "source": "skillhub",
+      "version": "1.1.1"
+    },
+    "academic-research-hub": {
+      "name": "Academic Research Hub",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=academic-research-hub",
+      "source": "skillhub",
+      "version": "0.1.0"
     }
   }
 }

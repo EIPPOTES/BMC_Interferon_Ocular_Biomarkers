@@ -6,6 +6,36 @@
 
 ---
 
+## 2026年4月增量更新 (2026-04-13)
+
+### 新增高影响力文献（近7日发表，引用>0）
+
+1. **Effect of peripapillary atrophy on parameters of the optic nerve head, the peripapillary region and the macula in eyes with myopia**
+   - DOI: https://doi.org/10.1007/s10792-026-04072-0
+   - 发表日期: 2026-04-06
+
+2. **Racial and microvascular determinants of progression to treatment-warranted diabetic eye disease**
+   - DOI: https://doi.org/10.1038/s41433-026-04417-0
+   - 发表日期: 2026-04-06
+
+3. **IL-2: a promising topical treatment for Sjögren's disease-related dry eye disease**
+   - DOI: https://doi.org/10.1186/s13075-026-03806-w
+   - 发表日期: 2026-04-06
+
+4. **AI-assisted diagnosis of neuro-ophthalmic disorders: a systematic review from optic neuritis to papilledema**
+   - DOI: https://doi.org/10.1186/s12886-026-04772-2
+   - 发表日期: 2026-04-06
+
+5. **Extravascular Motion Signal Detected by OCT Angiography Indicates Altered Vascular-Tissue Biomechanical Interactions in Glaucoma**
+   - DOI: https://doi.org/10.1167/iovs.67.4.10
+   - 发表日期: 2026-04-06
+
+6. **Fibrosis-Associated Fluid Biomarkers for Predicting Surgical Outcomes in Glaucoma Surgery: A Systematic Review**
+   - DOI: https://doi.org/10.1080/02713683.2026.2642159
+   - 发表日期: 2026-04-06
+
+---
+
 ## 一、临床指南与专家共识
 
 ### 1.1 欧洲眼科培训标准（2025）

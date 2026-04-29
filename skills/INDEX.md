@@ -1,7 +1,7 @@
 # OpenClaw Skills 分类索引
 
-**最后更新**: 2026-03-21  
-**技能总数**: 79个  
+**最后更新**: 2026-04-01  
+**技能总数**: 80个  
 **自动更新**: 已配置 (每日04:00)
 
 ## 🔬 **医学研究** (12个)
@@ -86,7 +86,9 @@
 - `mcporter` - MCP服务器管理
 - `model-usage` - 模型使用统计
 
-## 📱 **工具与实用程序** (15个)
+## 🤖 **AI 模型调用** (2个)
+- `sider-ai` - GPT/Claude/Gemini/DeepSeek/o1 调用 (新增)
+- `voice-tts` - 语音合成
 - `batch-file-renamer` - 批量文件重命名
 - `file-sorter` - 文件智能分类
 - `image-ocr` - 图像OCR识别

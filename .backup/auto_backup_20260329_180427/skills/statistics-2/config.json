@@ -1,0 +1,14 @@
+{
+  "name": "statistics-2",
+  "version": "0.1.0",
+  "description": "Comprehensive statistical testing library with 37+ methods for normality tests, location tests, correlation tests, time series tests, and model diagnostics. Use when performing hypothesis testing, A/B testing, data quality checks, time series analysis, or regression model validation.",
+  "update_url": "",
+  "author": "skillhub",
+  "license": "MIT",
+  "metadata": {
+    "skillhub_slug": "statistics-2",
+    "installed_at": "2026-03-18T18:50:00Z",
+    "last_checked": "2026-03-22T02:31:00Z",
+    "original_name": "pywayne-statistics"
+  }
+}

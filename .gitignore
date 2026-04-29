@@ -88,3 +88,30 @@ htmlcov/
 
 # 项目特定排除
 # 在此添加项目特定的排除规则
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node modules (already present but ensure)
+node_modules/
+
+# IDE and editor
+.idea/
+.vscode/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.csv
+*.xlsx
+*.dta
+
+# Backup directories
+.backup/
+.claw-code-parity/
+koan-literature/src-tauri/target/
