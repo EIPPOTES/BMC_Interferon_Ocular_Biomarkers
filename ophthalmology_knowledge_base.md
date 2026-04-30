@@ -224,6 +224,104 @@
 
 ---
 
+## 2026-04-30 增量更新（14篇新文献）
+
+本周期检索日期范围：2026-04-23 至 2026-04-30
+
+### 青光眼与AI诊断
+1. **Multiple attention based deep multimodal fusion network for glaucoma and neurodegenerative disease diagnosis**
+   - 作者：未注明
+   - 来源：Scientific Reports
+   - DOI：10.1038/s41598-026-46855-6
+   - 发表：2026-04-26
+   - 摘要：提出多注意力多模态深度学习融合网络，用于青光眼和神经退行性疾病的诊断分类。
+
+### 角膜与眼表
+2. **An eye drop combination for treating Staphylococcus aureus-induced keratitis in rats: repurposing ibuprofen**
+   - 来源：Scientific Reports
+   - DOI：10.1038/s41598-026-48096-z
+   - 发表：2026-04-24
+   - 摘要：研究布洛芬等药物重定位用于金黄色葡萄球菌性角膜炎的治疗效果。
+
+3. **Long-term effects of adenoviral keratoconjunctivitis on conjunctival goblet cell density and tear film parameters: a prospective cohort study**
+   - 来源：BMC Ophthalmology
+   - DOI：10.1186/s12886-026-04844-3
+   - 发表：2026-04-27
+   - 摘要：前瞻性队列研究，评估腺病毒性角结膜炎长期(>1年)对结膜杯状细胞和泪膜的影响。
+
+### 白内障
+4. **Large-scale, real-world collection of refractive outcomes after cataract surgery through patient-mediated mobile photography**
+   - 来源：Eye
+   - DOI：10.1038/s41433-026-04481-6
+   - 发表：2026-04-24
+   - 摘要：通过患者手机拍照收集白内障术后屈光结局的大规模真实世界数据新方法。
+
+5. **USP10 inhibits the apoptosis of lens epithelial cells and delays the progression of diabetic cataract**
+   - 来源：Scientific Reports
+   - DOI：10.1038/s41598-026-47681-6
+   - 发表：2026-04-25
+   - 摘要：发现USP10通过抑制晶状体上皮细胞凋亡延缓糖尿病性白内障进展。
+
+6. **Total White Cataract: Surgical Strategy Based on Risk Stratification for Optimal Outcomes**
+   - 来源：SJAMS
+   - DOI：10.36347/sjams.2026.v14i04.028
+   - 发表：2026-04-25
+   - 摘要：全白白内障基于风险分层的优化手术策略。
+
+### 葡萄膜炎与感染
+7. **Infographic: Dexamethasone intravitreal implant for noninfectious intermediate or posterior uveitis**
+   - 来源：Eye
+   - DOI：10.1038/s41433-026-04451-y
+   - 发表：2026-04-23
+   - 摘要：地塞米松玻璃体腔植入物治疗非感染性中间/后葡萄膜炎的信息图总结。
+
+8. **Syphilitic Uveitis in HIV-Positive and -Negative Patients: A Multicenter Cohort Study**
+   - 来源：Turkish Journal of Ophthalmology
+   - DOI：10.4274/tjo.galenos.2026.39267
+   - 发表：2026-04-27
+   - 摘要：多中心队列比较HIV阳性与阴性患者梅毒性葡萄膜炎的临床特征。
+
+### 视网膜疾病
+9. **Management of Rare Secondary Full-Thickness Macular Hole in Proliferative Diabetic Retinopathy: Inverted ILM Flap Technique with Extended Surgical Follow-up**
+   - 来源：Bioscientia Medicina
+   - DOI：10.37275/bsm.v10i6.1616
+   - 发表：2026-04-24
+   - 摘要：病例报告增殖性糖尿病视网膜病变继发性黄斑裂孔的倒置ILM瓣手术策略。
+
+10. **Macular single-nucleus transcriptomics shows preservation of ganglion cells in dry AMD**
+    - 来源：Research Square（预印本）
+    - DOI：10.21203/rs.3.rs-9074583/v1
+    - 发表：2026-04-24
+    - 摘要：干性AMD黄斑区单核转录组学显示神经节细胞在疾病进展中相对保存。
+
+### 视神经疾病
+11. **Bilateral optic neuritis induced by Adalimumab: A follow-up with visual evoked potentials**
+    - 来源：European Journal of Ophthalmology
+    - DOI：10.1177/11206721261445252
+    - 发表：2026-04-24
+    - 摘要：阿达木单抗(抗TNF-α生物制剂)诱导的双侧视神经炎，VEP随访报告。
+
+12. **DNAJC19 Associated Optic Neuropathy**
+    - 来源：Neuro-Ophthalmology
+    - DOI：10.1080/01658107.2026.2660194
+    - 发表：2026-04-23
+    - 摘要：报告DNAJC19基因突变相关的遗传性线粒体视神经病变。
+
+### 基础研究与其他
+13. **Population-scale analysis of frequency-dependent calcium dynamics in retinal ganglion cells under electrical stimulation**
+    - 来源：Scientific Reports
+    - DOI：10.1038/s41598-026-49531-x
+    - 发表：2026-04-24
+    - 摘要：大规模分析电刺激下视网膜神经节细胞的频率依赖性钙动力学，为视觉假体提供理论基础。
+
+14. **FD3611: A Multi-Class Color Fundus Image Dataset for Retinal Disease Classification**
+    - 来源：Figshare（数据集）
+    - DOI：10.6084/m9.figshare.32086296.v1
+    - 发表：2026-04-25
+    - 摘要：开放获取的多类彩色眼底图像数据集，用于视网膜疾病分类研究。
+
+---
+
 ## 更新与维护
 本知识库将定期更新，以确保收录最新权威信息。建议每隔6个月复查一次，重点关注AAO Preferred Practice Patterns的更新、新版教材出版以及重要国际共识的发布。
 
