@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T19:00:00.552Z",
+  "updatedAt": "2026-05-09T06:05:49.154Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -84519,10 +84519,10 @@
         "0.58",
         "memory/2026-04-14.md",
         "348-351",
-        "possible",
-        "lasting",
-        "truths",
-        "文献"
+        "0.62",
+        "memory/2026-04-21.md",
+        "308-310",
+        "candidate"
       ],
       "promotedAt": "2026-04-29T19:00:00.552Z"
     },
