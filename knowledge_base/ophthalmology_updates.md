@@ -163,3 +163,70 @@ OpenAlex API最近7天无高引用(>50)新文献。以下为最新发表文献�
 - 20/20 有有效DOI（OpenAlex收录）
 - HTTP验证: 7/10 返回200（其余403为出版商限制，非DOI无效）
 - **DOI有效性: ✅ 合格**
+
+---
+
+## 增量更新: 2026-05-10
+来源: OpenAlex (最近7天: 2026-05-03 ~ 2026-05-10)
+高引用(>50): 0篇 | 共检索: 194篇 | DOI验证: 5/8 200, 3/8 403(需付费)
+
+### 代表性文献选列
+
+**视网膜/玻璃体**
+- BMC Ophthalmology: 27G内照明辅助巩膜扣带术 (RRD) 2026-05-05
+- IOVS: 脉络膜血症携带者光感受器与RPE独立变性 (多模式影像证据) 2026-05-06
+- Retina: 浆液性中心性脉络膜视网膜病变薄/厚脉络膜对比 2026-05-05
+- Eye: 糖尿病黄斑水肿抗VEGF的多模态深度学习预测 2026-05-06
+- BJO: 持续性DME预后 (Fight Retinal Blindness! 项目) 2026-05-06
+- IOVS: 早产儿黄斑水肿风险因素与结构性影响 2026-05-06
+- Acta Ophthalmologica: 遗传性视网膜疾病暗视/明视视野检查 2026-05-05
+- Scientific Reports: 糖尿病视网膜AI筛查 (远程地区) 2026-05-06
+- IOVS: Stargardt病病人报告结局与功能/结构相关性 2026-05-07
+- JCM: RVO黄斑水肿的OCT AI自动量化 2026-05-07
+- Frontiers in Neurology: OCT视网膜层反射率作为CRAO生物标志物 2026-05-08
+- Scientific Reports: 正常成人黄斑厚度谱 (Spectralis SD-OCT) 2026-05-08
+- IJ Retina Vitreous: 年轻健康眼乳头旁脉络膜密集色素沉着 2026-05-08
+
+**青光眼**
+- JAMA Ophthalmology: FOXC1重复与青少年开角型青光眼 2026-05-07
+- JAMA Ophthalmology: FOXC1重复——新突变与临床特征 2026-05-07
+- JCM: 青光眼视乳头周围血管密度介导眼轴与视野损伤关系 2026-05-06
+- JCM: Preserflo微引流管单独 vs 联合Phaco 2026-05-07
+- Frontiers in Genetics: 跨祖先青光眼多基因风险评分 2026-05-07
+- Japanese J Ophthalmol: POAG视乳头异常与眼轴关系 2026-05-08
+- Res Square: OCTA血管密度缺失与青光眼视野进展速度 2026-05-09
+
+**角膜/眼表**
+- Frontiers in Ophthalmology: 可注射角膜内皮细胞治疗 2026-05-08
+- TVST: Fuchs角膜内皮营养不良滴状物自动化定量 2026-05-08
+- Scientific Reports: 壳聚糖-透明质酸双药绷带镜促角膜再上皮化 2026-05-07
+- Current Opinion Ophthalmol: 屈光手术地形图/断层扫描更新 2026-05-08
+
+**白内障/屈光**
+- BMC Ophthalmology: ICL联合飞秒弧形角膜切开与Toric ICL比较 2026-05-06
+- Scientific Reports: 微角膜白内障术后远期预后 2026-05-06
+- Scientific Reports: 现代IOL注射器阻力变异与损伤评估 2026-05-06
+- Frontiers in Medicine: FLACS vs 传统超声乳化并老视矫正IOL 2026-05-07
+
+**神经眼科**
+- Neurosurgical Review: 前床突切除后视神经功能/结构/电生理评估 2026-05-09
+- JAHA: 颈动脉夹层 vs 动脉粥样硬化致视网膜脉络膜血管改变 2026-05-06
+- Neuro-Ophthalmology: 慢性非动脉炎性前部缺血性视神经病变视网膜血管改变 2026-05-08
+
+**葡萄膜炎/感染**
+- Seminars in Ophthalmology: Vemurafenib诱导葡萄膜炎的临床特征与预后 2026-05-05
+- Frontiers in Medicine: 弥漫性视网膜下纤维化伴玻璃体视网膜牵引综合征 2026-05-07
+- Ocular Immunol Inflamm: 弓形虫视网膜脉络膜炎OCT结构性改变 2026-05-07
+
+**干眼/眼表**
+- JCM: 全区域脂质层厚度评估干眼亚型 2026-05-06
+- Pharmaceutics: 瑞巴派特缓释胶束眼内插入剂 2026-05-07
+
+**近视角膜塑形/防控**
+- Ophthalmic Physiol Opt: OK镜/多焦软镜/联合0.01%阿托品近视控制比较 2026-05-07
+- PLoS ONE: 屏幕时间与户外活动对近视进展的影响 2026-05-08
+- Frontiers in Medicine: IOP在儿童青少年近视发生发展中的作用 2026-05-08
+- medRxiv: 激光低强度红光疗法视网膜安全性分析 2026-05-07
+
+**DOI验证**: 8篇样本 → 5篇200(有效), 3篇403(出版商限制)
+
