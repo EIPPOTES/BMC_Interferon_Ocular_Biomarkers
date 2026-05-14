@@ -1,0 +1,24 @@
+{
+  "demo_date": "2026-03-01T16:28:52.626063",
+  "framework": "BMC Bioinformatics Analysis Framework",
+  "version": "2.4.0",
+  "demo_study": "AMD\u8f6c\u5f55\u7ec4\u5206\u6790\u6f14\u793a",
+  "sample_size": 32,
+  "key_findings": {
+    "analysis_completed": true,
+    "workflow_tested": "End-to-end analysis",
+    "framework_functional": true
+  },
+  "validation_summary": {
+    "levels_completed": 5,
+    "datasets_validated": 4,
+    "performance": "Good for ophthalmology studies"
+  },
+  "resources_included": [
+    "Analysis pipeline with optimization",
+    "Negative result analysis module",
+    "GEO database search guide",
+    "Complete documentation",
+    "Validation reports"
+  ]
+}

@@ -87,7 +87,9 @@ htmlcov/
 .mypy_cache/
 
 # 项目特定排除
-# 在此添加项目特定的排除规则# Virtual environments
+# 在此添加项目特定的排除规则
+
+# Virtual environments
 .venv/
 venv/
 env/

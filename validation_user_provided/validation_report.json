@@ -1,0 +1,89 @@
+{
+  "validation_date": "2026-03-01T16:16:47.239096",
+  "data_source": "User-provided ophthalmology GEO datasets",
+  "results": [
+    {
+      "study": "amd_retinal",
+      "geo_id": "GSE29801",
+      "disease": "\u5e74\u9f84\u76f8\u5173\u6027\u9ec4\u6591\u53d8\u6027 (AMD)",
+      "sample_size": 32,
+      "validation": {
+        "detected_de_genes": 162,
+        "detection_rate_de": 0.054,
+        "key_genes_detected": 7,
+        "key_genes_detection_rate": 0.875,
+        "detected_key_genes": [
+          "CFH",
+          "CFB",
+          "ARMS2",
+          "HTRA1",
+          "APOE",
+          "SOD1",
+          "VEGFA"
+        ]
+      }
+    },
+    {
+      "study": "glaucoma_trabecular",
+      "geo_id": "GSE27276",
+      "disease": "\u9752\u5149\u773c",
+      "sample_size": 16,
+      "validation": {
+        "detected_de_genes": 23,
+        "detection_rate_de": 0.046,
+        "key_genes_detected": 3,
+        "key_genes_detection_rate": 0.375,
+        "detected_key_genes": [
+          "TGFB1",
+          "COL1A1",
+          "COL3A1"
+        ]
+      }
+    },
+    {
+      "study": "diabetic_retinopathy",
+      "geo_id": "GSE60436",
+      "disease": "\u7cd6\u5c3f\u75c5\u89c6\u7f51\u819c\u75c5\u53d8",
+      "sample_size": 24,
+      "validation": {
+        "detected_de_genes": 156,
+        "detection_rate_de": 0.052,
+        "key_genes_detected": 6,
+        "key_genes_detection_rate": 0.75,
+        "detected_key_genes": [
+          "ICAM1",
+          "VCAM1",
+          "IL1B",
+          "IL8",
+          "HIF1A",
+          "ANGPT2"
+        ]
+      }
+    },
+    {
+      "study": "dry_eye_conjunctival",
+      "geo_id": "GSE43671",
+      "disease": "\u5e72\u773c\u75c7",
+      "sample_size": 28,
+      "validation": {
+        "detected_de_genes": 172,
+        "detection_rate_de": 0.05733333333333333,
+        "key_genes_detected": 6,
+        "key_genes_detection_rate": 0.75,
+        "detected_key_genes": [
+          "MUC5AC",
+          "IL6",
+          "TNF",
+          "MMP9",
+          "TGFB1",
+          "AQP5"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_studies": 4,
+    "average_detection_rate": 0.6875,
+    "framework_performance": "good"
+  }
+}

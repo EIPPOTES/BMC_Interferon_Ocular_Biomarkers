@@ -1,0 +1,41 @@
+{
+  "optimized_analysis_report": {
+    "condition": "AMD_demo",
+    "sample_sizes": {
+      "control": 16,
+      "amd": 16
+    },
+    "optimization_parameters": {
+      "n_samples": 32,
+      "n_genes": 2000,
+      "optimization_basis": "multi-dataset validation",
+      "validation_insights": {
+        "avg_sample_size": 13.0,
+        "avg_effect_size": 0.467,
+        "avg_significance_rate": 0.038,
+        "datasets_tested": 4,
+        "validation_date": "2026-03-01"
+      },
+      "statistical_method": "Standard t-test",
+      "pvalue_threshold": 0.05,
+      "fold_change_threshold": 1.5,
+      "multiple_testing_correction": "FDR",
+      "max_genes_to_test": 2000,
+      "optimization_level": "standard"
+    },
+    "differential_expression": {
+      "success": true,
+      "genes_tested": 2000,
+      "significant_genes": 82,
+      "significance_rate": 0.041,
+      "results_file": "demo_results/optimized/optimized_de_results.csv"
+    }
+  },
+  "validation_basis": {
+    "avg_sample_size": 13.0,
+    "avg_effect_size": 0.467,
+    "avg_significance_rate": 0.038,
+    "datasets_tested": 4,
+    "validation_date": "2026-03-01"
+  }
+}
