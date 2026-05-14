@@ -447,5 +447,45 @@
 
 ---
 
-*最后更新: 2026-03-20*  
+---
+
+## 十二、高影响力文献更新 (2026-05-14)
+
+### 12.1 2023-2024年高被引眼科文献（引用>130次）
+
+| 引用 | 标题 | 期刊 | 日期 | DOI |
+|------|------|------|------|-----|
+| 786 | A foundation model for generalizable disease detection from retinal images | Nature | 2023-09 | 10.1038/s41586-023-06555-x |
+| 415 | Pegcetacoplan for geographic atrophy secondary to AMD (OAKS/DERBY) | The Lancet | 2023-10 | 10.1016/s0140-6736(23)01520-9 |
+| 315 | TransNeXt: Robust Foveal Visual Perception for Vision Transformers | CVPR | 2024-06 | 10.1109/cvpr52733.2024.01683 |
+| 295 | Avacincaptad pegol for geographic atrophy (GATHER2) | The Lancet | 2023-09 | 10.1016/s0140-6736(23)01583-0 |
+| 288 | Deep learning system for predicting diabetic retinopathy progression | Nature Medicine | 2024-01 | 10.1038/s41591-023-02702-z |
+| 242 | Ophthalmologist vs ChatGPT responses to patient eye care questions | JAMA Network Open | 2023-08 | 10.1001/jamanetworkopen.2023.30320 |
+| 204 | Intravitreal aflibercept 8 mg in nAMD (PULSAR) | The Lancet | 2024-03 | 10.1016/s0140-6736(24)00063-1 |
+| 201 | Low-concentration atropine for myopia prevention in children | JAMA | 2023-02 | 10.1001/jama.2022.24162 |
+| 184 | Gene editing for CEP290-associated retinal degeneration | NEJM | 2024-05 | 10.1056/nejmoa2309915 |
+| 172 | ChatGPT for surgical treatment of retinal detachment | Ophthalmology Retina | 2023-06 | 10.1016/j.oret.2023.05.022 |
+| 160 | Faricimab in nAMD (real-world TRUCKEE) | Eye | 2023-05 | 10.1038/s41433-023-02553-5 |
+| 147 | ChatGPT in ophthalmology discharge summaries | Seminars in Ophthalmology | 2023-05 | 10.1080/08820538.2023.2209166 |
+| 147 | High IOP induces mitochondrial dysfunction via Drp1 in glaucoma | Redox Biology | 2023-03 | 10.1016/j.redox.2023.102687 |
+| 146 | OCTA-500: Retinal dataset for OCT angiography | Medical Image Analysis | 2024-01 | 10.1016/j.media.2024.103092 |
+| 145 | Retinal pathology & proteome signatures of Alzheimer's disease | Acta Neuropathologica | 2023-02 | 10.1007/s00401-023-02548-2 |
+| 137 | Phacoemulsification effect on IOP in glaucoma | J Shifa Tameer-e-Millat Univ | 2023-02 | 10.32593/jstmu/vol5.iss2.198 |
+| 134 | Genome-wide association analyses identify glaucoma risk loci | Nature Genetics | 2023-06 | 10.1038/s41588-023-01428-5 |
+| 132 | AI in ophthalmology: GPT-3.5 vs GPT-4 vs human experts | Cureus | 2023-06 | 10.7759/cureus.40822 |
+| 132 | Faricimab treat-and-extend for diabetic macular edema | Ophthalmology | 2023-12 | 10.1016/j.ophtha.2023.12.026 |
+
+### 12.2 2026年新发表眼科文献精选
+
+| 引用 | 标题 | 期刊 | 日期 | DOI |
+|------|------|------|------|-----|
+| 2 | IL-6 inhibition with vamikibart for uveitic macular edema | JAMA Ophthalmology | 2026-04 | 10.1001/jamaophthalmol.2026.0610 |
+| 0 | Macular/peripapillary nonperfusion in diabetes: wide-field OCTA | TVST | 2026-04 | 10.1167/tvst.15.4.22 |
+| 0 | Ocular lymphatics in health and disease | Diagnostics | 2026-05 | 10.3390/diagnostics16101416 |
+| 0 | Eligibility criteria in RCTs of anti-VEGF for DME: systematic review | AJO International | 2026-04 | 10.1016/j.ajoint.2026.100250 |
+| 0 | Migraine as risk factor for retinal vascular events: systematic review | J Headache Pain | 2026-04 | 10.1186/s10194-026-02353-8 |
+
+---
+
+*最后更新: 2026-05-14*  
 *维护者: 小cui的科研助手*
