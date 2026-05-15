@@ -196,3 +196,92 @@
 | 5 | DR: Mechanisms & Therapies | Cells | 63 | 2025-03 | 10.3390/cells14050376 ✅ |
 
 ---
+
+## 眼科知识库增量更新 - 2026-05-15
+
+### 更新摘要
+- **搜索时间范围**: 2026-05-08 至 2026-05-15
+- **检索文献数**: 54篇
+- **有PMID+同行评审期刊文献**: 8篇
+- **DOI验证通过**: 8/8 ✅
+
+---
+
+### 新增眼科文献
+
+#### 1. Ahmed阀植入术后迟发性低眼压
+**标题**: Delayed-Onset Hypotony with Choroidal Detachment After Ahmed Valve Implantation in Neovascular Glaucoma Secondary to Proliferative Diabetic Retinopathy
+- **期刊**: Korean Journal of Ophthalmology
+- **发表**: 2026-05-12
+- **DOI**: 10.3341/kjo.2026.0012 ✅
+- **PMID**: 42119704
+- **OA**: Gold
+- **主题**: 新生血管性青光眼、Ahmed阀、低眼压、脉络膜脱离
+
+#### 2. 视网膜静脉阻塞与听力损失
+**标题**: Increased prevalence of hearing loss and tinnitus in patients with retinal vein occlusion
+- **期刊**: Scientific Reports
+- **发表**: 2026-05-11
+- **DOI**: 10.1038/s41598-026-52784-1 ✅
+- **PMID**: 42115364
+- **OA**: Gold
+- **主题**: RVO、听力损失、耳鸣、全身共病
+
+#### 3. AMD萎缩AI识别
+**标题**: A deep learning model for automated identification of age-related macular degeneration atrophy
+- **期刊**: Graefe's Archive
+- **发表**: 2026-05-09
+- **DOI**: 10.1007/s00417-026-07205-4 ✅
+- **PMID**: 42105087
+- **OA**: 是
+- **主题**: AMD、深度学习、萎缩、AI辅助诊断
+
+#### 4. POAG视盘异常与眼轴
+**标题**: Optic nerve head abnormalities in primary open-angle glaucoma and their associations with axial length
+- **期刊**: Japanese Journal of Ophthalmology
+- **发表**: 2026-05-08
+- **DOI**: 10.1007/s10384-026-01371-y ✅
+- **PMID**: 42101789
+- **OA**: 是
+- **主题**: POAG、视盘、眼轴长度、RNFL
+
+#### 5. AMD计算机辅助诊断
+**标题**: Advanced computer-aided diagnosis for AMD: integrating segmentation and feature extraction
+- **期刊**: Scientific Reports
+- **发表**: 2026-05-09
+- **DOI**: 10.1038/s41598-026-46569-9 ✅
+- **PMID**: 42106387
+- **OA**: Gold
+- **主题**: AMD、图像分割、特征提取、CAD
+
+#### 6. ROP远程评分验证
+**标题**: Multi-grader validation of the telemedicine retinopathy of prematurity severity score
+- **期刊**: Scientific Reports
+- **发表**: 2026-05-12
+- **DOI**: 10.1038/s41598-026-51824-0 ✅
+- **PMID**: 42120460
+- **OA**: Gold
+- **主题**: ROP、远程医疗、评分验证
+
+#### 7. 羟氯喹视网膜微血管改变
+**标题**: Retinal microvasculature changes in long-term consumption of hydroxychloroquine
+- **期刊**: Scientific Reports
+- **发表**: 2026-05-12
+- **DOI**: 10.1038/s41598-026-52227-x ✅
+- **PMID**: 42120506
+- **OA**: Gold
+- **主题**: 羟氯喹、视网膜毒性、OCTA
+
+#### 8. Smith-Magenis综合征合并RRD
+**标题**: Bilateral Rhegmatogenous Retinal Detachments in An Adolescent with Smith-Magenis Syndrome
+- **期刊**: Korean Journal of Ophthalmology
+- **发表**: 2026-05-12
+- **DOI**: 10.3341/kjo.2025.0205 ✅
+- **PMID**: 42119705
+- **OA**: Gold
+- **主题**: RRD、Smith-Magenis综合征、遗传
+
+### 高影响力文献
+> 最近7天文献尚无引用数据。
+
+---
