@@ -322,6 +322,104 @@
 
 ---
 
+## 2026年5月增量更新（2026-05-16）
+
+### 2025年高影响力文献（引用>20次）
+
+#### 视网膜疾病与OCT
+1. **A deep learning based model for diabetic retinopathy grading**
+   - 来源：Scientific Reports
+   - DOI：10.1038/s41598-025-87171-9
+   - 发表：2025-01-30
+   - 引用：74次
+   - 摘要：基于深度学习的糖尿病视网膜病变分级模型。
+
+2. **Customizable virus-like particles deliver CRISPR–Cas9 ribonucleoprotein for effective ocular therapy**
+   - 来源：Nature Nanotechnology
+   - DOI：10.1038/s41565-024-01851-7
+   - 发表：2025-02-10
+   - 引用：59次
+   - 摘要：可定制病毒样颗粒递送CRISPR-Cas9核糖核蛋白用于眼部治疗。
+
+3. **High-efficiency base editing in the retina in primates and human tissues**
+   - 来源：Nature Medicine
+   - DOI：10.1038/s41591-024-03422-8
+   - 发表：2025-01-08
+   - 引用：41次
+   - 摘要：灵长类和人类视网膜组织中的高效碱基编辑。
+
+4. **HDL-ACO hybrid deep learning and ant colony optimization for ocular optical coherence tomography**
+   - 来源：Scientific Reports
+   - DOI：10.1038/s41598-025-89961-7
+   - 发表：2025-02-18
+   - 引用：27次
+   - 摘要：混合深度学习和蚁群优化的眼部OCT图像分析。
+
+5. **Multi-omic spatial effects on high-resolution AI-derived retinal thickness**
+   - 来源：Nature Communications
+   - DOI：10.1038/s41467-024-55635-7
+   - 发表：2025-02-04
+   - 引用：26次
+   - 摘要：多组学空间效应对高分辨率AI衍生视网膜厚度的影响。
+
+6. **Exposure of A2E to blue light promotes ferroptosis in the retinal pigment epithelium**
+   - 来源：Cellular & Molecular Biology Letters
+   - DOI：10.1186/s11658-025-00700-2
+   - 发表：2025-02-21
+   - 引用：26次
+   - 摘要：A2E暴露于蓝光促进视网膜色素上皮铁死亡。
+
+#### 人工智能与眼科
+7. **Multimodal machine learning enables AI chatbot to diagnose ophthalmic diseases and provide consultations**
+   - 来源：npj Digital Medicine
+   - DOI：10.1038/s41746-025-01461-0
+   - 发表：2025-01-27
+   - 引用：36次
+   - 摘要：多模态机器学习驱动的AI聊天机器人用于眼科诊断与咨询。
+
+8. **A multimodal visual–language foundation model for computational ophthalmology**
+   - 来源：npj Digital Medicine
+   - DOI：10.1038/s41746-025-01772-2
+   - 发表：2025-06-21
+   - 引用：34次
+   - 摘要：多模态视觉-语言基础模型用于计算眼科学。
+
+#### 流行病学
+9. **Global burden of vision impairment due to age-related macular degeneration, 1990–2021**
+   - 来源：The Lancet Global Health
+   - DOI：10.1016/s2214-109x(25)00143-3
+   - 发表：2025-06-25
+   - 引用：30次
+   - 摘要：1990-2021年年龄相关黄斑变性所致视力损害的全球负担。
+
+10. **Consensus and guidelines on diagnosis and management of polypoidal choroidal vasculopathy**
+    - 来源：Asia-Pacific Journal of Ophthalmology
+    - DOI：10.1016/j.apjo.2025.100144
+    - 发表：2025-01-01
+    - 引用：28次
+    - 摘要：息肉样脉络膜血管病变诊断与管理共识与指南。
+
+### 2026年最新文献（近3个月）
+11. **Intraretinal hyperreflective foci: Pathophysiology, imaging features, and clinical implications**
+    - 来源：Progress in Retinal and Eye Research
+    - DOI：10.1016/j.preteyeres.2026.101464
+    - 发表：2026-03-24
+    - 摘要：视网膜内高反射灶的病理生理、影像特征及临床意义综述。
+
+12. **Interleukin 6 Inhibition With Vamikibart for Uveitic Macular Edema**
+    - 来源：JAMA Ophthalmology
+    - DOI：10.1001/jamaophthalmol.2026.0610
+    - 发表：2026-04-09
+    - 摘要：白细胞介素6抑制剂Vamikibart治疗葡萄膜炎性黄斑水肿。
+
+13. **Global consensus on evidence-based functional classification of simultaneous vision IOLs**
+    - 来源：Journal of Cataract & Refractive Surgery
+    - DOI：10.1097/j.jcrs.0000000000001880
+    - 发表：2026-02-20
+    - 摘要：同时视型人工晶状体循证功能分类全球共识。
+
+---
+
 ## 更新与维护
 本知识库将定期更新，以确保收录最新权威信息。建议每隔6个月复查一次，重点关注AAO Preferred Practice Patterns的更新、新版教材出版以及重要国际共识的发布。
 
