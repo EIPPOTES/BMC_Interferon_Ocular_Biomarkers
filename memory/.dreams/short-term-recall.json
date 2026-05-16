@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T19:00:01.048Z",
+  "updatedAt": "2026-05-15T22:25:00.449Z",
   "entries": {
     "memory:memory/2026-03-25.md:76:93": {
       "key": "memory:memory/2026-03-25.md:76:93",
@@ -90623,18 +90623,19 @@
       "source": "memory",
       "snippet": "系统健康检查 (00:22): | 项目 | 状态 | 备注 | |------|------|------| | Gateway | ✅ OK | 127.0.0.1:18789, PID 290 | | Mihomo | ✅ OK | PID 289, 服务active |",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-14T19:00:00.296Z",
-      "lastRecalledAt": "2026-05-14T19:00:00.296Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
       "queryHashes": [
         "7e5abc1a80b8"
       ],
       "recallDays": [
         "2026-05-15",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-16"
       ],
       "conceptTags": [
         "gateway",
@@ -90655,18 +90656,19 @@
       "source": "memory",
       "snippet": "系统健康检查 (00:22): | PubMed连接 | ✅ OK | HTTP 200, 1.3s | | 磁盘使用 | ✅ OK | / 12% (113G/1007G) | | 内存 | ✅ OK | 1.3G/23G 使用 | | 负载 | ✅ OK | 0.07 极低 |",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-14T19:00:00.296Z",
-      "lastRecalledAt": "2026-05-14T19:00:00.296Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
       "queryHashes": [
         "7e5abc1a80b8"
       ],
       "recallDays": [
         "2026-05-15",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-16"
       ],
       "conceptTags": [
         "1.3s",
@@ -90687,18 +90689,19 @@
       "source": "memory",
       "snippet": "系统健康检查 (00:22): | Swap | ✅ OK | 0/6G 未使用 | | Memory目录 | 6.6M | 正常 | | Gateway配置 | ⚠️ 轻微警告 | PATH含版本管理器, 可忽略 |",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-14T19:00:00.296Z",
-      "lastRecalledAt": "2026-05-14T19:00:00.296Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
       "queryHashes": [
         "7e5abc1a80b8"
       ],
       "recallDays": [
         "2026-05-15",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-16"
       ],
       "conceptTags": [
         "gateway",
@@ -90719,18 +90722,19 @@
       "source": "memory",
       "snippet": "系统健康检查 (00:22): **结论: 所有核心服务正常运行，无告警。**",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-14T19:00:00.296Z",
-      "lastRecalledAt": "2026-05-14T19:00:00.296Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
       "queryHashes": [
         "7e5abc1a80b8"
       ],
       "recallDays": [
         "2026-05-15",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-16"
       ],
       "conceptTags": [
         "系统",
@@ -91206,6 +91210,482 @@
         "origin/develop",
         "github",
         "自动"
+      ]
+    },
+    "memory:memory/2026-05-16.md:4:7": {
+      "key": "memory:memory/2026-05-16.md:4:7",
+      "path": "memory/2026-05-16.md",
+      "startLine": 4,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "系统健康检查 (06:21): | 项目 | 状态 | 备注 | |------|------|------| | Gateway | ✅ OK | HTTP 200 | | PubMed连接 | ✅ OK | HTTP 200 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "ccfae0e39afd"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gateway",
+        "系统",
+        "健康",
+        "检查",
+        "项目",
+        "状态",
+        "备注",
+        "http"
+      ]
+    },
+    "memory:memory/2026-05-16.md:8:9": {
+      "key": "memory:memory/2026-05-16.md:8:9",
+      "path": "memory/2026-05-16.md",
+      "startLine": 8,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "系统健康检查 (06:21): | 磁盘使用 | ✅ OK | / 12% (115G/842G可用) | | 内存 | ✅ OK | 1G/23G 使用 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "ccfae0e39afd"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "115g/842g可用",
+        "1g/23g",
+        "系统",
+        "健康",
+        "检查",
+        "磁盘",
+        "使用",
+        "115g"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 知识库已更新。以下是本次维护报告： --- ## 眼科知识库增量更新报告 — 2026-05-15 **数据源**: OpenAlex API **时间范围**: 2026-05-08 ~ 2026-05-15 **总检索**: 54篇 → **质量筛选**: 8篇（有PMID+核心期刊，排除预印本） ### 8篇新增文献概览 | # | 主题 | 期刊 | 发表 | DOI状态 | |---|------|------|------|---------| | 1 | Ahmed阀植入后迟发性低眼压 | Korean J Ophth",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "知识",
+        "更新",
+        "以下",
+        "本次",
+        "维护",
+        "报告",
+        "眼科",
+        "增量"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 未执行去重检查（按简化原则） - ⏱ 总耗时 < 2分钟",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "执行",
+        "检查",
+        "简化",
+        "原则",
+        "分钟"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 所有检查完成，生成健康报告。 --- ## 🩺 系统健康报告 — 2026-05-15 12:00 CST ### ✅ 项目状态总览 | 项目 | 状态 | 详情 | |------|------|------| | **OpenClaw Gateway** | ✅ 运行中 | 端口 18789 (loopback), 连接探测通过 | | **Mihomo 代理** | ✅ 运行中 | PID 289, 已运行 >12h, API端口响应正常 | | **PubMed 连通性** | ✅ 正常 | HTTP 200, 延迟 0.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gateway",
+        "所有",
+        "检查",
+        "完成",
+        "生成",
+        "健康",
+        "报告",
+        "系统"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **系统健康检查报告** — 2026-05-15 06:00 (CST) --- | 项目 | 状态 | 详情 | |------|------|------| | **OpenClaw Gateway** | ✅ **正常** | PID 290，监听 127.0.0.1:18789，连接探测通过 | | **Mihomo 代理** | ✅ **正常** | PID 289，运行中 (/usr/local/bin/mihomo) | | **网络连接 (PubMed)** | ✅ **正常** | HTTP 200，响应时间",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "127.0.0.1",
+        "usr/local/bin/mihomo",
+        "系统",
+        "健康",
+        "检查",
+        "报告"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 当前在 `develop` 分支上（非配置中的 `main`），我手动适配执行同步：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "当前",
+        "develop",
+        "分支",
+        "配置",
+        "中的",
+        "执行",
+        "同步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Backup created (6.7MB). Now let me proceed with git add and commit:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "backup",
+        "6.7mb",
+        "created",
+        "now",
+        "let",
+        "proceed",
+        "git",
+        "add"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ GitHub 自动同步完成 **同步时间**: 2026-05-15 06:04 CST | 项目 | 状态 | |------|------| | 备份 | ✅ `backup_20260515_060614.tgz` (6.7MB) | | 提交 | ✅ `1bdc157` → `develop` 分支 | | 推送 | ✅ 成功推送至 GitHub | | 更改 | 11 个文件 (+982 / -21) | **本次同步内容**: - `memory/` 更新 — 2026-05-15 梦境文件 (deep/lig",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "backup-20260515-060614.tgz",
+        "6.7mb",
+        "deep/lig",
+        "github",
+        "自动",
+        "同步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **GitHub 自动同步完成** — 2026-05-15 12:04 | 步骤 | 状态 | |------|------| | 检查更改 | 1 个文件已修改 | | 备份 | `backup_20260515_120435.tar.gz` (3.7M) | | 提交 | `027460e` → 89 行新增 | | 推送 | `develop` → `origin/develop` ✅ | | 旧备份清理 | 保留最近 7 天，已清理过期备份 | | 日志 | `/root/.openclaw/logs/auto_syn",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "backup-20260515-120435.tar.gz",
+        "3.7m",
+        "origin/develop",
+        "openclaw/logs/auto-syn",
+        "github",
+        "自动"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: --- ## 📊 2026-05-16 每周系统健康检查报告 ### 总体评估：系统健康度 **95%** (↓ 较上周降2%) --- ### ✅ 运行正常 (7/10) | 项目 | 状态 | 详情 | |------|------|------| | **Mihomo代理** | ✅ | PID 309, systemctl active | | **OpenClaw Gateway** | ✅ | PID 550, 端口 18789, HTTP 200 | | **磁盘空间** | ✅ | 115G/1007G (12%)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gateway",
+        "7/10",
+        "115g/1007g",
+        "每周",
+        "系统",
+        "健康",
+        "检查",
+        "报告"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 仅1条（2026-05-15.md），4月下旬起工作日志缺失 --- ### 建议操作 | 优先级 | 操作 | 原因 | |--------|------|------| | 🔴 | 更新`~/.bashrc`：将代理改为`127.0.0.1:7895` | 确保WSL2内部代理生效 | | 🟡 | 刷新TASK_TRACKER.md / FOCUS.md | 项目管理文件滞后~2个月 | | 🟡 | 网络环境允许时手动`git push` | 本地commit已积压 | | ⚠️ | 补记工作日志 | 保持知识连续性 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "网络",
+        "127.0.0.1",
+        "刷新task-tracker.md",
+        "focus.md",
+        "下旬",
+        "工作",
+        "日志",
+        "缺失"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ GitHub自动同步完成 | 2026-05-16 06:24 CST | 项目 | 状态 | |------|------| | **备份** | ✅ `backup_20260516_062408.tar.gz` (3.7M) | | **提交** | ✅ `a48f3a6` — 3 files, +145 insertions | | **推送 develop** | ✅ 已同步 | | **推送 main** | ✅ 已同步（含远端5次新提交合并） | | **日志** | `/root/.openclaw/log",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "backup-20260516-062408.tar.gz",
+        "3.7m",
+        "openclaw/log",
+        "github",
+        "自动",
+        "同步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 所有检查完成，生成报告。 --- ## 🩺 系统健康检查报告 — 2026-05-16 06:23 | 项目 | 状态 | 详情 | |------|------|------| | **OpenClaw Gateway** | ✅ 正常 | PID 550, 运行中, 端口 18789, 连通性 OK | | **Mihomo 代理** | ✅ 正常 | PID 309, Mixed proxy 端口 7895, 外网IP 112.94.187.216 | | **PubMed 网络** | ✅ 正常 | HTTP 200, 响",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网络",
+        "112.94.187.216",
+        "所有",
+        "检查",
+        "完成",
+        "生成",
+        "报告"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 眼科知识库增量更新完成。共追加 **13篇** 新文献至主知识库。 --- ## 📋 更新报告 | 项目 | 结果 | |------|------| | 📡 数据源 | OpenAlex API — 眼科（C118487528） | | 🗓️ 近7天检索 | 310篇，引用>50：**0篇**（新文献尚需时间积累引用） | | 🏆 高影响力检索 | 2025年至今引用>20次：**11篇**（扩展补充2篇最新） | | ✅ DOI验证 | 15篇验证 → 10篇✅通过，5篇⚠️需订阅 | | 📚 追加至主库 | **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T22:24:59.408Z",
+      "lastRecalledAt": "2026-05-15T22:24:59.408Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "眼科",
+        "知识",
+        "增量",
+        "更新",
+        "完成",
+        "追加",
+        "文献",
+        "报告"
       ]
     }
   }
