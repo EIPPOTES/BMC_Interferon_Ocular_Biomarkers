@@ -230,3 +230,44 @@ OpenAlex API最近7天无高引用(>50)新文献。以下为最新发表文献�
 
 **DOI验证**: 8篇样本 → 5篇200(有效), 3篇403(出版商限制)
 
+---
+
+## 增量更新 2026-05-17
+
+**检索条件**: OpenAlex概念ID:C118487528(眼科) | 最近7天(2026-05-10~05-17) | 排序:引用数倒序
+
+**检索结果**: 341篇总文献, 19篇实质论文, 引用>50的**0篇**（均为新近发表，引用待积累）
+
+**DOI验证**: 10篇样本 → 8篇200(有效), 2篇403(访问受限)
+
+### 重点推荐（按相关性）
+
+**OCT/视网膜成像**
+- Ultra-widefield optical coherence tomography angiography plus colour fundus photography: ... 
+  DOI: 10.1186/s40662-026-00489-x | Eye and Vision | 2026-05-13
+- Comparison of 27-Gauge 20,000 vs. 10,000 cuts per minute vitrectomy systems in epiretinal membrane surgery
+  DOI: 10.1038/s41598-026-52138-x | Scientific Reports | 2026-05-14
+- Macula On vs Macula Off Retinal Detachment: Examining Surgical Prioritisation and Visual Outcomes
+  DOI: 10.48089/jfo7689141 | J Foundations of Ophthalmol | 2026-05-14
+
+**视网膜微血管**
+- Associations of preconception retinal microvasculature with lipid profiles from preconception to postpartum
+  DOI: 10.1038/s44325-026-00130-9 | npj Cardiovascular Health | 2026-05-15
+
+**青光眼**
+- Delayed-Onset Hypotony with Choroidal Detachment After Ahmed Valve Implantation
+  DOI: 10.3341/kjo.2026.0012 | Korean J Ophthalmol | 2026-05-12
+- Beyond Intraocular Pressure: Cell-Type-Specific Remodeling of the Optic Nerve Head
+  DOI: 10.25394/pgs.32226300.v2 | Purdue (dissertation) | 2026-05-11
+
+**眼前节/角膜**
+- Microbial Contamination of Donor Corneas and Post-keratoplasty Endophthalmitis
+  DOI: 10.21203/rs.3.rs-9439199/v1 | Research Square | 2026-05-13
+
+**其他**
+- Impact of Chemotherapy and Radiotherapy on Iris Metastases: A Case Report
+  DOI: 10.1159/000552242 | Ocular Oncology and Pathology | 2026-05-12
+- Angular threshold for IOP elevation during robot-assisted radical prostatectomy
+  DOI: 10.3389/fmed.2026.1769460 | Frontiers in Medicine | 2026-05-15
+
+**数据来源**: OpenAlex API | 检索日期: 2026-05-17 06:21 CST
