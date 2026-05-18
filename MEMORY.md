@@ -144,3 +144,14 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-22.md:278:280 -->
 - - Candidate: Possible Lasting Truths: 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条件（引用数≥10）的新文献; **原因**: 近7天新发表文献暂无引用积累，符合预期; **日志文件**: `logs/literature增量_2026-04-14.md` [confidence=0.58 evidence=memory/2026-04-14.md:348-351]; 📊 文献增量更新（持续进行）: **执行状态**: 正常，每10分钟执行一次; **今日结果**: 无符合条 - confidence: 0.62 - evidence: memory/2026-04-21.md:308-310 [score=0.828 recalls=0 avg=0.620 source=memory/2026-04-22.md:13-15]
+
+## Promoted From Short-Term Memory (2026-05-19)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-15.md:8:11 -->
+- | PubMed连接 | ✅ OK | HTTP 200, 1.3s | | 磁盘使用 | ✅ OK | / 12% (113G/1007G) | | 内存 | ✅ OK | 1.3G/23G 使用 | | 负载 | ✅ OK | 0.07 极低 | [score=0.868 recalls=0 avg=0.620 source=memory/2026-05-15.md:8-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-05-15.md:12:14 -->
+- | Swap | ✅ OK | 0/6G 未使用 | | Memory目录 | 6.6M | 正常 | | Gateway配置 | ⚠️ 轻微警告 | PATH含版本管理器, 可忽略 | [score=0.868 recalls=0 avg=0.620 source=memory/2026-05-15.md:12-14]
+<!-- openclaw-memory-promotion:memory:memory/2026-05-15.md:16:16 -->
+- **结论: 所有核心服务正常运行，无告警。** [score=0.868 recalls=0 avg=0.620 source=memory/2026-05-15.md:16-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-05-15.md:4:7 -->
+- | 项目 | 状态 | 备注 | |------|------|------| | Gateway | ✅ OK | 127.0.0.1:18789, PID 290 | | Mihomo | ✅ OK | PID 289, 服务active | [score=0.822 recalls=0 avg=0.620 source=memory/2026-05-15.md:4-7]

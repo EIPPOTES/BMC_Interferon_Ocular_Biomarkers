@@ -224,3 +224,27 @@
 - **期刊**: npj Cardiovascular Health
 - **引用**: 0
 - **类别**: 视网膜微血管/心血管
+
+---
+
+## 2026-05-19 增量更新
+
+通过OpenAlex API检索眼科概念(C118487528)，最近7天(2026-05-12至2026-05-19)共317篇。
+
+### 筛选结果
+- **高被引文献(>50次)**: 0篇（均为近期新发，引用量尚未积累）
+- **DOI验证**: 16/19有效，3个Zenodo仓库DOI无法解析（重复版本）
+- **已入库**: 以下为近7天代表性文献
+
+### 最新文献（2026-05-16至2026-05-19）
+
+| # | 标题 | 期刊 | 日期 |
+|---|------|------|------|
+| 1 | From Field to Fundus: A Peripheral Retinal Tear Following Football-Related Ocular Trauma | Cureus | 2026-05-17 |
+| 2 | Sequential Intravitreal Corticosteroid Rescue Including Ozurdex After Anti-VEGF Failure in Bilateral Uveitic Cystoid Macular Edema | Cureus | 2026-05-17 |
+| 3 | Resolution of disc oedema in NAION vs optic neuritis | BMC Ophthalmology | 2026-05-17 |
+| 4 | Inter-relationship of Retinal, Choroidal, and Scleral Thickness in High Myopia | medRxiv | 2026-05-17 |
+| 5 | A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs | Zenodo | 2026-05-17 |
+| 6 | Effects of relative humidity on IOP - time-series analysis | Graefe's Archive | 2026-05-16 |
+| 7 | Comparison of 45° Kelman vs Intrepid phaco tips for hard cataracts | International Ophthalmology | 2026-05-16 |
+| 8 | The Role of Sex in Ocular Biometry: Large-Scale Study of Cataract Candidates in Greece | Ophthalmology and Therapy | 2026-05-16 |
