@@ -69,3 +69,36 @@
 ---
 *注: 本次为轻量增量更新，未执行去重检查*
 *来源: OpenAlex API | 概念: Ophthalmology (C118487528) | 检索日期: 2026-05-16*
+
+---
+## 增量更新 2026-05-19
+
+### 检索参数
+- **来源**: OpenAlex API | **搜索词**: ophthalmology + retina
+- **查询范围**: 2026-05-12 ~ 2026-05-19 | **类型**: article (20篇初筛)
+- **引用阈值**: 所有论文均为近7天发表，引用数均=0（无>50的论文可用），基于期刊质量和相关度替代筛选
+- **DOI验证**: 全部14篇含DOI论文 ✅ 通过 (302重定向验证)
+
+### 本周新增高相关度文献 (10篇)
+
+| # | 标题 | 期刊 | 日期 | OA状态 | DOI |
+|---|------|------|------|--------|-----|
+| 1 | Comparison of 27-G vs 25-G vitrectomy in ERM surgery (RCT) | Scientific Reports | 2026-05-14 | Gold | 10.1038/s41598-026-52138-x |
+| 2 | Retinal microvasculature changes in long-term hydroxychloroquine | Scientific Reports | 2026-05-12 | Gold | 10.1038/s41598-026-52227-x |
+| 3 | Ultra-widefield OCTA in von Hippel‒Lindau disease | Eye and Vision | 2026-05-13 | Diamond | 10.1186/s40662-026-00489-x |
+| 4 | Clinical characterization of X-linked juvenile retinoschisis (Chinese cohort) | Frontiers in Genetics | 2026-05-13 | Gold | 10.3389/fgene.2026.1796743 |
+| 5 | Ocular toxoplasmosis–associated retinal detachment outcomes | J VitreoRetinal Diseases | 2026-05-13 | Hybrid | 10.1177/24741264261451497 |
+| 6 | Metal ions in aging and ocular diseases (review) | npj Aging | 2026-05-14 | Hybrid | 10.1038/s41514-026-00396-4 |
+| 7 | Incidence/predictors of DR in T2DM with hypertension (10-year) | Scientific Reports | 2026-05-16 | Gold | 10.1038/s41598-026-53165-4 |
+| 8 | Multi-grader validation of telemedicine ROP severity score | Scientific Reports | 2026-05-12 | Gold | 10.1038/s41598-026-51824-0 |
+| 9 | TAU-PSO: Attention U-Net for optic cup-disc segmentation | Informatica | 2026-05-13 | Diamond | 10.31449/inf.v50i12.8952 |
+| 10 | Prognostic value of BAP1 in uveal melanoma (Spanish cohort) | Frontiers in Oncology | 2026-05-13 | Gold | 10.3389/fonc.2026.1842781 |
+
+### 简述
+- **不满足引用阈值**: 全部20篇新论文引用=0（发表<7天），改用期刊和主题筛选
+- **亮点**: 羟氯喹视网膜微血管变化OCTA研究（与OCT参数分析直接相关）、25G vs 27G玻璃体切割RCT、von Hippel-Lindau病的超广角OCTA
+- **排除**: 无DOI的预印本1篇（arXiv）、低质量期刊2篇、非眼科主题1篇
+
+---
+*注: 轻量增量更新，未做去重检查*
+*检索日期: 2026-05-19 | 来源: OpenAlex API | 下次更新: 2026-05-26*
