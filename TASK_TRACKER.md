@@ -1256,3 +1256,64 @@ System: [2026-04-09 16:00:31 GMT...
 
 | 任务 | 优先级 ...
 
+
+
+---
+
+## 🔄 近期项目状态 (自动检测) - 2026-05-20
+
+| 项目 | 检测状态 | 活动数 |
+|------|----------|--------|
+| OCT-MDD论文 | 已完成 | 26 |
+| 知识库构建 | 已完成 | 43 |
+| 系统优化 | 已完成 | 23 |
+| 年轻组论文 | 已完成 | 2 |
+
+### 详细活动
+
+**OCT-MDD论文** (已完成):
+- [Tue 2026-05-19 00:59 GMT+8] Write a dream diary entry from these memory fragments:
+
+- 眼科知识库维护（轻量版）-...
+- # 眼科专业知识库索引
+
+**知识库名称**: 眼科专业临床指南与文献知识库  
+**构建时间**: 2026-03-23  
+**更新周期**: 季度更新  
+**验证策略**: 仅收录权威期刊、指...
+
+**知识库构建** (已完成):
+- [Tue 2026-05-19 00:59 GMT+8] Write a dream diary entry from these memory fragments:
+
+- 眼科知识库维护（轻量版）-...
+- Night fell in sectors—pid 550 humming steady while Mihomo ran its quiet clock. Between system health...
+
+**系统优化** (已完成):
+- [Tue 2026-05-19 00:59 GMT+8] Write a dream diary entry from these memory fragments:
+
+- 眼科知识库维护（轻量版）-...
+- [cron:911ecf6a-0f43-4375-a4db-c2a1f2abe961 简化系统监控] ## 系统健康检查 (简化版)
+
+执行基础系统监控：
+1. 检查OpenClaw Gateway运...
+
+**年轻组论文** (已完成):
+- # TASK_TRACKER.md - 任务状态总览
+
+*最后更新: 2026-03-24 18:43*  
+*更新者: 小cui科研助手*
+
+---
+
+## 🔄 进行中任务
+
+| 任务 | 优先级 ...
+- # OpenClaw 定期维护计划
+
+## 🔄 每周维护 (Fridays 14:00)
+- 索引性能检查
+- 检查本周Daily.md
+- 扫描Target Journals
+
+## 📅 每月维护 ...
+
