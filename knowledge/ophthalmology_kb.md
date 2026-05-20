@@ -285,3 +285,139 @@
 > 最近7天文献尚无引用数据。
 
 ---
+
+---
+
+## 增量更新 - 2026-05-20
+
+### 更新摘要
+- **搜索时间范围**: 2026-05-13 至 2026-05-20（最近7天）
+- **检索文献总数**: 303篇
+- **高引用文献筛选**: 最近7天文献尚无引用数据（均为最新发表）
+- **补充搜索范围**: 2024-05至2026-05，引用>50的文献
+- **补充高引用文献**: 13篇
+- **DOI验证通过**: 13/13
+
+---
+
+### 新增高影响力文献（引用>50）
+
+#### 1. 口服抗氧化剂延缓GA进展
+**标题**: Oral Antioxidant and Lutein/Zeaxanthin Supplements Slow Geographic Atrophy Progression to the Fovea in Age-Related Macular Degeneration
+- **期刊**: Ophthalmology (2024)
+- **DOI**: 10.1016/j.ophtha.2024.07.014 ✅
+- **引用**: 79次
+- **作者**: Keenan TDL, Agrón E, Keane PA, Domalpally A
+- **主题**: AMD、地理萎缩、抗氧化剂、叶黄素
+- **OA**: ✅
+
+#### 2. Semaglutide与NAION关联
+**标题**: Association between Semaglutide and Nonarteritic Anterior Ischemic Optic Neuropathy
+- **期刊**: Ophthalmology (2024)
+- **DOI**: 10.1016/j.ophtha.2024.10.030 ✅
+- **引用**: 79次
+- **作者**: Chou C-C, Pan S-Y, Sheen Y-J, Lin J-F
+- **主题**: NAION、Semaglutide、药物安全
+- **OA**: ✅
+
+#### 3. 深度学习DR分级
+**标题**: A deep learning based model for diabetic retinopathy grading
+- **期刊**: Scientific Reports (2025)
+- **DOI**: 10.1038/s41598-025-87171-9 ✅
+- **引用**: 75次
+- **作者**: Akhtar S, Aftab S, Ali O, Ahmad M
+- **主题**: DR、深度学习、AI诊断
+- **OA**: ✅
+
+#### 4. 非诺贝特延缓DR进展
+**标题**: Effect of Fenofibrate on Progression of Diabetic Retinopathy
+- **期刊**: NEJM Evidence (2024)
+- **DOI**: 10.1056/evidoa2400179 ✅
+- **引用**: 74次
+- **作者**: Preiss D, Logue J, Sammons E, Zayed M
+- **主题**: DR、非诺贝特、降脂治疗
+- **OA**: ✅
+
+#### 5. iPSC来源角膜上皮移植
+**标题**: Induced pluripotent stem-cell-derived corneal epithelium for transplant surgery: a first-in-human study in Japan
+- **期刊**: The Lancet (2024)
+- **DOI**: 10.1016/S0140-6736(24)01764-1 ✅
+- **引用**: 64次
+- **作者**: Soma T, Oie Y, Takayanagi H, Matsubara S
+- **主题**: iPSC、角膜移植、再生医学
+- **OA**: ✅
+
+#### 6. 视网膜眼底图像超分辨率
+**标题**: Retinal fundus image super-resolution based on GAN with vascular structure prior
+- **期刊**: Scientific Reports (2024)
+- **DOI**: 10.1038/s41598-024-74186-x ✅
+- **引用**: 64次
+- **作者**: Jia Y, Chen G, Chi H
+- **主题**: 图像超分辨率、GAN、视网膜血管
+- **OA**: ✅
+
+#### 7. 中空微针眼部给药
+**标题**: Hollow microneedles for ocular drug delivery
+- **期刊**: Journal of Controlled Release (2024)
+- **DOI**: 10.1016/j.jconrel.2024.05.013 ✅
+- **引用**: 63次
+- **作者**: Gade S, Glover K, Mishra D, Sharma S
+- **主题**: 药物递送、微针、眼部给药
+- **OA**: ✅
+
+#### 8. AMD全球疾病负担
+**标题**: Global burden of low vision and blindness due to AMD from 1990 to 2021 and projections for 2050
+- **期刊**: BMC Public Health (2024)
+- **DOI**: 10.1186/s12889-024-21047-x ✅
+- **引用**: 62次
+- **作者**: Zhang S, Ren J, Chai R, Yuan S
+- **主题**: AMD、全球负担、疾病流行病学
+- **OA**: ✅
+
+#### 9. 司美格鲁肽增加NAION风险
+**标题**: Once-weekly semaglutide doubles the five-year risk of NAION in a Danish cohort
+- **期刊**: Int J Retina Vitreous (2024)
+- **DOI**: 10.1186/s40942-024-00620-x ✅
+- **引用**: 59次
+- **作者**: Grauslund J, Abou Taha A, Molander LD, Kawasaki R
+- **主题**: NAION、司美格鲁肽、糖尿病、队列研究
+- **OA**: ✅
+
+#### 10. 神经假体接触镜监测眼压
+**标题**: Neuroprosthetic contact lens enabled sensorimotor system for point-of-care IOP monitoring
+- **期刊**: Nature Communications (2024)
+- **DOI**: 10.1038/s41467-024-49907-5 ✅
+- **引用**: 56次
+- **作者**: Liu W, Du Z, Duan Z, Li L
+- **主题**: 接触镜、眼压监测、神经假体
+- **OA**: ✅
+
+#### 11. 视神经鞘直径超声共识
+**标题**: Optic Nerve Sheath Diameter POCUS Quality Criteria Checklist: An International Consensus
+- **期刊**: Critical Care Medicine (2024)
+- **DOI**: 10.1097/ccm.0000000000006345 ✅
+- **引用**: 54次
+- **作者**: Hirzallah M, Lochner P, Hafeez MU, Lee AG
+- **主题**: 视神经、超声、颅内压
+- **OA**: ❌
+
+#### 12. OCT视网膜疾病分类
+**标题**: Boost diagnostic performance in retinal disease classification utilizing deep ensemble classifiers based on OCT
+- **期刊**: Multimedia Tools and Applications (2024)
+- **DOI**: 10.1007/s11042-024-19922-1 ✅
+- **引用**: 53次
+- **作者**: Khan US, Khan SUR
+- **主题**: OCT、深度学习、视网膜分类
+- **OA**: ❌
+
+#### 13. Aβ从脑到眼致视网膜变性
+**标题**: Transport of β-amyloid from brain to eye causes retinal degeneration in Alzheimer's disease
+- **期刊**: Journal of Experimental Medicine (2024)
+- **DOI**: 10.1084/jem.20240386 ✅
+- **引用**: 52次
+- **作者**: Cao Q, Yang SD, Wang X, Sun H
+- **主题**: 阿尔茨海默病、β-淀粉样蛋白、视网膜变性
+- **OA**: ✅
+
+---
+
