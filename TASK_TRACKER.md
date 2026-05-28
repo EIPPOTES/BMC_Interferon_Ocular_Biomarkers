@@ -1317,3 +1317,42 @@ System: [2026-04-09 16:00:31 GMT...
 
 ## 📅 每月维护 ...
 
+
+
+---
+
+## 🔄 近期项目状态 (自动检测) - 2026-05-26
+
+| 项目 | 检测状态 | 活动数 |
+|------|----------|--------|
+| 系统优化 | 已完成 | 10 |
+| 知识库构建 | 已完成 | 4 |
+| OCT-MDD论文 | 进行中 | 2 |
+
+### 详细活动
+
+**系统优化** (已完成):
+- [36m[sider][0m Detected OpenClaw version: 2026.5.7
+[36m[sider][0m Installing plugin chrome-openclaw-...
+- 插件已安装成功，但配置写入步骤因 OpenClaw CLI 版本匹配问题报错。让我用 gateway 工具来完成配置。...
+
+**知识库构建** (已完成):
+- [cron:7876fb5f-ba17-473b-bf6b-0fd3f459a857 眼科专业知识检索与知识库构建] # 眼科知识库维护（轻量版）
+
+执行眼科文献增量更新：
+1. 搜索OpenAlex...
+- # 眼科知识库更新日志
+
+## 2026-04-30 ✅ 定时增量检索完成
+- OpenAlex检索: 20篇 (最近7天眼科文献)
+- 高被引(>50): 0篇 (均为新发，0引用)
+- DOI验证...
+
+**OCT-MDD论文** (进行中):
+- # 眼科知识库增量更新报告
+**日期**: 2026-05-19 00:54 CST  
+**来源**: OpenAlex API  
+**概念**: Ophthalmology (C11848752...
+- ### 16. A Matching-Adjusted Comparison of Faricimab and Aflibercept 8 mg in nAMD
+- **DOI**: https://...
+
